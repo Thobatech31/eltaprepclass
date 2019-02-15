@@ -1,0 +1,26 @@
+  ' . (($campaign->quality_assurance == 'on') ? '
+                  
+                   <li ' . (($_GET['sup'] == 'qa' || $_GET['sup'] == 'add_qa_cat' || $_GET['sup'] == 'qa_questions' || $_GET['sup'] == 'add_qa') ? 'class="active selected"' : '') . ' >
+                   <a href="#"><i class="fa fa-columns icon-sidebar"></i>Quality Assurance</a>
+                   
+                   <ul class="submenu" ' . (($_GET['sup'] == 'qa' || $_GET['sup'] == 'add_qa_cat' || $_GET['sup'] == 'qa_questions' || $_GET['sup'] == 'add_qa') ? 'visible style="display: block;"' : '') . '>
+                   
+                       <li ' . (($_GET['sup'] == 'qa') ? 'class="active selected"' : '') . '>
+                                <a href="index.php?sup=qa">Manage Categories</a>
+                                
+                       </li>
+                       
+                       <li ' . (($_GET['sup'] == 'add_personnel') ? 'class="active selected"' : '') . '>
+                            <a href="index.php?sup=add_qa_cat">Add Category</a>
+                       </li>
+                       
+                       <li ' . (($_GET['sup'] == 'qa_questions') ? 'class="active selected"' : '') . '>
+                            <a href="index.php?sup=qa_questions">Manage Questions</a>
+                       </li>
+                       
+                       <li ' . (($_GET['sup'] == 'add_qa') ? 'class="active selected"' : '') . '>
+                            <a href="index.php?sup=add_qa">Add Question</a>
+                       </li>
+    
+                   </ul>
+               </li>
