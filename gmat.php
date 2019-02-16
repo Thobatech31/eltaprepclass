@@ -2,20 +2,8 @@
 <html lang="en">
     <head>
         <meta charset="utf-8">
-        <title>Stack Multipurpose HTML Template</title>
-        <meta name="viewport" content="width=device-width, initial-scale=1.0">
-        <meta name="description" content="Site Description Here">
-        <link href="css/bootstrap.css" rel="stylesheet" type="text/css" media="all" />
-        <link href="css/stack-interface.css" rel="stylesheet" type="text/css" media="all" />
-        <link href="css/socicon.css" rel="stylesheet" type="text/css" media="all" />
-        <link href="css/lightbox.min.css" rel="stylesheet" type="text/css" media="all" />
-        <link href="css/flickity.css" rel="stylesheet" type="text/css" media="all" />
-        <link href="css/iconsmind.css" rel="stylesheet" type="text/css" media="all" />
-        <link href="css/jquery.steps.css" rel="stylesheet" type="text/css" media="all" />
-        <link href="css/theme.css" rel="stylesheet" type="text/css" media="all" />
-        <link href="css/custom.css" rel="stylesheet" type="text/css" media="all" />
-        <link href="https://fonts.googleapis.com/css?family=Open+Sans:200,300,400,400i,500,600,700%7CMerriweather:300,300i" rel="stylesheet">
-        <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+        <title>GMAT</title>
+  <?php require('include/header.php');?>
     </head>
     <body class=" ">
         <a id="start"></a>
@@ -66,7 +54,7 @@
                             <!--end module-->
                             <div class="bar__module">
                              <div class="modal-instance">
-                                <a class="btn modal-trigger" href="#">
+                                <a class="btn modal-trigger" href="gmatReg.php">
                                     <span class="btn__text">
                                         GET A TUTOR
                                     </span>
@@ -290,12 +278,12 @@
                         <div class="col-sm-6">
                             <div class="cta">
                                 <h2>GMAT</h2>
-                                <p class="lead">
+                                <p>
                                     Get a Professional GMAT tutor to help with preparation for your GMAT exam and achieve success.
                                 </p>
                                 <a class="btn btn--primary type--uppercase" href="#">
                                     <span class="btn__text">
-                                        Apply Now
+                                        GET A TUTOR
                                     </span>
                                 </a>
                             </div>
@@ -526,25 +514,6 @@
                 <!--end of container-->
             </footer>
         </div>
-        <!--<div class="loader"></div>-->
-        <a class="back-to-top inner-link" href="#start" data-scroll-class="100vh:active">
-            <i class="stack-interface stack-up-open-big"></i>
-        </a>
-        <script src="js/jquery-3.1.1.min.js"></script>
-        <script src="js/flickity.min.js"></script>
-        <script src="js/easypiechart.min.js"></script>
-        <script src="js/parallax.js"></script>
-        <script src="js/typed.min.js"></script>
-        <script src="js/datepicker.js"></script>
-        <script src="js/isotope.min.js"></script>
-        <script src="js/ytplayer.min.js"></script>
-        <script src="js/lightbox.min.js"></script>
-        <script src="js/granim.min.js"></script>
-        <script src="js/jquery.steps.min.js"></script>
-        <script src="js/countdown.min.js"></script>
-        <script src="js/twitterfetcher.min.js"></script>
-        <script src="js/spectragram.min.js"></script>
-        <script src="js/smooth-scroll.min.js"></script>
-        <script src="js/scripts.js"></script>
+    <?php require('include/footer.php');?>
     </body>
 </html>
