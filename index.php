@@ -527,73 +527,37 @@
 			<h3 class="text-center">Meet our professional team</h3>
 			<div class="row text-center">
 				<div class="col-md-3 col-sm-6">
-						<div class="service-img-holder">
+						<a href="gmat.php" style="color: gray;" class="link-hover"><div class="service-img-holder">
+								<img src="assets/img/about.png" alt="Services">
+							</div>GMAT</a>
+
+				</div>
+
+				<div class="col-md-3 col-sm-6">
+					<a href="#" style="color: gray;" class="link-hover"><div class="service-img-holder">
 							<img src="assets/img/about.png" alt="Services">
-						</div>
-						<a href="#" style="color: gray;" class="link-hover">IELTS</a>
+						</div>SAT</a>
+
 					
 				</div>
 
 				<div class="col-md-3 col-sm-6">
-						<div class="service-img-holder">
-							<img src="assets/img/about.png" alt="Services">
-						</div>
-						<a href="#" style="color: gray;" class="link-hover">GRE</a>
-					
+
+						<a href="#" style="color: gray;" class="link-hover"><div class="service-img-holder">
+								<img src="assets/img/about.png" alt="Services">
+							</div>GRE</a>
+
 				</div>
 
 				<div class="col-md-3 col-sm-6">
-						<div class="service-img-holder">
-							<img src="assets/img/about.png" alt="Services">
-						</div>
-						<a href="#" style="color: gray;" class="link-hover"></a>
-					
-				</div>
-
-				<div class="col-md-3 col-sm-6">
-						<div class="service-img-holder">
-							<img src="assets/img/about.png" alt="Services">
-						</div>
-						<a href="#" style="color: gray;" class="link-hover">GMAT</a>
+						<a href="#" style="color: gray;" class="link-hover"><div class="service-img-holder">
+								<img src="assets/img/about.png" alt="Services">
+							</div>ICAN</a>
 					
 				</div>
 			</div>
 
-			<div class="row text-center" style="margin-top: 30px;">
-				<div class="col-md-3 col-sm-6">
-						<div class="service-img-holder">
-							<img src="assets/img/about.png" alt="Services">
-						</div>
-						<a href="#" style="color: gray;" class="link-hover">ICAN</a>
-					
-				</div>
 
-				<div class="col-md-3 col-sm-6">
-						<div class="service-img-holder">
-							<img src="assets/img/about.png" alt="Services">
-						</div>
-						<a href="#" style="color: gray;" class="link-hover">SAT Math</a>
-					
-				</div>
-				
-
-
-				<div class="col-md-3 col-sm-6">
-						<div class="service-img-holder">
-							<img src="assets/img/about.png" alt="Services">
-						</div>
-						<a href="#" style="color: gray;" class="link-hover">PMP</a>
-					
-				</div>
-
-				<div class="col-md-3 col-sm-6">
-						<div class="service-img-holder">
-							<img src="assets/img/about.png" alt="Services">
-						</div>
-						<a href="#" style="color: gray;" class="link-hover">ACCA</a>
-					
-				</div>
-			</div>
 		</div>
 	</div>
 <br/><br/><br/>
