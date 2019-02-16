@@ -521,39 +521,53 @@
 <main>
 
 
-	<div class="container">
+	<div class="container-fluid">
 		<div class="team pushtop-70">
 			<p class="pretitle text-center">OUR TEAM MEMBERS</p>
 			<h3 class="text-center">Meet our professional team</h3>
 			<div class="row text-center">
-				<div class="col-md-3 col-sm-6">
+				<div class="col-md-1 col-sm-6">
+
+				</div>
+
+				<div class="col-md-2 col-sm-6">
 						<a href="gmat.php" style="color: gray;" class="link-hover"><div class="service-img-holder">
 								<img src="assets/img/about.png" alt="Services">
 							</div>GMAT</a>
 
 				</div>
 
-				<div class="col-md-3 col-sm-6">
-					<a href="#" style="color: gray;" class="link-hover"><div class="service-img-holder">
+				<div class="col-md-2 col-sm-6">
+					<a href="sat.php" style="color: gray;" class="link-hover"><div class="service-img-holder">
 							<img src="assets/img/about.png" alt="Services">
 						</div>SAT</a>
 
 					
 				</div>
 
-				<div class="col-md-3 col-sm-6">
+				<div class="col-md-2 col-sm-6">
 
-						<a href="#" style="color: gray;" class="link-hover"><div class="service-img-holder">
+						<a href="gre.php" style="color: gray;" class="link-hover"><div class="service-img-holder">
 								<img src="assets/img/about.png" alt="Services">
 							</div>GRE</a>
 
 				</div>
 
-				<div class="col-md-3 col-sm-6">
-						<a href="#" style="color: gray;" class="link-hover"><div class="service-img-holder">
+				<div class="col-md-2 col-sm-6">
+						<a href="TOEFL.php" style="color: gray;" class="link-hover"><div class="service-img-holder">
 								<img src="assets/img/about.png" alt="Services">
-							</div>ICAN</a>
+							</div>TOEFL</a>
 					
+				</div>
+
+				<div class="col-md-2 col-sm-6">
+					<a href="TOEFL.php" style="color: gray;" class="link-hover"><div class="service-img-holder">
+							<img src="assets/img/about.png" alt="Services">
+						</div>TOEFL</a>
+
+				</div>
+				<div class="col-md-1 col-sm-6">
+
 				</div>
 			</div>
 
