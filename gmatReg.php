@@ -425,7 +425,7 @@
 											<div class="row">
 												<div class="col-md-6">
 													<label>Expected exam date</label>
-													<input type="text" name="target_score" placeholder="Enter Target Score" />
+													<input type="text" name="date" class="datepicker" placeholder="Choose a date" />
 												</div>
 
 												<div class="col-md-6">
@@ -641,7 +641,7 @@
 											<div class="row">
 												<div class="col-md-6">
 													<label>Start Date</label>
-													<input type="text" name="start_dat" placeholder="E" />
+													<input type="text" name="date" class="datepicker" placeholder="Choose a date" />
 												</div>
 
 												<div class="col-md-6">
@@ -677,7 +677,7 @@
 											</div><br/>
 										</div><br/>
 
-											<center><a href="#" class="btn btn-primary">Submit</a></center>
+										<a href="#" class="btn btn-primary" style="float: right;">Submit</a>
 									</section>
 								</div>
 							</form>
