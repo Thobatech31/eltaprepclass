@@ -30,6 +30,8 @@
         <link href="https://fonts.googleapis.com/css?family=Open+Sans:200,300,400,400i,500,600,700%7CMerriweather:300,300i" rel="stylesheet">
         <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
         <link rel="stylesheet" href="assets/lib/bootstrap/css/bootstrap.min.css">
+        		<script src="https://code.jquery.com/jquery-1.11.3.min.js"></script>
+
 
 <style type="text/css">
 	.g-signin2{
@@ -43,6 +45,19 @@
 
 
 </style>
+
+<script>
+			$(document).ready(function(){
+				$('#btnClear').click(function(){				
+					
+						/*Clear all input type="text" box*/
+						$('#form1 input[type="text"]').val('');
+						/*Clear textarea using id */
+						$('#form1 #txtAddress').val('');
+										
+				});
+			});
+		</script>
 	
 </head>
 <body>
@@ -133,9 +148,37 @@
 		</div>
 	</div>
 
+
+
+		<form id="form1">
+			<table border="0px">
+				<tr>
+					<td>Enter Name</td>
+					<td><input  type="text" value="hfjjkfrkj" id="txtName" style="width:200px;"/></td>
+				</tr>
+				<tr>
+					<td>Enter Age</td>
+					<td><input type="text" value="hfjjkfrkj" id="txtAge" style="width:50px;"/></td>
+				</tr>				
+				<tr>
+					<td>Enter Address</td>
+					<td><textarea  value="hfjjkfrkj"  id="txtAddress" cols="40" rows="5"></textarea></td>
+				</tr>
+				<tr>
+					<td></td>
+					<td>
+						<input type="button" id="btnSubmit" value="Submit"/>
+						<input type="button" id="btnClear" value="Clear"/>
+					</td>
+				</tr>				
+			</table>
+		</form>
+
 	
 
 </main>
+
+
 
 <script type="text/javascript">
 	function onSignIn(googleUser){

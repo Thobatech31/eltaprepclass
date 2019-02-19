@@ -98,14 +98,14 @@
 			<section>
 				<div class="container">
 					<div class="row">
-						<div class="col-sm-12 col-md-7">
+						<div class="col-sm-12 col-md-8">
 							<form>
 								<div class="wizard">
 									<h5>Exams details</h5>
 									<section style="overflow: auto;">
-										<div class="pos-vertical-center" style="padding-top: 30%;">
+										<div class="pos-vertical-center" style="padding-top: 20%;">
 
-											<p>LET US HELP YOU REACH THAT TARGET SCORE WITH OUR EXPERIENCED TUTORS</p>
+											<p style="font-size: 12px;">LET US HELP YOU REACH THAT TARGET SCORE WITH OUR EXPERIENCED TUTORS</p>
 
 
 											<div class="row">
@@ -426,6 +426,7 @@
 												<div class="col-md-6">
 													<label>Expected exam date</label>
 													<input type="text" name="date" class="datepicker" placeholder="Choose a date" />
+
 												</div>
 
 												<div class="col-md-6">
@@ -448,21 +449,21 @@
 													<div class="col-sm-3">
 														<div class="input-radio">
 															<span class="input__label">Speaking</span>
-															<input type="radio" name="Speaking" value="Speaking" />
+															<input type="radio" name="radio" value="Speaking" />
 															<label></label>
 														</div>
 													</div>
 													<div class="col-sm-3">
 														<div class="input-radio">
 															<span class="input__label">Listening</span>
-															<input id="radio-input-2" type="radio" name="Listening" value="Listening" />
+															<input id="radio-input-2" type="radio" name="radio" value="Listening" />
 															<label for="radio-input-2"></label>
 														</div>
 													</div>
 													<div class="col-sm-3">
 														<div class="input-radio">
 															<span class="input__label">Writing</span>
-															<input id="radio-input-3" type="radio" name="Writing" value="Writing" />
+															<input id="radio-input-3" type="radio" name="radio" value="Writing" />
 															<label for="radio-input-3"></label>
 														</div>
 													</div>
@@ -470,8 +471,8 @@
 													<div class="col-sm-3">
 														<div class="input-radio">
 															<span class="input__label">Reading</span>
-															<input id="radio-input-3" type="radio" name="Reading" value="Reading" />
-															<label for="radio-input-3"></label>
+															<input id="radio-input-4" type="radio" name="radio" value="Reading" />
+															<label for="radio-input-4"></label>
 														</div>
 													</div>
 												</div>
@@ -481,7 +482,7 @@
 
 
 									</section>
-									<h5>Personal/Contact information </h5>
+									<h5>Personal Information </h5>
 									<section>
 										<div class="pos-vertical-center">
 
@@ -601,35 +602,35 @@
 													<div class="col-sm-2">
 														<div class="input-radio">
 															<span class="input__label">Wednesday</span>
-															<input type="radio" name="Wednesday" value="Wednesday" />
+															<input type="radio" name="radio" value="Wednesday" />
 															<label></label>
 														</div>
 													</div>
 													<div class="col-sm-2">
 														<div class="input-radio">
 															<span class="input__label">Thursday</span>
-															<input type="radio" name="Thursday" value="Thursday" />
+															<input type="radio" name="radio" value="Thursday" />
 															<label></label>
 														</div>
 													</div>
 													<div class="col-sm-1">
 														<div class="input-radio">
 															<span class="input__label">Friday</span>
-															<input type="radio" name="Friday" value="Friday" />
+															<input type="radio" name="radio" value="Friday" />
 															<label></label>
 														</div>
 													</div>
 													<div class="col-sm-2">
 														<div class="input-radio">
 															<span class="input__label">Saturday</span>
-															<input type="radio" name="Saturday" value="Saturday" />
+															<input type="radio" name="radio" value="Saturday" />
 															<label></label>
 														</div>
 													</div>
 													<div class="col-sm-1">
 														<div class="input-radio">
 															<span class="input__label">Sunday</span>
-															<input type="radio" name="Sunday" value="Sunday" />
+															<input type="radio" name="radio" value="Sunday" />
 															<label></label>
 														</div>
 													</div>
@@ -690,7 +691,6 @@
       
         </div>
 
-<?php require('include/footer.php');
-?>
+		<?php require('include/footer.php');?>
     </body>
 </html>

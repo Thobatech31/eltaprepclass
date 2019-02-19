@@ -64,99 +64,19 @@
                                         <section class="unpad ">
                                             <div class="container">
                                                 <div class="row">
-                                                    <div class="col-sm-12 col-xs-12">
+													<div class="col-sm-4 col-xs-2">
+													</div>
+                                                    <div class="col-sm-4 col-xs-8">
                                                         <div class="boxed boxed--lg bg--white text-center feature">
                                                             <div class="modal-close modal-close-cross"></div>
-                                                            <h3>Get a Profdessional Tutor</h3>
-                                                         <p>Join us to connect with quality tutors and clients</p>
+                                                            <h6>Get a Profdessional Tutor</h6>
                                                             <div class="feature__body">
-                                                                <form>
-                                                                   <div class="row">
-                                                                        <div class="col-md-6">
-                                                                            <label style="float: left">First Name</label>
-                                                                            <input type="text" name="firstname" placeholder="Enter Your First Name" />
-                                                                        </div>
-                                                                        <div class="col-md-6">
-                                                                            <label style="float: left">Surname</label>
-                                                                            <input type="text" name="surname" placeholder="Enter Your Surname" />
-                                                                        </div>
-                                                                    </div>
-
-                                                                     <div class="row">
-                                                                        <div class="col-md-6">
-                                                                            <label style="float: left">Email</label>
-                                                                            <input type="text" name="email" placeholder="Enter Your Email" />
-                                                                        </div>
-
-                                                                         <div class="col-md-6">
-                                                                            <label style="float: left">Phone Number</label>
-                                                                            <input type="text" name="phone_no" placeholder="Enter Your Phone Number" />
-                                                                        </div>
-                                                                    
-                                                                    </div>
-
-                                                                    <div class="row">
-                                                                        <div class="col-md-6">
-                                                                            <label style="float: left">State of Residence</label>
-                                                                            <input type="text" name="phone_no" placeholder="Enter Your Phone Number" />
-                                                                        </div>
-
-                                                                        <div class="col-md-6">
-                                                                             <label style="float: left">Location</label>
-                                                                           <div class="input-select">
-                                                                                <select>
-                                                                                    <option selected="" value="Default">Select An Option</option>
-                                                                                    <option value="Male">Male</option>
-                                                                                    <option value="Female">Female</option>
-                                                                                </select>
-                                                                            </div>
-                                                                        </div>
-                                                                    </div>
-
-                                                                    <div class="row">
-                                                                        <div class="col-md-6">
-                                                                            <label style="float: left">what to ,earn</label>
-                                                                            <input type="text" name="phone_no" placeholder="Enter Your Phone Number" />
-                                                                        </div>
-
-                                                                        <div class="col-md-6">
-                                                                             <label style="float: left">Duration</label>
-                                                                           <div class="input-select">
-                                                                                <select>
-                                                                                    <option selected="" value="Default">Select An Option</option>
-                                                                                    <option value="Male">Male</option>
-                                                                                    <option value="Female">Female</option>
-                                                                                </select>
-                                                                            </div>
-                                                                        </div>
-                                                                    </div>
-
-
-
-                                                                       <div class="row">
-                                                                         <div class="col-md-6">
-                                                                                <label style="float: left">Coonfirm Password</label>
-                                                                                <input type="password" name="cpassword" placeholder="Re-enter Your Password" />
-                                                                            </div>
-                                                                            <div class="col-md-6">
-                                                                                <label style="float: left">Password</label>
-                                                                                <input type="Password" name="password" placeholder="Enter Your Password" />
-                                                                            </div>
-                                                                           
-                                                                        </div>
-                                                                        <br/>
-
-                                                                 <center> <a href="#" style="color: white;" class="btn btn--primary">Submit</a></center>
-                                                                </form>
-                                                                <span class="type--fine-print block">Dont have an account yet?
-                                                                    <a href="#">Create account</a>
-                                                                </span>
-                                                                <span class="type--fine-print block">Forgot your username or password?
-                                                                    <a href="#">Recover account</a>
-                                                                </span>
+																<a href="gmat.php" class="btn btn-primary">GMAT</a>
                                                             </div>
                                                         </div>
                                                     </div>
+													<div class="col-sm-4 col-xs-2">
+													</div>
                                                 </div>
                                                 <!--end of row-->
                                             </div>
@@ -309,7 +229,58 @@
                 </div>
                 <!--end of container-->
             </section>
-            <section class="switchable bg--secondary">
+			<section class="switchable switchable--switch bg--secondary">
+				<div class="container">
+					<div class="row">
+						<div class="col-sm-5 text-center">
+
+									<img alt="Image" class="border--round box-shadow-wide" src="img/education-4.jpg" />
+
+
+						</div>
+						<div class="col-sm-7 col-md-6">
+							<ol class="process-3">
+								<li class="process_item">
+									<div class="process__number">
+										<span>1</span>
+									</div>
+									<div class="process__body">
+										<h4>Launch Variant Page Builder</h4>
+										<p>
+											Stack is built with customization and ease-of-use at its core — whether you're a seasoned developer or just starting out.
+										</p>
+									</div>
+								</li>
+								<li class="process_item">
+									<div class="process__number">
+										<span>2</span>
+									</div>
+									<div class="process__body">
+										<h4>Build with interface blocks</h4>
+										<p>
+											Select from over 290 interface blocks, customise the look to build your perfect page.
+										</p>
+									</div>
+								</li>
+								<li class="process_item">
+									<div class="process__number">
+										<span>3</span>
+									</div>
+									<div class="process__body">
+										<h4>Export as pure HTML</h4>
+										<p>
+											Download your page as a semantic HTML document and easily make further customisations and additions in your editor.
+										</p>
+									</div>
+								</li>
+							</ol>
+						</div>
+					</div>
+					<!--end of row-->
+				</div>
+				<!--end of container-->
+			</section>
+          <!--  <section class="switchable bg--secondary">
                 <div class="container">
                     <div class="row">
                         <div class="col-sm-6">
@@ -322,9 +293,7 @@
                                         <p class="lead">
                                             Stack follows the BEM naming convention that focusses on logical code readability that is reflected in both the HTML and CSS. Interactive elements such as accordions and tabs follow the same markup patterns making rapid development easier for developers and beginners alike.
                                         </p>
-                                        <p class="lead">
-                                            Add to this the thoughtfully presented documentation, featuring code highlighting, snippets, class customizer explanation and you've got yourself one powerful value package.
-                                        </p>
+
                                     </div>
                                 </li>
                                 <li>
@@ -351,16 +320,16 @@
                                     </div>
                                 </li>
                             </ul>
-                            <!--end accordion-->
+
                         </div>
                         <div class="col-md-5 col-sm-6">
                             <img alt="Image" class="border--round box-shadow-wide" src="img/education-4.jpg" />
                         </div>
                     </div>
-                    <!--end of row-->
+
                 </div>
-                <!--end of container-->
-            </section>
+
+            </section>-->
             <section class="unpad">
                 <div class="row--gapless">
                     <div class="col-sm-4 col-xs-6">
@@ -377,7 +346,7 @@
                         <a href="#" class="block">
                             <div class="feature feature-7 boxed text-center imagebg" data-overlay="5">
                                 <div class="background-image-holder">
-                                    <img alt="background" src="img/education-6.jpg" />
+                                    <img alt="background" src="assets/img/about.png" />
                                 </div>
                                 <h4 class="pos-vertical-center">Current Students</h4>
                             </div>
@@ -387,7 +356,7 @@
                         <a href="#" class="block">
                             <div class="feature feature-7 boxed text-center imagebg" data-overlay="5">
                                 <div class="background-image-holder">
-                                    <img alt="background" src="img/education-7.jpg" />
+                                    <img alt="background" src="img/education-5.jpg" />
                                 </div>
                                 <h4 class="pos-vertical-center">Alumni</h4>
                             </div>

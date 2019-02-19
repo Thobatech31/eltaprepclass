@@ -391,35 +391,7 @@
 		<div class="widget widget1 text-center drag-this-up">
 			<h4 class="pretitle">Who we are</h4>
 			<center><p>TOBA helps you connect with qualified tutors in your area to master<br/> the subjects, skills and exams that matter to you</p></center>
-			<div class="row" style="margin-top: 20px;">
-				<div class="col-md-4">
-					<div class="image-holder">
-						<img src="assets/img/banner-1-1.png" alt="Banner image">
-					</div>
-					<h6>Tell us where you need help.</h6>
-					<p>
-						Connect with professionals in all subjects and skills you might want to learn.
-					</p>
-				</div>
-				<div class="col-md-4">
-					<div class="image-holder">
-						<img src="assets/img/banner-1-2.png" alt="Banner image">
-					</div>
-					<h6>Tutor Matching</h6>
-					<p>
-						We offer you the perfect tutor to work with your qualifications and requirements.
-					</p>
-				</div>
-				<div class="col-md-4">
-					<div class="image-holder">
-						<img src="assets/img/banner-1-3.png" alt="Banner image">
-					</div>
-					<h6>Meet Your Tutor</h6>
-					<p>
-						Take a convenient time to meet your tutor and start your lessons.
-					</p>
-				</div>
-			</div>
+
 		</div>
 	</div>
 
@@ -530,12 +502,14 @@
 
 				</div>
 
-				<div class="col-md-2 col-sm-6">
-						<a href="gmat.php" style="color: gray;" class="link-hover"><div class="service-img-holder">
-								<img src="assets/img/about.png" alt="Services">
+				<div class="col-md-2 col-sm-6" id="textOverImage">
+						<a href="gmat.php" style="color: gray; " class="link-hover"><div class="service-img-holder">
+								<img src="assets/img/about.png" alt="Services" style>
 							</div>GMAT</a>
 
 				</div>
+				
+
 
 				<div class="col-md-2 col-sm-6">
 					<a href="sat.php" style="color: gray;" class="link-hover"><div class="service-img-holder">
