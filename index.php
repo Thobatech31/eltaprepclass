@@ -24,7 +24,39 @@
         <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
         <link rel="stylesheet" href="assets/lib/bootstrap/css/bootstrap.min.css">
 
+<style>
+#post{
+	position: relative;
+	cursor: pointer;
+}
 
+#post:hover .post-s{
+	width: 210px;
+}
+
+	#post img{
+		display: block;
+	}
+
+	.post-s{
+		width: 0;
+		height: 140px;
+		background: darkblue;
+		position: absolute;
+		top: 0;
+		display: flex;
+		justify-content: center;
+		align-items: center;
+		overflow: hidden;
+		transition: 0.7s ease;
+	}
+	.post-s p{
+		color: white;
+font-size: 9px;
+
+		padding: 10px 30px;
+	}
+</style>
 	
 </head>
 <body class=" " data-smooth-scroll-offset='180'>
@@ -55,7 +87,7 @@
                     <div class="row">
                         <div class="col-md-1 col-sm-2 hidden-xs">
                             <div class="bar__module">
-                                <a href="index.html">
+                                <a href="index.php">
                                     <img class="logo logo-dark" alt="logo" src="img/logo-dark.png" />
                                     <img class="logo logo-light" alt="logo" src="img/logo-light.png" />
                                 </a>
@@ -68,124 +100,19 @@
 
                                  <a href="#">
                                  	 <i class="socicon socicon-instagram icon icon--xs"></i>
-                                    <span class="btn__text" style="color: white; font-size: 15px; margin-left: 10px;">
-                                       08162977243
+                                    <span class="btn-primary" style="color: white; font-size: 15px; margin-left: 10px; border-radius: 7px;">
+                                       +2348162977243
                                     </span>
                                 </a>
                             </div>
                             <!--end module-->
                             <div class="bar__module">
-                             <div class="modal-instance">
-                                <a class="btn modal-trigger" href="#">
-                                    <span class="btn__text">
+
+                                <a class="btn btn-primary" href="#GetTutor">
+                                    <span class="btn__text" style="color:white">
                                         GET A TUTOR
                                     </span>
                                 </a>
-                                <div class="modal-container">
-                                    <div class="modal-content">
-                                        <section class="unpad ">
-                                            <div class="container">
-                                                <div class="row">
-                                                    <div class="col-sm-12 col-xs-12">
-                                                        <div class="boxed boxed--lg bg--white text-center feature">
-                                                            <div class="modal-close modal-close-cross"></div>
-                                                            <h3>Get a Profdessional Tutor</h3>
-                                                       	 <p>Join us to connect with quality tutors and clients</p>
-                                                            <div class="feature__body">
-                                                                <form>
-                                                                   <div class="row">
-	                                                                    <div class="col-md-6">
-	                                                                        <label style="float: left">First Name</label>
-	                                                                        <input type="text" name="firstname" placeholder="Enter Your First Name" />
-	                                                                    </div>
-	                                                                    <div class="col-md-6">
-	                                                                        <label style="float: left">Surname</label>
-	                                                                        <input type="text" name="surname" placeholder="Enter Your Surname" />
-	                                                                    </div>
-	                                                            	</div>
-
-	                                                            	 <div class="row">
-	                                                                    <div class="col-md-6">
-	                                                                        <label style="float: left">Email</label>
-	                                                                        <input type="text" name="email" placeholder="Enter Your Email" />
-	                                                                    </div>
-
-	                                                                     <div class="col-md-6">
-	                                                                        <label style="float: left">Phone Number</label>
-	                                                                        <input type="text" name="phone_no" placeholder="Enter Your Phone Number" />
-	                                                                    </div>
-		                                                            
-		                                                            </div>
-
-	                                                            	<div class="row">
-	                                                                    <div class="col-md-6">
-	                                                                        <label style="float: left">State of Residence</label>
-	                                                                        <input type="text" name="phone_no" placeholder="Enter Your Phone Number" />
-	                                                                    </div>
-
-	                                                                    <div class="col-md-6">
-	                                                                         <label style="float: left">Location</label>
-	                                                                       <div class="input-select">
-	                                                                            <select>
-	                                                                                <option selected="" value="Default">Select An Option</option>
-	                                                                                <option value="Male">Male</option>
-	                                                                                <option value="Female">Female</option>
-	                                                                            </select>
-	                                                                        </div>
-	                                                                    </div>
-	                                                            	</div>
-
-	                                                            	<div class="row">
-	                                                                    <div class="col-md-6">
-	                                                                        <label style="float: left">what to ,earn</label>
-	                                                                        <input type="text" name="phone_no" placeholder="Enter Your Phone Number" />
-	                                                                    </div>
-
-	                                                                    <div class="col-md-6">
-	                                                                         <label style="float: left">Duration</label>
-	                                                                       <div class="input-select">
-	                                                                            <select>
-	                                                                                <option selected="" value="Default">Select An Option</option>
-	                                                                                <option value="Male">Male</option>
-	                                                                                <option value="Female">Female</option>
-	                                                                            </select>
-	                                                                        </div>
-	                                                                    </div>
-	                                                            	</div>
-
-
-
-		                                                               <div class="row">
-		                                                                 <div class="col-md-6">
-		                                                                        <label style="float: left">Coonfirm Password</label>
-		                                                                        <input type="password" name="cpassword" placeholder="Re-enter Your Password" />
-		                                                                    </div>
-		                                                                    <div class="col-md-6">
-		                                                                        <label style="float: left">Password</label>
-		                                                                        <input type="Password" name="password" placeholder="Enter Your Password" />
-		                                                                    </div>
-		                                                                   
-		                                                            	</div>
-		                                                            	<br/>
-
-                                                                 <center> <a href="#" style="color: white;" class="btn btn--primary">Submit</a></center>
-                                                                </form>
-                                                                <span class="type--fine-print block">Dont have an account yet?
-                                                                    <a href="#">Create account</a>
-                                                                </span>
-                                                                <span class="type--fine-print block">Forgot your username or password?
-                                                                    <a href="#">Recover account</a>
-                                                                </span>
-                                                            </div>
-                                                        </div>
-                                                    </div>
-                                                </div>
-                                                <!--end of row-->
-                                            </div>
-                                            <!--end of container-->
-                                        </section>
-                                    </div>
-                                </div>
                             </div>
                             <!--end of modal instance-->
                                 
@@ -328,7 +255,7 @@
 
 			                             <a class="btn btn--primary type--uppercase">
 			                                <span class="btn__text">
-			                                    GRE
+			                                    TOEFL
 			                                </span>
 			                            </a>
 			                            <a class="btn btn--primary type--uppercase">
@@ -336,23 +263,6 @@
 			                                    GMAT
 			                                </span>
 			                            </a>
-			                            <a class="btn btn--primary type--uppercase">
-			                                <span class="btn__text">
-			                                   SAT
-			                                </span>
-			                            </a>
-
-			                              <a class="btn btn--primary type--uppercase">
-			                                <span class="btn__text">
-			                                    GRE
-			                                </span>
-			                            </a>
-
-			                          
-
-			                           
-                           
-             
                         		</div>
                             </div>
                             <!--end of row-->
@@ -390,7 +300,9 @@
 	<div class="container">
 		<div class="widget widget1 text-center drag-this-up">
 			<h4 class="pretitle">Who we are</h4>
-			<center><p>TOBA helps you connect with qualified tutors in your area to master<br/> the subjects, skills and exams that matter to you</p></center>
+			<center><p>We help African students who wish to study abroad get the right information
+					in other to access scholarship opportunities. Getting a scholarship to study in Top universities abroad is easier than you think
+					</p></center>
 
 		</div>
 	</div>
@@ -398,16 +310,15 @@
 	<div class="container">
 		<div class="widget widget1 text-center drag-this-up">
 			<h4 class="pretitle">Getting a Professional Home Tutor is easier than you think</h4>
-			<center><p>TOBA helps you connect with qualified tutors in your area to master<br/> the subjects, skills and exams that matter to you</p></center>
+			<center><p>Travcut tutor helps you bring your dreams to reality by providing you with the right<br/> assistance to ace your prep examinations.</p></center>
 			<div class="row" style="margin-top: 20px;">
 				<div class="col-md-4">
 					<div class="image-holder">
 						<img src="assets/img/banner-1-1.png" alt="Banner image">
 					</div>
-					<h6>Tell us where you need help.</h6>
+					<h6>Tell us your dreams.</h6>
 					<p>
-	Connect with professionals in all subjects and skills you might want to learn.					
-	</p>
+						Undergo counselling with professionals and let them tell you what you need to do to achieve that dream of yours.	</p>
 				</div>
 				<div class="col-md-4">
 					<div class="image-holder">
@@ -415,17 +326,15 @@
 					</div>
 					<h6>Tutor Matching</h6>
 					<p>
-						We offer you the perfect tutor to work with your qualifications and requirements.
-					</p>
+						We tell you the required exam to sit for and match you with an expert tutor to help you get your target score.					</p>
 				</div>
 				<div class="col-md-4">
 					<div class="image-holder">
 						<img src="assets/img/banner-1-3.png" alt="Banner image">
 					</div>
-					<h6>Meet Your Tutor</h6>
+					<h6>Admission Counselling</h6>
 					<p>
-						Take a convenient time to meet your tutor and start your lessons.
-					</p>
+						We link you to internal admission counsellors who can help you with your process.					</p>
 				</div>
 			</div>
 		</div>
@@ -441,11 +350,10 @@
 					</div>
 					<div class="col-md-6 drag-this-right">
 						<p class="pretitle">MAIN APPLICATION FEATURES</p>
-						<h2>Get your child a home tutor</h2>
+						<h3>Learn in the environment of your choice</h3>
 
 						<p class="maintext">
-							Are you satisfied with your child's academic performance? Do you think he / she can do better academically? Do you need a competent home tutor to help shape the academic performance of your child? If so, get your child a home tutor today and see him / her move from average to excellent. 
-						</p>
+							Do you feel you need help to boost your performance in your prep        examination? And you want it done in the comfort of your home? If so Travcut Tutor gives you the        opportunity to receive expert tutoring services by our tutors who are very effective and affordable and       can help you reach your target score.						</p>
 
 
 						<p class="maintext">
@@ -463,7 +371,7 @@
 		<div class="container">
 			<div class="widget testimonials text-center drag-this-up pushtop-0">
 				<p class="pretitle">CLIENT TESTIMONIALS</p>
-				<h3>What our customers say</h3>
+				<h4>Do not let your prep exam stop you from getting that scholarship</h4>
 				<div class="testimonials-slick">
 					<div class="testimonial">
 						<img src="http://via.placeholder.com/96x96" alt="Testimonial avatar" class="img-round"> 
@@ -490,7 +398,7 @@
 		</div>
 	</div>
 
-<main>
+<main id="GetTutor">
 
 
 	<div class="container-fluid">
@@ -502,47 +410,74 @@
 
 				</div>
 
-				<div class="col-md-2 col-sm-6" id="textOverImage">
+				<div class="col-md-2 col-sm-6" id="post">
 						<a href="gmat.php" style="color: gray; " class="link-hover"><div class="service-img-holder">
 								<img src="assets/img/about.png" alt="Services" style>
-							</div>GMAT</a>
+							</div>GMAT
 
-				</div>
-				
+					<div class="post-s">
+						<p>Get 740+ and get the opportunity to school in top business schools like Harvard, Yale and NYU.</p>
 
+					</div></a>
 
-				<div class="col-md-2 col-sm-6">
-					<a href="sat.php" style="color: gray;" class="link-hover"><div class="service-img-holder">
-							<img src="assets/img/about.png" alt="Services">
-						</div>SAT</a>
-
-					
-				</div>
-
-				<div class="col-md-2 col-sm-6">
-
-						<a href="gre.php" style="color: gray;" class="link-hover"><div class="service-img-holder">
-								<img src="assets/img/about.png" alt="Services">
-							</div>GRE</a>
 
 				</div>
 
-				<div class="col-md-2 col-sm-6">
-						<a href="TOEFL.php" style="color: gray;" class="link-hover"><div class="service-img-holder">
-								<img src="assets/img/about.png" alt="Services">
-							</div>TOEFL</a>
-					
-				</div>
+				<div class="col-md-2 col-sm-6" id="post">
+					<a href="sat.php" style="color: gray; " class="link-hover"><div class="service-img-holder">
+							<img src="assets/img/about.png" alt="Services" style>
+						</div>SAT
 
-				<div class="col-md-2 col-sm-6">
-					<a href="TOEFL.php" style="color: gray;" class="link-hover"><div class="service-img-holder">
-							<img src="assets/img/about.png" alt="Services">
-						</div>TOEFL</a>
+						<div class="post-s">
+							<p>With a SAT score of 2100+ you can qualify for a fully funded scholarships into universities like ……..</p>
 
-				</div>
-				<div class="col-md-1 col-sm-6">
+						</div></a>
+
 
 				</div>
+
+
+				<div class="col-md-2 col-sm-6" id="post">
+					<a href="gre.php" style="color: gray; " class="link-hover"><div class="service-img-holder">
+							<img src="assets/img/about.png" alt="Services" style>
+						</div>GRE
+
+						<div class="post-s">
+							<p>With a GRE score of 2100+ you can qualify for assistantships programs which can involve free tuition and sometimes a monthly stipend.</p>
+
+						</div></a>
+
+
+				</div>
+
+				<div class="col-md-2 col-sm-6" id="post">
+					<a href="toefl.php" style="color: gray; " class="link-hover"><div class="service-img-holder">
+							<img src="assets/img/about.png" alt="Services" style>
+						</div>TOEFL
+
+						<div class="post-s">
+							<p>Did you think TOEFL was just to check your English proficiency level? With a TOEFL score of 100+ you can qualify for academic scholarships.</p>
+
+						</div></a>
+
+
+				</div>
+
+
+				<div class="col-md-2 col-sm-6" id="post">
+					<a href="ican.php" style="color: gray; " class="link-hover"><div class="service-img-holder">
+							<img src="assets/img/about.png" alt="Services" style>
+						</div>ICAN
+
+						<div class="post-s">
+							<p>Get 740+ and get the opportunity to school in top business schools like Harvard, Yale and NYU.</p>
+
+						</div></a>
+
+
+				</div>
+
+
 			</div>
 
 
@@ -556,15 +491,16 @@
 			<div class="row">
 				<div class="col-md-4 col-sm-6">
 					<h6><i class="fa fa-heart-o fa-lg grad-1" aria-hidden="true"></i> User-friendly experiences</h6>
-					<p>Consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolor erat, sed diam voluptua.</p>
+					<p>With over 1000+ scholarship opportunities in our database,
+						we provide information on scholarships that suit your need and help identify the necessary requirement</p>
 				</div>
 				<div class="col-md-4 col-sm-6">
 					<h6><i class="fa fa-bar-chart fa-lg grad-1" aria-hidden="true"></i> Simple live statistics</h6>
-					<p>Consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolor erat, sed diam voluptua.</p>
+					<p>Based on your prep exam requirement we match you with a tutor that can help you ace your target score..</p>
 				</div>
 				<div class="col-md-4 col-sm-6">
 					<h6><i class="fa fa-copy fa-lg grad-1" aria-hidden="true"></i> Multiple cashboard options</h6>
-					<p>Consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolor erat, sed diam voluptua.</p>
+					<p>Link you with internal admission counsellors who have worked with numerous students</p>
 				</div>
 				<div class="col-md-4 col-sm-6">
 					<h6><i class="fa fa-anchor fa-lg grad-1" aria-hidden="true"></i> Eye-catching design</h6>
