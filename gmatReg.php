@@ -739,8 +739,20 @@
 									<div class="input-select">
 										<select>
 											<option selected="" value="Default">Select An Option</option>
-											<option value="8am To 7pm">8am To 7pm</option>
-											<option value="9am To 7pm">9am To 7pm</option>
+											<option value="8am">8am</option>
+											<option value="9am">9am</option>
+											<option value="10am">10am</option>
+											<option value="11am">11am</option>
+											<option value="12pm">12pm</option>
+											<option value="1pm">1pm</option>
+											<option value="2pm">2pm</option>
+											<option value="3pm">3pm</option>
+											<option value="4pm">4pm</option>
+											<option value="5pm">5pm</option>
+											<option value="6pm">6pm</option>
+											<option value="7pm">7pm</option>
+											<option value="8pm">8pm</option>
+											<option value="9pm">9pm</option>
 										</select>
 									</div>
 								</div>
