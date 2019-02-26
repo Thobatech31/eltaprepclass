@@ -260,7 +260,7 @@ font-size: 9px;
 			                            </a>
 			                            <a class="btn btn--primary type--uppercase">
 			                                <span class="btn__text">
-			                                    GMAT
+			                                    IELTS
 			                                </span>
 			                            </a>
                         		</div>
@@ -374,24 +374,31 @@ font-size: 9px;
 				<h4>Do not let your prep exam stop you from getting that scholarship</h4>
 				<div class="testimonials-slick">
 					<div class="testimonial">
-						<img src="http://via.placeholder.com/96x96" alt="Testimonial avatar" class="img-round"> 
-						<p>“ Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis uip exconsequat. “</p>
-						<p class="testimonial-name">Jema Girson</p>
+						<img src="http://via.placeholder.com/96x96" alt="Testimonial avatar" class="img-round">
+
+						<p>With a GRE score of 2100+ you can qualify for assistantships programs which can involve free tuition and sometimes a monthly stipend.
+						</p>
+						<p class="testimonial-name">GRE</p>
 					</div>
 					<div class="testimonial">
 						<img src="http://via.placeholder.com/96x96" alt="Testimonial avatar" class="img-round"> 
-						<p>“ Nam liber tempor cum soluta nobis eleifend option congue nihil imperdiet doming id quo nostrp ex ea commodo consequat. “</p>
-						<p class="testimonial-name">Johnson Paul</p>
+						<p>
+							With a SAT score of 2100+ you can qualify for a fully funded scholarships into universities like ……..
+						</p>
+						<p class="testimonial-name">SAT</p>
 					</div>
 					<div class="testimonial">
 						<img src="http://via.placeholder.com/96x96" alt="Testimonial avatar" class="img-round"> 
-						<p>“ Nam liber tempor cum soluta nobis eleifend option congued quo nostrp ex ea commodo consequat. “</p>
-						<p class="testimonial-name">Gema Girson</p>
+						<p>
+							Did you think TOEFL was just to check your English proficiency level? With a TOEFL score of 100+
+							you can qualify for academic scholarships
+						</p>
+						<p class="testimonial-name">TOEFL</p>
 					</div>
 					<div class="testimonial">
 						<img src="http://via.placeholder.com/96x96" alt="Testimonial avatar" class="img-round"> 
-						<p>“ Nam liber tempor cum soluta nobis eleifend option congue nihil imperdiet doming id quo nostrp ex ea commodo consequat. “</p>
-						<p class="testimonial-name">Johnson Paul</p>
+						<p>Get 740+ and get the opportunity to school in top business schools like Harvard, Yale and NYU.</p>
+						<p class="testimonial-name">GMAT</p>
 					</div>
 				</div>
 			</div>
@@ -467,7 +474,7 @@ font-size: 9px;
 				<div class="col-md-2 col-sm-6" id="post">
 					<a href="ican.php" style="color: gray; " class="link-hover"><div class="service-img-holder">
 							<img src="assets/img/about.png" alt="Services" style>
-						</div>ICAN
+						</div>IELTS
 
 						<div class="post-s">
 							<p>Get 740+ and get the opportunity to school in top business schools like Harvard, Yale and NYU.</p>
