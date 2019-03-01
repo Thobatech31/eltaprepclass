@@ -41,7 +41,7 @@
 	.post-s{
 		width: 0;
 		height: 140px;
-		background: darkblue;
+background-color: white;
 		position: absolute;
 		top: 0;
 		display: flex;
@@ -51,10 +51,16 @@
 		transition: 0.7s ease;
 	}
 	.post-s p{
-		color: white;
-font-size: 9px;
+		color: black;
+		font-weight: bold;
+font-size: 12px;
 
 		padding: 10px 30px;
+	}
+	#header{
+		color:#0276FD;
+		font-weight: bold;
+		font-size: 20px;
 	}
 </style>
 	
@@ -229,7 +235,7 @@ font-size: 9px;
                             <div class="row">
                                 <div class="col-sm-12">
                             
-			                            <h3 style="margin-top: 140px;">
+			                            <h3 style="margin-top: 80px;">
 			                                More than 1.5 Million Students Have Said Hello to Stress-Free Studying
 			                            </h3>
 
@@ -299,7 +305,7 @@ font-size: 9px;
 <main class="homepage">
 	<div class="container">
 		<div class="widget widget1 text-center drag-this-up">
-			<h4 class="pretitle">Who we are</h4>
+			<h4 class="pretitle" id="header">Who we are</h4>
 			<center><p>We help African students who wish to study abroad get the right information
 					in other to access scholarship opportunities. Getting a scholarship to study in Top universities abroad is easier than you think
 					</p></center>
@@ -309,7 +315,7 @@ font-size: 9px;
 
 	<div class="container">
 		<div class="widget widget1 text-center drag-this-up">
-			<h4 class="pretitle">Getting a Professional Home Tutor is easier than you think</h4>
+			<h4 class="pretitle" id="header">Getting a Professional Home Tutor is easier than you think</h4>
 			<center><p>Travcut tutor helps you bring your dreams to reality by providing you with the right<br/> assistance to ace your prep examinations.</p></center>
 			<div class="row" style="margin-top: 20px;">
 				<div class="col-md-4">
@@ -349,8 +355,8 @@ font-size: 9px;
 						<img src="assets/img/about.png" class="img-fluid img-dashboard" alt="Widget image">
 					</div>
 					<div class="col-md-6 drag-this-right">
-						<p class="pretitle">MAIN APPLICATION FEATURES</p>
-						<h3>Learn in the environment of your choice</h3>
+						<p class="pretitle" id="header">MAIN APPLICATION FEATURES</p>
+						<h5>Learn in the environment of your choice</h5>
 
 						<p class="maintext">
 							Do you feel you need help to boost your performance in your prep        examination? And you want it done in the comfort of your home? If so Travcut Tutor gives you the        opportunity to receive expert tutoring services by our tutors who are very effective and affordable and       can help you reach your target score.						</p>
@@ -370,36 +376,36 @@ font-size: 9px;
 	<div class="testimonials-bg pushtop-0" style="background-image: url('assets/img/testimonials.png'); margin-top: -150px;">
 		<div class="container">
 			<div class="widget testimonials text-center drag-this-up pushtop-0">
-				<p class="pretitle">CLIENT TESTIMONIALS</p>
-				<h4>Do not let your prep exam stop you from getting that scholarship</h4>
+				<p class="pretitle" id="header">CLIENT TESTIMONIALS</p>
+				<h5>Do not let your prep exam stop you from getting that scholarship</h5>
 				<div class="testimonials-slick">
-					<div class="testimonial">
-						<img src="http://via.placeholder.com/96x96" alt="Testimonial avatar" class="img-round">
+							<div class="testimonial">
+								<img src="http://via.placeholder.com/96x96" alt="Testimonial avatar" class="img-round">
 
-						<p>With a GRE score of 2100+ you can qualify for assistantships programs which can involve free tuition and sometimes a monthly stipend.
-						</p>
-						<p class="testimonial-name">GRE</p>
-					</div>
-					<div class="testimonial">
-						<img src="http://via.placeholder.com/96x96" alt="Testimonial avatar" class="img-round"> 
-						<p>
-							With a SAT score of 2100+ you can qualify for a fully funded scholarships into universities like ……..
-						</p>
-						<p class="testimonial-name">SAT</p>
-					</div>
-					<div class="testimonial">
-						<img src="http://via.placeholder.com/96x96" alt="Testimonial avatar" class="img-round"> 
-						<p>
-							Did you think TOEFL was just to check your English proficiency level? With a TOEFL score of 100+
-							you can qualify for academic scholarships
-						</p>
-						<p class="testimonial-name">TOEFL</p>
-					</div>
-					<div class="testimonial">
-						<img src="http://via.placeholder.com/96x96" alt="Testimonial avatar" class="img-round"> 
-						<p>Get 740+ and get the opportunity to school in top business schools like Harvard, Yale and NYU.</p>
-						<p class="testimonial-name">GMAT</p>
-					</div>
+								<p>With a GRE score of 2100+ you can qualify for assistantships programs which can involve free tuition and sometimes a monthly stipend.
+								</p>
+								<p class="testimonial-name">GRE</p>
+							</div>
+							<div class="testimonial">
+								<img src="http://via.placeholder.com/96x96" alt="Testimonial avatar" class="img-round">
+								<p>
+									With a SAT score of 2100+ you can qualify for a fully funded scholarships into universities like ……..
+								</p>
+								<p class="testimonial-name">SAT</p>
+							</div>
+							<div class="testimonial">
+								<img src="http://via.placeholder.com/96x96" alt="Testimonial avatar" class="img-round">
+								<p>
+									Did you think TOEFL was just to check your English proficiency level? With a TOEFL score of 100+
+									you can qualify for academic scholarships
+								</p>
+								<p class="testimonial-name">TOEFL</p>
+							</div>
+							<div class="testimonial">
+								<img src="http://via.placeholder.com/96x96" alt="Testimonial avatar" class="img-round">
+								<p>Get 740+ and get the opportunity to school in top business schools like Harvard, Yale and NYU.</p>
+								<p class="testimonial-name">GMAT</p>
+							</div>
 				</div>
 			</div>
 		</div>
@@ -410,8 +416,8 @@ font-size: 9px;
 
 	<div class="container-fluid">
 		<div class="team pushtop-70">
-			<p class="pretitle text-center">OUR TEAM MEMBERS</p>
-			<h3 class="text-center">Meet our professional team</h3>
+			<p class="pretitle text-center" id="header">OUR TEAM MEMBERS</p>
+			<h5 class="text-center">Meet our professional team</h5>
 			<div class="row text-center">
 				<div class="col-md-1 col-sm-6">
 
@@ -420,7 +426,7 @@ font-size: 9px;
 				<div class="col-md-2 col-sm-6" id="post">
 						<a href="gmat.php" style="color: gray; " class="link-hover"><div class="service-img-holder">
 								<img src="assets/img/about.png" alt="Services" style>
-							</div>GMAT
+							</div><p style="color:#0276FD;">GMAT</p>
 
 					<div class="post-s">
 						<p>Get 740+ and get the opportunity to school in top business schools like Harvard, Yale and NYU.</p>
@@ -433,7 +439,7 @@ font-size: 9px;
 				<div class="col-md-2 col-sm-6" id="post">
 					<a href="sat.php" style="color: gray; " class="link-hover"><div class="service-img-holder">
 							<img src="assets/img/about.png" alt="Services" style>
-						</div>SAT
+						</div><p style="color:#0276FD;">SAT</p>
 
 						<div class="post-s">
 							<p>With a SAT score of 2100+ you can qualify for a fully funded scholarships into universities like ……..</p>
@@ -447,7 +453,7 @@ font-size: 9px;
 				<div class="col-md-2 col-sm-6" id="post">
 					<a href="gre.php" style="color: gray; " class="link-hover"><div class="service-img-holder">
 							<img src="assets/img/about.png" alt="Services" style>
-						</div>GRE
+						</div><p style="color:#0276FD;">GRE</p>
 
 						<div class="post-s">
 							<p>With a GRE score of 2100+ you can qualify for assistantships programs which can involve free tuition and sometimes a monthly stipend.</p>
@@ -460,7 +466,7 @@ font-size: 9px;
 				<div class="col-md-2 col-sm-6" id="post">
 					<a href="toefl.php" style="color: gray; " class="link-hover"><div class="service-img-holder">
 							<img src="assets/img/about.png" alt="Services" style>
-						</div>TOEFL
+						</div><p style="color:#0276FD;">TOEFL</p>
 
 						<div class="post-s">
 							<p>Did you think TOEFL was just to check your English proficiency level? With a TOEFL score of 100+ you can qualify for academic scholarships.</p>
@@ -474,7 +480,7 @@ font-size: 9px;
 				<div class="col-md-2 col-sm-6" id="post">
 					<a href="ican.php" style="color: gray; " class="link-hover"><div class="service-img-holder">
 							<img src="assets/img/about.png" alt="Services" style>
-						</div>IELTS
+						</div><p style="color:#0276FD;">IELTS</p>
 
 						<div class="post-s">
 							<p>Get 740+ and get the opportunity to school in top business schools like Harvard, Yale and NYU.</p>
@@ -493,8 +499,8 @@ font-size: 9px;
 <br/><br/><br/>
 	<div class="about4" >
 		<div class="container">
-			<p class="pretitle text-center">WHAT WE DO</p>
-			<h3 class="text-center">Our service overview</h3>
+			<p class="pretitle text-center" id="header">WHAT WE DO</p>
+			<h5 class="text-center">Our service overview</h5>
 			<div class="row">
 				<div class="col-md-4 col-sm-6">
 					<h6><i class="fa fa-heart-o fa-lg grad-1" aria-hidden="true"></i> User-friendly experiences</h6>
@@ -509,26 +515,15 @@ font-size: 9px;
 					<h6><i class="fa fa-copy fa-lg grad-1" aria-hidden="true"></i> Multiple cashboard options</h6>
 					<p>Link you with internal admission counsellors who have worked with numerous students</p>
 				</div>
-				<div class="col-md-4 col-sm-6">
-					<h6><i class="fa fa-anchor fa-lg grad-1" aria-hidden="true"></i> Eye-catching design</h6>
-					<p>Consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolor erat, sed diam voluptua.</p>
-				</div>
-				<div class="col-md-4 col-sm-6">
-					<h6><i class="fa fa-flag-o fa-lg grad-1" aria-hidden="true"></i> Awesome technologies</h6>
-					<p>Consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolor erat, sed diam voluptua.</p>
-				</div>
-				<div class="col-md-4 col-sm-6">
-					<h6><i class="fa fa-compass fa-lg grad-1" aria-hidden="true"></i> Improving updates</h6>
-					<p>Consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolor erat, sed diam voluptua.</p>
-				</div>
+
 			</div>
 		</div>
 	</div>
 
 	<div class="container">
 		<div class="widget partners drag-this-up text-center pushtop-70">
-			<p class="pretitle">OUR BUSINESS PARTNERS</p>
-			<h3>We collaborate with others</h3><br/><br/>
+			<p class="pretitle" id="header">OUR BUSINESS PARTNERS</p>
+			<h5>We collaborate with others</h5><br/><br/>
 			<div class="row">
 				<div class="col-md-3 col-sm-6">
 					<div class="partner">
