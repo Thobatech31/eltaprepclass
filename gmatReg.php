@@ -27,7 +27,7 @@
 
 		/*@import url('//netdna.bootstrapcdn.com/bootstrap/3.0.0/css/bootstrap-theme.min.css');*/
 		body {
-			margin-top:30px;
+			margin-top:0px;
 		}
 		.stepwizard-step p {
 			margin-top: 0px;
@@ -82,7 +82,7 @@
 		}
 	</style>
 </head>
-<body class=" ">
+<body style="background-image: url('img/inner-6.jpg')">
 <a id="start"></a>
 <div class="nav-container ">
 	<div class="bar bar--sm visible-xs">
@@ -149,22 +149,24 @@
 </div>
 <div class="main-container">
 	<section>
+
 		<div class="container">
-			<div class="col-md-7">
+			<div class="col-md-2"></div>
+			<div class="col-md-8">
 				<div class="stepwizard">
 					<div class="stepwizard-row setup-panel">
 						<div class="stepwizard-step col-xs-4">
 							<a href="#step-1" type="button" class="btn btn-success btn-circle">1</a>
-							<p><small>Exam Details</small></p>
+							<p style="color: white; font-weight: bold; font-size: 15px;">Exam Details</p>
 						</div>
 
 						<div class="stepwizard-step col-xs-4">
 							<a href="#step-3" type="button" class="btn btn-default btn-circle" disabled="disabled">3</a>
-							<p><small>Personal Information</small></p>
+							<p style="color: white; font-weight: bold; font-size: 15px;">Personal Information</p>
 						</div>
 						<div class="stepwizard-step col-xs-4">
 							<a href="#step-4" type="button" class="btn btn-default btn-circle" disabled="disabled">4</a>
-							<p><small>Lesson Deatails</small></p>
+							<p style="color: white; font-weight: bold; font-size: 15px;">Lesson Deatails</p>
 						</div>
 					</div>
 				</div><br/>
@@ -174,13 +176,13 @@
 						<div class="panel-heading">
 							<h3 class="panel-title">GMAT REGISTRATION PAGE</h3>
 						</div>
-						<div class="panel-body">
-							<p style="font-size: 12px;">LET US HELP YOU REACH THAT TARGET SCORE WITH OUR EXPERIENCED TUTORS</p>
+						<div class="panel-body" style="overflow:scroll;">
+							<p style="font-size: 12px; color:#0276FD;">LET US HELP YOU REACH THAT TARGET SCORE WITH OUR EXPERIENCED TUTORS</p>
 							<div class="row">
 								<div class="col-md-6">
 									<label>Which GMAT exam do you intend sitting for? </label>
 									<div class="input-select">
-										<select required="required">
+										<select>
 											<option selected="" value="Default">Select An Option</option>
 											<option value="Yes">General training </option>
 											<option value="Academics">Academics</option>
@@ -223,7 +225,7 @@
 								</div>
 								<div class="col-md-6">
 									<label>Target Score</label>
-									<input type="text" name="target_score" required="required" placeholder="Enter Target Score" />
+									<input type="text" name="target_score" placeholder="Enter Target Score" />
 								</div>
 
 							</div><br/>
@@ -480,17 +482,17 @@
 								</div>
 								<div class="col-md-6">
 									<label>Others</label>
-									<input type="text" required="required" name="others" placeholder="" />
+									<input type="text" name="others" placeholder="" />
 								</div>
 
 							</div><br/>
 
-							<center><h5>Your current educational details</h5></center>
+							<center><h5 style="color:#0276FD;">Your current educational details</h5></center>
 
 							<div class="row">
 								<div class="col-md-6">
 									<label>Expected exam date</label>
-									<input type="text" name="date" class="datepicker" required="required" placeholder="Choose a date" />
+									<input type="text" name="date" class="datepicker" placeholder="Choose a date" />
 
 								</div>
 
@@ -560,36 +562,36 @@
 							<div class="row">
 								<div class="col-md-6">
 									<label>First Name</label>
-									<input type="text" name="first_name" required="required" placeholder="Enter Your First Name" />
+									<input type="text" name="first_name" placeholder="Enter Your First Name" />
 								</div>
 
 								<div class="col-md-6">
 									<label>Last Name</label>
-									<input type="text" name="last_name" required="required" placeholder="Enter Your Last Name" />
+									<input type="text" name="last_name" placeholder="Enter Your Last Name" />
 								</div>
 							</div><br/>
 
 							<div class="row">
 								<div class="col-md-6">
 									<label>Location</label>
-									<input type="text" name="Location" required="required" placeholder="Enter Your Location" />
+									<input type="text" name="Location" placeholder="Enter Your Location" />
 								</div>
 
 								<div class="col-md-6">
 									<label>Street Address</label>
-									<input type="text" name="Address" required="required" placeholder="Enter Your Street Address" />
+									<input type="text" name="Address" placeholder="Enter Your Street Address" />
 								</div>
 							</div><br/>
 
 							<div class="row">
 								<div class="col-md-6">
 									<label>Email</label>
-									<input type="email" name="Email" required="required" placeholder="Enter Your Email" />
+									<input type="email" name="Email" placeholder="Enter Your Email" />
 								</div>
 
 								<div class="col-md-6">
 									<label>Phone No</label>
-									<input type="text" name="phone_no" required="required" placeholder="Enter Your Phone No" />
+									<input type="text" name="phone_no" placeholder="Enter Your Phone No" />
 								</div>
 							</div><br/>
 
@@ -647,56 +649,55 @@
 
 					<div class="panel panel-primary setup-content" id="step-4">
 						<div class="panel-heading">
-							<h3 class="panel-title">GMAT REGISTRATION PAGE</h3>
+							<h3 class="panel-title">GMAT REGISTRATION PAGE <span style="float: right;">LESSON DETAILS</span></h3>
 						</div>
 						<div class="panel-body">
-							<p>LESSON DETAILS</p>
 							<div class="row">
-								<div class="col-md-12">
-									<label style="font-size: 16px;">What days do you want to have your lesson?</label><br/>
-									<div class="col-sm-2">
+								<div class="col-md-12"><br/>
+									<label style="font-size: 16px; color:#0276FD;">What days do you want to have your lesson?</label><br/>
+									<div class="col-sm-3">
 										<div class="input-radio">
 											<span class="input__label">Monday</span>
 											<input type="radio" name="Monday" value="Monday" />
 											<label></label>
 										</div>
 									</div>
-									<div class="col-sm-2">
+									<div class="col-sm-3">
 										<div class="input-radio">
 											<span class="input__label">Tuesday</span>
 											<input type="radio" name="Tuesday" value="Tuesday" />
 											<label></label>
 										</div>
 									</div>
-									<div class="col-sm-2">
+									<div class="col-sm-3">
 										<div class="input-radio">
 											<span class="input__label">Wednesday</span>
 											<input type="radio" name="radio" value="Wednesday" />
 											<label></label>
 										</div>
 									</div>
-									<div class="col-sm-2">
+									<div class="col-sm-3">
 										<div class="input-radio">
 											<span class="input__label">Thursday</span>
 											<input type="radio" name="radio" value="Thursday" />
 											<label></label>
 										</div>
 									</div>
-									<div class="col-sm-1">
+									<div class="col-sm-3">
 										<div class="input-radio">
 											<span class="input__label">Friday</span>
 											<input type="radio" name="radio" value="Friday" />
 											<label></label>
 										</div>
 									</div>
-									<div class="col-sm-2">
+									<div class="col-sm-3">
 										<div class="input-radio">
 											<span class="input__label">Saturday</span>
 											<input type="radio" name="radio" value="Saturday" />
 											<label></label>
 										</div>
 									</div>
-									<div class="col-sm-1">
+									<div class="col-sm-3">
 										<div class="input-radio">
 											<span class="input__label">Sunday</span>
 											<input type="radio" name="radio" value="Sunday" />
@@ -711,7 +712,7 @@
 							<div class="row">
 								<div class="col-md-6">
 									<label>Start Date</label>
-									<input type="text" name="date" required="required" class="datepicker" placeholder="Choose a date" />
+									<input type="text" name="date" class="datepicker" placeholder="Choose a date" />
 								</div>
 
 								<div class="col-md-6">
@@ -731,7 +732,7 @@
 							<div class="row">
 								<div class="col-md-6">
 									<label>Hours Per day </label>
-									<input type="text" name="start_date" required="required" placeholder="E" />
+									<input type="text" name="start_date" placeholder="E" />
 								</div>
 
 								<div class="col-md-6">
@@ -763,10 +764,11 @@
 					</div>
 				</form>
 			</div>
+			<div class="col-md-2"></div>
 		</div>
 	</section>
 
-	<?php require('include/footer.php');?>
+	<?php require('include/footerReg.php');?>
 
 </body>
 </html>

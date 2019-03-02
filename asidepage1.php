@@ -93,24 +93,93 @@
 		</div>
 		<!--end of container-->
 	</section>
+	<!--  <section class="switchable bg--secondary">
+		  <div class="container">
+			  <div class="row">
+				  <div class="col-sm-6">
+					  <ul class="accordion accordion--oneopen accordion-2 switchable__text">
+						  <li class="active">
+							  <div class="accordion__title">
+								  <span class="h5">Campus Life</span>
+							  </div>
+							  <div class="accordion__content">
+								  <p class="lead">
+									  Stack follows the BEM naming convention that focusses on logical code readability that is reflected in both the HTML and CSS. Interactive elements such as accordions and tabs follow the same markup patterns making rapid development easier for developers and beginners alike.
+								  </p>
 
+							  </div>
+						  </li>
+						  <li>
+							  <div class="accordion__title">
+								  <span class="h5">Study Support</span>
+							  </div>
+							  <div class="accordion__content">
+								  <p class="lead">
+									  Stack offers a clean and contemporary to suit a range of purposes from corporate, tech startup, marketing site to digital storefront. Elements have been designed to showcase content in a diverse yet consistent manner.
+								  </p>
+								  <p class="lead">
+									  Multiple font and colour scheme options mean that dramatically altering the look of your site is just clicks away &mdash; Customizing your site in the included Variant Page Builder makes experimenting with styles and content arrangements dead simple.
+								  </p>
+							  </div>
+						  </li>
+						  <li>
+							  <div class="accordion__title">
+								  <span class="h5">Qualification</span>
+							  </div>
+							  <div class="accordion__content">
+								  <p class="lead">
+									  Medium Rare is an elite author known for offering high-quality, high-value products backed by timely and personable support. Recognised and awarded by Envato on multiple occasions for producing consistently outstanding products, it's no wonder over 20,000 customers enjoy using Medium Rare templates.
+								  </p>
+							  </div>
+						  </li>
+					  </ul>
 
-	<section class="switchable feature-large ">
+				  </div>
+				  <div class="col-md-5 col-sm-6">
+					  <img alt="Image" class="border--round box-shadow-wide" src="img/education-4.jpg" />
+				  </div>
+			  </div>
+
+		  </div>
+
+	  </section>-->
+	<section class="switchable feature-large">
 		<div class="container">
 			<div class="row">
-				<div class="col-sm-6 col-md-5">
-					<div class="radial" data-value="100" data-size="260" data-bar-width="8" data-color="#4a90e2">
-						<i class="icon icon--lg icon-Road-3 color--primary radial__label"></i>
-					</div>
-					<!--end radial-->
+				<div class="col-sm-6">
+					<img alt="Image" class="border--round" src="img/avatar-wide-3.jpg" />
 				</div>
 				<div class="col-sm-6 col-md-5">
-					<div>
-						<h2>Design and launch your startup's website in no time.</h2>
+					<div class="switchable__text">
+						<div class="text-block">
+							<h2>Cass Simmons</h2>
+							<span>Co-Founder &amp; Designer</span>
+						</div>
 						<p class="lead">
 							Launching an attractive and scalable website quickly and affordably is important for modern startups &mdash; Stack offers massive value without looking 'bargain-bin'.
 						</p>
-						<a href="#">Learn More &raquo;</a>
+						<ul class="social-list list-inline list--hover">
+							<li>
+								<a href="#">
+									<i class="socicon socicon-mail icon icon--xs"></i>
+								</a>
+							</li>
+							<li>
+								<a href="#">
+									<i class="socicon socicon-google icon icon--xs"></i>
+								</a>
+							</li>
+							<li>
+								<a href="#">
+									<i class="socicon socicon-twitter icon icon--xs"></i>
+								</a>
+							</li>
+							<li>
+								<a href="#">
+									<i class="socicon socicon-instagram icon icon--xs"></i>
+								</a>
+							</li>
+						</ul>
 					</div>
 				</div>
 			</div>
@@ -118,23 +187,132 @@
 		</div>
 		<!--end of container-->
 	</section>
-	<section class="switchable feature-large ">
+	<section class="switchable switchable--switch feature-large">
 		<div class="container">
 			<div class="row">
+				<div class="col-sm-6">
+					<img alt="Image" class="border--round" src="img/avatar-wide-4.jpg" />
+				</div>
 				<div class="col-sm-6 col-md-5">
-					<div>
-						<h2>Design and launch your startup's website in no time.</h2>
+					<div class="switchable__text">
+						<div class="text-block">
+							<h2>Lucille Vogel</h2>
+							<span>Co-Founder &amp; Developer</span>
+						</div>
 						<p class="lead">
 							Launching an attractive and scalable website quickly and affordably is important for modern startups &mdash; Stack offers massive value without looking 'bargain-bin'.
 						</p>
-						<a href="#">Learn More &raquo;</a>
+						<ul class="social-list list-inline list--hover">
+							<li>
+								<a href="#">
+									<i class="socicon socicon-mail icon icon--xs"></i>
+								</a>
+							</li>
+							<li>
+								<a href="#">
+									<i class="socicon socicon-google icon icon--xs"></i>
+								</a>
+							</li>
+							<li>
+								<a href="#">
+									<i class="socicon socicon-twitter icon icon--xs"></i>
+								</a>
+							</li>
+							<li>
+								<a href="#">
+									<i class="socicon socicon-instagram icon icon--xs"></i>
+								</a>
+							</li>
+						</ul>
 					</div>
 				</div>
+			</div>
+			<!--end of row-->
+		</div>
+		<!--end of container-->
+	</section>
+	<section class="switchable feature-large">
+		<div class="container">
+			<div class="row">
+				<div class="col-sm-6">
+					<img alt="Image" class="border--round" src="img/avatar-wide-1.jpg" />
+				</div>
 				<div class="col-sm-6 col-md-5">
-					<div class="radial" data-value="100" data-size="260" data-bar-width="8" data-color="#4a90e2">
-						<i class="icon icon--lg icon-Road-3 color--primary radial__label"></i>
+					<div class="switchable__text">
+						<div class="text-block">
+							<h2>Cameron Trembath</h2>
+							<span>Front-End Developer</span>
+						</div>
+						<p class="lead">
+							Launching an attractive and scalable website quickly and affordably is important for modern startups &mdash; Stack offers massive value without looking 'bargain-bin'.
+						</p>
+						<ul class="social-list list-inline list--hover">
+							<li>
+								<a href="#">
+									<i class="socicon socicon-mail icon icon--xs"></i>
+								</a>
+							</li>
+							<li>
+								<a href="#">
+									<i class="socicon socicon-google icon icon--xs"></i>
+								</a>
+							</li>
+							<li>
+								<a href="#">
+									<i class="socicon socicon-twitter icon icon--xs"></i>
+								</a>
+							</li>
+							<li>
+								<a href="#">
+									<i class="socicon socicon-instagram icon icon--xs"></i>
+								</a>
+							</li>
+						</ul>
 					</div>
-					<!--end radial-->
+				</div>
+			</div>
+			<!--end of row-->
+		</div>
+		<!--end of container-->
+	</section>
+	<section class="switchable switchable--switch feature-large">
+		<div class="container">
+			<div class="row">
+				<div class="col-sm-6">
+					<img alt="Image" class="border--round" src="img/avatar-wide-2.jpg" />
+				</div>
+				<div class="col-sm-6 col-md-5">
+					<div class="switchable__text">
+						<div class="text-block">
+							<h2>Jacob Tran</h2>
+							<span>Graphic Designer</span>
+						</div>
+						<p class="lead">
+							Launching an attractive and scalable website quickly and affordably is important for modern startups &mdash; Stack offers massive value without looking 'bargain-bin'.
+						</p>
+						<ul class="social-list list-inline list--hover">
+							<li>
+								<a href="#">
+									<i class="socicon socicon-mail icon icon--xs"></i>
+								</a>
+							</li>
+							<li>
+								<a href="#">
+									<i class="socicon socicon-google icon icon--xs"></i>
+								</a>
+							</li>
+							<li>
+								<a href="#">
+									<i class="socicon socicon-twitter icon icon--xs"></i>
+								</a>
+							</li>
+							<li>
+								<a href="#">
+									<i class="socicon socicon-instagram icon icon--xs"></i>
+								</a>
+							</li>
+						</ul>
+					</div>
 				</div>
 			</div>
 			<!--end of row-->
@@ -185,10 +363,6 @@
 		</div>
 		<!--end of container-->
 	</section>
-
-
-
-
 
 	<section class="unpad">
 		<div class="row--gapless">

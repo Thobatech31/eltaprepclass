@@ -181,6 +181,50 @@
 		</div>
 		<!--end of container-->
 	</section>
+	<section class="text-center bg--secondary">
+		<div class="container">
+			<div class="row">
+				<div class="col-md-8 col-sm-10">
+					<div class="slider" data-paging="true" data-children="3">
+						<ul class="slides flickity-enabled is-draggable" tabindex="0">
+
+
+
+							<div class="flickity-viewport"><div class="flickity-slider" style="left: 0px; transform: translateX(-300%);"><li class="slide is-selected" style="position: absolute; left: 300%;">
+										<div class="testimonial">
+											<img alt="Image" src="img/avatar-round-3.png" class="image--sm">
+											<span class="h3">
+                                                “There's a feeling of structure that you can't find in other templates — Stack has become my default template.”
+                                            </span>
+											<h5>Sam Briggs</h5>
+											<span>Envato Customer</span>
+										</div>
+									</li><li class="slide" style="position: absolute; left: 100%;">
+										<div class="testimonial">
+											<img alt="Image" src="img/avatar-round-4.png" class="image--sm">
+											<span class="h3">
+                                                “Variant has been a massive plus for my workflow — I can now get live mockups out in a matter of hours, my clients really love it.”
+                                            </span>
+											<h5>Rob Vasquez</h5>
+											<span>Interface Designer — Yoke</span>
+										</div>
+									</li><li class="slide" style="position: absolute; left: 200%;">
+										<div class="testimonial">
+											<img alt="Image" src="img/avatar-round-1.png" class="image--sm">
+											<span class="h3">
+                                                “We’ve been using Stack to prototype designs quickly and efficiently. Needless to say we’re hugely impressed by the style and value.”
+                                            </span>
+											<h5>Maguerite Holland</h5>
+											<span>Interface Designer — Yoke</span>
+										</div>
+									</li></div></div><ol class="flickity-page-dots"><li class="dot is-selected"></li><li class="dot"></li><li class="dot"></li></ol></ul>
+					</div>
+				</div>
+			</div>
+			<!--end of row-->
+		</div>
+		<!--end of container-->
+	</section>
 	<section class="imageblock switchable feature-large bg--secondary">
 		<div class="imageblock__content col-md-4 col-sm-3 pos-right">
 			<div class="background-image-holder">
@@ -250,6 +294,8 @@
 		</div>
 		<!--end of container-->
 	</section>
+
+
 	<?php require('include/footer.php');?>
 </body>
 </html>
