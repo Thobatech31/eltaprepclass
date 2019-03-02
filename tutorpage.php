@@ -8,15 +8,16 @@
 		</div>
 		<div class="container">
 			<div class="row">
-				<div class="col-sm-6">
+				<div class="col-sm-8">
 					<div class="cta">
-						<h2>GMAT</h2>
-						<p>
-							You are one step close to achieving your dreams to study abroad with a scholarship. Let our tutors help you achieve a 1200+ score.
-						</p>
+						<h2>Travcut Tutor</h2>
+						<h4 style="font-weight: bold;">
+							Obtain satisfaction in contributing to your community and impacting lives by doing what you do
+							Make money out of your passion
+						</h4>
 						<a class="btn btn--primary type--uppercase" href="gmatReg.php">
                                     <span class="btn__text">
-                                        GET A TUTOR
+                                        Become a tutor
                                     </span>
 						</a>
 					</div>
@@ -27,41 +28,121 @@
 		<!--end of container-->
 	</section>
 
+	<section class="switchable switchable--switch bg--secondary">
+		<div class="container">
+			<div class="row">
+				<div class="col-sm-5 text-center">
 
+					<img alt="Image" class="border--round box-shadow-wide" src="img/education-4.jpg">
+
+
+				</div>
+				<div class="col-sm-7 col-md-6">
+					<ol class="process-3">
+						<li class="process_item">
+							<div class="process__number">
+								<span>1</span>
+							</div>
+							<div class="process__body">
+								<h4 id="textStyle">TEACH WHAT YOU LOVE TO STUDENTS</h4>
+								<p>
+									We recommend you to clients in your subject area
+							</div>
+						</li>
+						<li class="process_item">
+							<div class="process__number">
+								<span>2</span>
+							</div>
+							<div class="process__body">
+								<h4 id="textStyle">PAYMENT</h4>
+								<p>
+									You get to choose how much and get paid instantly for delivering your lessons
+							</div>
+						</li>
+						<li class="process_item">
+							<div class="process__number">
+								<span>3</span>
+							</div>
+							<div class="process__body">
+								<h4 id="textStyle">WORK AT YOUR CONVENIENCE </h4>
+								<p>
+									You get to choose your lesson schedule to suit your day to day activities
+							</div>
+						</li>
+					</ol>
+				</div>
+			</div>
+			<!--end of row-->
+		</div>
+		<!--end of container-->
+	</section>
+
+	<section class="text-center bg--secondary">
+		<h3 id="textStyle">REASONS WHY YOU SHOULD JOIN TRAVCUT TUTORS</h3><br/>
+		<div class="container">
+			<div class="row">
+				<div class="col-sm-10 col-sm-offset-1">
+					<div class="process-1">
+						<div class="process__item">
+							<h4 id="textStyle">You never stop learning</h4>
+							<img alt="Image" src="img/cowork-3.jpg" class="border--round" />
+
+						</div>
+						<div class="process__item">
+							<h4 id="textStyle">You teach your clients to dream big
+								</h4>
+							<img alt="Image" src="img/cowork-1.jpg" class="border--round" />
+
+						</div>
+						<div class="process__item">
+							<h4 id="textStyle">You positively impact the future</h4>
+							<img alt="Image" src="img/cowork-5.jpg" class="border--round" />
+
+						</div>
+					</div>
+				</div>
+				<!--end of row-->
+			</div>
+			<!--end of container-->
+	</section>
 
 	<section class="text-center bg--secondary">
 		<div class="container">
+		<h3 id="textStyle" align="center">REGISTER IN THREE SIMPLE STEPS</h3><br/>
 			<div class="row">
 				<div class="col-sm-4 col-xs-12" >
 					<div class="feature">
-						<div class="radial" data-value="33" data-size="208" data-bar-width="8" data-color="#4a90e2">
-							<span class="h3 radial__label">Concept</span>
+						<div class="radial" data-value="77" data-size="208" data-bar-width="8" data-color="#4a90e2">
+							<span class="h3 radial__label">REGRISTRATION   </span>
 						</div>
 						<!--end radial-->
 						<p>
-							Stack is built with customization and ease-of-use at its core — whether you're a seasoned developer or just starting out.
+
+						Fill the forms provided with the necessary information.
 						</p>
 					</div>
 				</div>
 				<div class="col-sm-4 col-xs-12">
 					<div class="feature">
-						<div class="radial" data-value="66" data-size="208" data-bar-width="8" data-color="#4a90e2">
-							<span class="h3 radial__label">Plan</span>
+						<div class="radial" data-value="86" data-size="208" data-bar-width="8" data-color="#4a90e2">
+							<span class="h3 radial__label">VERIFICATION</span>
 						</div>
 						<!--end radial-->
 						<p>
-							Select from over 270 interface blocks, customise the look to build your perfect page.
+
+							Upload your documents and ID for verification
 						</p>
 					</div>
 				</div>
 				<div class="col-sm-4 col-xs-12">
 					<div class="feature">
 						<div class="radial" data-value="100" data-size="208" data-bar-width="8" data-color="#4a90e2">
-							<span class="h3 radial__label">Construct</span>
+							<span class="h3 radial__label">MATCH</span>
 						</div>
 						<!--end radial-->
 						<p>
-							Download your page as a semantic HTML document and easily make further customisations and additions in your editor.
+
+							We connect you to clients seeking your service
 						</p>
 					</div>
 				</div>
@@ -71,44 +152,68 @@
 		<!--end of container-->
 	</section>
 
-	<section>
+	<section class="">
+		<h3 id="textStyle" align="center">FREQUENTLY ASKED QUESTIONS </h3><br/>
 		<div class="container">
 			<div class="row">
-				<div class="col-sm-10 col-sm-offset-1">
-					<div class="process-1">
-						<div class="process__item">
-							<h4>An idea becomes a budding
-								<br> hobby business &mdash; 2012</h4>
-							<img alt="Image" src="img/cowork-3.jpg" class="border--round" />
-							<p>
-								Stack is built with customization and ease-of-use at its core — whether you're a seasoned developer or just starting out, you'll be making attractive sites faster than any traditional HTML template.
-							</p>
-						</div>
-						<div class="process__item">
-							<h4>Succsessfully funded through
-								<br> Bray Investments</h4>
-							<img alt="Image" src="img/cowork-1.jpg" class="border--round" />
-							<p>
-								Stack is built with customization and ease-of-use at its core — whether you're a seasoned developer or just starting out, you'll be making attractive sites faster than any traditional HTML template.
-							</p>
-						</div>
-						<div class="process__item">
-							<h4>Posted Profit Q2 2015</h4>
-							<img alt="Image" src="img/cowork-5.jpg" class="border--round" />
-							<p>
-								Stack is built with customization and ease-of-use at its core — whether you're a seasoned developer or just starting out, you'll be making attractive sites faster than any traditional HTML template.
-							</p>
-						</div>
-						<div class="process__item">
-							<h4>Growing, growing, growing&hellip;
-								<br /> We're recruiting!</h4>
-							<img alt="Image" src="img/education-1.jpg" class="border--round" />
-							<p>
-								Stack is built with customization and ease-of-use at its core — whether you're a seasoned developer or just starting out, you'll be making attractive sites faster than any traditional HTML template.
-							</p>
-						</div>
-					</div>
-					<!--end process-->
+				<div class="col-sm-7">
+					<ul class="accordion accordion-1" style="min-height: 508px;">
+						<li class="">
+							<div class="accordion__title">
+								<span class="h5" id="textStyle">Would the teaching be done offline or online? </span>
+							</div>
+							<div class="accordion__content">
+								<p class="lead">
+
+									It will be done at the client preferred location.
+								</p>
+							</div>
+						</li>
+						<li class="">
+							<div class="accordion__title">
+								<span class="h5" id="textStyle">What are things to put into consideration to enable me meet my student’s requirements?</span>
+							</div>
+							<div class="accordion__content">
+								<p class="lead">
+									Be proficient in your subject area. The more proficient you are the more sought after you become.
+								</p>
+
+							</div>
+						</li>
+						<li>
+							<div class="accordion__title">
+								<span class="h5" id="textStyle">Can I fix my own lesson schedule?</span>
+							</div>
+							<div class="accordion__content">
+								<p class="lead">
+									The lesson hours depends on our client preference but can be rescheduled to benefit you both.
+								</p>
+							</div>
+						</li>
+
+						<li>
+							<div class="accordion__title">
+								<span class="h5" id="textStyle">How much will I get paid?</span>
+							</div>
+							<div class="accordion__content">
+								<p class="lead">
+									Payments differs due to some factors such as duration of Lesson.
+								</p>
+							</div>
+						</li>
+
+						<li>
+							<div class="accordion__title">
+								<span class="h5" id="textStyle">How do I receive my Money?</span>
+							</div>
+							<div class="accordion__content">
+								<p class="lead">
+									Once it has been confirmed that you have successfully completed your lesson, a payment would be made to your bank account.
+								</p>
+							</div>
+						</li>
+					</ul>
+					<!--end accordion-->
 				</div>
 			</div>
 			<!--end of row-->
@@ -116,31 +221,8 @@
 		<!--end of container-->
 	</section>
 
-	<section class="text-center">
-		<div class="container">
-			<div class="row">
-				<div class="col-sm-8 col-md-6">
-					<h2>Building beautiful sites is easy</h2>
-					<div class="video-cover border--round">
-						<div class="background-image-holder">
-							<img alt="image" src="img/blog-3.jpg" />
-						</div>
-						<div class="video-play-icon"></div>
-						<iframe data-src="https://www.youtube.com/embed/6p45ooZOOPo?autoplay=1" allowfullscreen="allowfullscreen"></iframe>
-					</div>
-					<!--end video cover-->
-					<span>Stack includes Variant Page Builder &mdash; used by over
-                                <strong>17,000</strong> customers
-                                <a target="_blank" href="#">Try Now &nearr;</a>
-                            </span>
-				</div>
-			</div>
-			<!--end of row-->
-		</div>
-		<!--end of container-->
-	</section>
 
-	<section class="text-center bg--secondary">
+	<section class="text-center bg--secondary" style="margin-top: -230px;">
 		<div class="container">
 			<div class="row">
 				<div class="col-md-8 col-sm-10">

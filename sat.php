@@ -30,13 +30,36 @@
 
 	<section class="text-center bg--secondary">
 		<div class="container">
+			<h3 id="textStyle">BENEFITS OF WRITING SAT</h3>
 			<div class="row">
-				<div class="col-sm-10 col-sm-offset-1 col-md-8 col-md-offset-2">
-					<h2>What makes us different?</h2>
-					<p class="lead">
-						Our vision is for strong and resilient students where all have adequate access to the support structures required to succeed. Browse features below to find out more.
-					</p>
+				<div class="col-sm-1"></div>
+				<div class="col-sm-5">
+					<div class="feature feature-4 boxed boxed--lg boxed--border">
+						<i class="color--primary icon icon--lg icon-Hand-Touch"></i>
+						<h4 id="textStyle">Admission to Universities </h4>
+						<hr/>
+						<p style="margin-left: 30px;">
+							Most Universities especially in the USA requires SAT. The truth is that the higher your score, the more chances you’ll have
+							to be admitted especially to top universities because their admission process is more complex.
+						</p>
+
+					</div>
+					<!--end feature-->
 				</div>
+
+				<div class="col-sm-5">
+					<div class="feature feature-4 boxed boxed--lg boxed--border">
+						<i class="color--primary icon icon--lg icon-Life-Safer"></i>
+						<h4 id="textStyle">Academic scholarship</h4>
+							<hr>
+						<p align="center">
+							Obtaining a good result in SAT exams opens up the possibility of
+							receiving academic scholarships from Universities who have that option.
+						</p>
+					</div>
+					<!--end feature-->
+				</div>
+				<div class="col-sm-1"></div>
 			</div>
 			<!--end of row-->
 		</div>
@@ -58,10 +81,9 @@
 								<span>1</span>
 							</div>
 							<div class="process__body">
-								<h4>Launch Variant Page Builder</h4>
+								<h4 id="textStyle">SCHOLARSHIP OPPORTUNITIES</h4>
 								<p>
-									Stack is built with customization and ease-of-use at its core — whether you're a seasoned developer or just starting out.
-								</p>
+									please kindly note that the scholarship opportunities will swipe that’s why its numbered								</p>
 							</div>
 						</li>
 						<li class="process_item">
@@ -69,10 +91,9 @@
 								<span>2</span>
 							</div>
 							<div class="process__body">
-								<h4>Build with interface blocks</h4>
+								<h4 id="textStyle">Alfred state University USA</h4>
 								<p>
-									Select from over 290 interface blocks, customise the look to build your perfect page.
-								</p>
+									Get a score of 1490+ to meet one of the requirement for the dean scholarship beginning from $15000								</p>
 							</div>
 						</li>
 						<li class="process_item">
@@ -80,10 +101,9 @@
 								<span>3</span>
 							</div>
 							<div class="process__body">
-								<h4>Export as pure HTML</h4>
+								<h4 id="textStyle">Michigan State University</h4>
 								<p>
-									Download your page as a semantic HTML document and easily make further customisations and additions in your editor.
-								</p>
+									Get a good SAT score to meet one of the basic requirement for the International tuition grant ranging from $1000-25,000								</p>
 							</div>
 						</li>
 					</ol>
@@ -98,19 +118,20 @@
 	<section class="switchable feature-large ">
 		<div class="container">
 			<div class="row">
-				<div class="col-sm-6 col-md-5">
+				<div class="col-sm-4 col-md-5">
 					<div class="radial" data-value="100" data-size="260" data-bar-width="8" data-color="#4a90e2">
 						<i class="icon icon--lg icon-Road-3 color--primary radial__label"></i>
 					</div>
 					<!--end radial-->
 				</div>
-				<div class="col-sm-6 col-md-5">
+				<div class="col-sm-8 col-md-7">
 					<div>
-						<h2>Design and launch your startup's website in no time.</h2>
+						<h3 id="textStyle">SAT READING</h3>
 						<p class="lead">
-							Launching an attractive and scalable website quickly and affordably is important for modern startups &mdash; Stack offers massive value without looking 'bargain-bin'.
+							The reading test measures your reading skills and to succeed in college, you’ll
+							Need to apply the skills in all sorts of subjects.
+							In this section, our tutors will help you understand passages and interpret                   informational graph          informational graphics.
 						</p>
-						<a href="#">Learn More &raquo;</a>
 					</div>
 				</div>
 			</div>
@@ -121,20 +142,49 @@
 	<section class="switchable feature-large ">
 		<div class="container">
 			<div class="row">
-				<div class="col-sm-6 col-md-5">
+				<div class="col-sm-8 col-md-7">
 					<div>
-						<h2>Design and launch your startup's website in no time.</h2>
+						<h3 id="textStyle">SAT WRITING</h3>
 						<p class="lead">
-							Launching an attractive and scalable website quickly and affordably is important for modern startups &mdash; Stack offers massive value without looking 'bargain-bin'.
+							The SAT writing and Language test asks you to be
+							an editor and improve passages that were written especially
+							for the test and that includes deliberate error.
+							With that we got you covered as our qualified tutors can help you achieve your target score in your writing section.
 						</p>
-						<a href="#">Learn More &raquo;</a>
 					</div>
 				</div>
-				<div class="col-sm-6 col-md-5">
+				<div class="col-sm-4 col-md-5">
 					<div class="radial" data-value="100" data-size="260" data-bar-width="8" data-color="#4a90e2">
 						<i class="icon icon--lg icon-Road-3 color--primary radial__label"></i>
 					</div>
 					<!--end radial-->
+				</div>
+			</div>
+			<!--end of row-->
+		</div>
+		<!--end of container-->
+	</section>
+	<section class="switchable feature-large ">
+		<div class="container">
+			<div class="row">
+				<div class="col-sm-4 col-md-5">
+					<div class="radial" data-value="100" data-size="260" data-bar-width="8" data-color="#4a90e2">
+						<i class="icon icon--lg icon-Road-3 color--primary radial__label"></i>
+					</div>
+					<!--end radial-->
+				</div>
+				<div class="col-sm-8 col-md-7">
+					<div>
+						<h3 id="textStyle">SAT MATHS</h3>
+						<p class="lead">
+							Our professional tutors will help you reach your target score in this section
+							By tutoring you
+							You in the in depth areas of Algebra, Problem solving & data analysis and                    Advanced mathe                   Advanced math by showing you how to carry out procedures
+							Accurately, flexibly and strategically and solve problems quickly
+							by identifying and using the most efficient solution approaches.
+							informational graph          informational graphics.
+						</p>
+					</div>
 				</div>
 			</div>
 			<!--end of row-->

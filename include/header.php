@@ -1,6 +1,6 @@
 <head>
 	<meta charset="utf-8">
-	<title>toefl</title>
+	<title>Travcut.com</title>
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
 	<meta name="description" content="Site Description Here">
 	<link href="css/bootstrap.css" rel="stylesheet" type="text/css" media="all" />
@@ -75,7 +75,7 @@
 
 
 						<div class="modal-instance">
-							<a class="btn modal-trigger" href="#">
+							<a class="btn modal-trigger" href="tutorpage.php">
                                     <span class="btn__text">
                                         BECOME A TUTOR
                                     </span>

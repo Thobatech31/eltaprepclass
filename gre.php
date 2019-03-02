@@ -175,12 +175,17 @@
 					<div class="boxed boxed--lg border--round bg--white">
 						<div class="col-md-10 col-md-offset-1 col-sm-12">
 							<h3 id="textStyle" align="center">BENEFITS OF GRE</h3>
-							<h4 style="text-align: center; font-weight: bold";>ADMISSION</>
+							<h5 style="text-align: center; font-weight: bold";>ADMISSION</h5>
 							<p class="lead">
 								Most universities / colleges especially in the US make use of GRE in their graduate admission.
 								They use it as a major requirement while some use it to offset low GPA.
 							</p>
 
+							<h5 style="text-align: center; font-weight: bold";>SCHOLARSHIP/GRANT</h5>
+							<p class="lead">
+								Most universities who make the GRE examination a crucial part of their requirements issue scholarships, grants, fee waivers to students with good scores.
+								With the right score your one step close to getting a scholarship.
+							</p>
 						</div>
 					</div>
 				</div>

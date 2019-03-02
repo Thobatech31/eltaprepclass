@@ -124,7 +124,7 @@ font-size: 12px;
                                 
 
  							<div class="modal-instance">
-                                <a class="btn modal-trigger" href="#">
+                                <a class="btn modal-trigger" href="tutorpage.php">
                                     <span class="btn__text">
                                         BECOME A TUTOR
                                     </span>
