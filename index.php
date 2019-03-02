@@ -478,7 +478,7 @@ font-size: 12px;
 
 
 				<div class="col-md-2 col-sm-6" id="post">
-					<a href="ican.php" style="color: gray; " class="link-hover"><div class="service-img-holder">
+					<a href="ielts.php" style="color: gray; " class="link-hover"><div class="service-img-holder">
 							<img src="assets/img/about.png" alt="Services" style>
 						</div><p style="color:#0276FD;">IELTS</p>
 

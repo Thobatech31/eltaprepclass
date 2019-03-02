@@ -2,24 +2,22 @@
 <html lang="en">
 <?php require('include/header.php');?>
 <div class="main-container">
-	<section class="imagebg parallax" data-scrim-top="9" data-overlay="4">
-		<div class="background-image-holder">
-			<img alt="background" src="img/education-3.jpg" />
+	<section class="cover height-60 imagebg text-center" data-overlay="5">
+		<div class="background-image-holder background--top">
+			<img alt="background" src="img/insurance-1.jpg" />
 		</div>
-		<div class="container">
+		<div class="container pos-vertical-center">
 			<div class="row">
-				<div class="col-sm-6">
-					<div class="cta">
-						<h2>GMAT</h2>
-						<p>
-							You are one step close to achieving your dreams to study abroad with a scholarship. Let our tutors help you achieve a 1200+ score.
-						</p>
-						<a class="btn btn--primary type--uppercase" href="gmatReg.php">
-                                    <span class="btn__text">
-                                        GET A TUTOR
-                                    </span>
-						</a>
-					</div>
+				<div class="col-sm-12">
+					<h3 style="font-weight: bold;">
+						You are one step close to achieving your dreams to study abroad with a scholarship. Let our tutors help you achieve a 1200+ score.
+
+					</h3>
+					<a class="btn btn--primary type--uppercase" href="gmatReg.php">
+                                <span class="btn__text">
+                                    GET A TUTOR
+                                </span>
+					</a>
 				</div>
 			</div>
 			<!--end of row-->
@@ -27,14 +25,13 @@
 		<!--end of container-->
 	</section>
 
-
-	<section class="text-center bg--secondary">
+	<section class="text-center">
 		<div class="container">
 			<div class="row">
 				<div class="col-sm-10 col-sm-offset-1 col-md-8 col-md-offset-2">
-					<h2>What makes us different?</h2>
+					<h2 style="color:#0276FD;">All the tools you'll need</h2>
 					<p class="lead">
-						Our vision is for strong and resilient students where all have adequate access to the support structures required to succeed. Browse features below to find out more.
+						You are one step close to achieving your dreams to study abroad with a scholarship. Let our tutors help you achieve a 1200+ score.
 					</p>
 				</div>
 			</div>
@@ -42,51 +39,47 @@
 		</div>
 		<!--end of container-->
 	</section>
-	<section class="switchable switchable--switch bg--secondary">
+	<section>
 		<div class="container">
 			<div class="row">
-				<div class="col-sm-5 text-center">
+				<div class="col-sm-12">
 
-					<img alt="Image" class="border--round box-shadow-wide" src="img/education-4.jpg" />
+					<div class="row">
+						<ul class="slides">
+							<li class="col-sm-4 col-xs-12">
+								<div class="feature feature-3 boxed boxed--lg boxed--border text-center">
+									<i class="color--primary icon icon--lg icon-Nurse"></i>
+									<h4 id="textStyle">Create that Road map to the future </h4>
+									<p>
+										Stack comes with integration for Mail Chimp and Campaign Monitor forms - ideal for modern marketing campaigns
+									</p>
+								</div>
+								<!--end feature-->
+							</li>
 
-
-				</div>
-				<div class="col-sm-7 col-md-6">
-					<ol class="process-3">
-						<li class="process_item">
-							<div class="process__number">
-								<span>1</span>
-							</div>
-							<div class="process__body">
-								<h4>Launch Variant Page Builder</h4>
-								<p>
-									Stack is built with customization and ease-of-use at its core — whether you're a seasoned developer or just starting out.
-								</p>
-							</div>
-						</li>
-						<li class="process_item">
-							<div class="process__number">
-								<span>2</span>
-							</div>
-							<div class="process__body">
-								<h4>Build with interface blocks</h4>
-								<p>
-									Select from over 290 interface blocks, customise the look to build your perfect page.
-								</p>
-							</div>
-						</li>
-						<li class="process_item">
-							<div class="process__number">
-								<span>3</span>
-							</div>
-							<div class="process__body">
-								<h4>Export as pure HTML</h4>
-								<p>
-									Download your page as a semantic HTML document and easily make further customisations and additions in your editor.
-								</p>
-							</div>
-						</li>
-					</ol>
+							<li class="col-sm-4 col-xs-12">
+								<div class="feature feature-3 boxed boxed--lg boxed--border text-center">
+									<i class="color--primary icon icon--lg icon-Sport-Mode"></i>
+									<h4 id="textStyle">Going for your MBA hasn’t been easier</h4>
+									<p>
+										Stack comes with integration for Mail Chimp and Campaign Monitor forms - ideal for modern marketing campaigns
+									</p>
+								</div>
+								<!--end feature-->
+							</li>
+							<li class="col-sm-4 col-xs-12">
+								<div class="feature feature-3 boxed boxed--lg boxed--border text-center">
+									<i class="color--primary icon icon--lg icon-Hospital-2"></i>
+									<h4 id="textStyle">Let us help you get there</h4>
+									<p>
+										Stack comes with integration for Mail Chimp and Campaign Monitor forms - ideal for modern marketing campaigns
+									</p>
+								</div>
+								<!--end feature-->
+							</li>
+						</ul>
+					</div>
+					<!--end of row-->
 				</div>
 			</div>
 			<!--end of row-->
@@ -94,137 +87,196 @@
 		<!--end of container-->
 	</section>
 
+</div>
+<!--end of container-->
+</section>
 
-	<section class="switchable feature-large ">
-		<div class="container">
-			<div class="row">
-				<div class="col-sm-6 col-md-5">
-					<div class="radial" data-value="100" data-size="260" data-bar-width="8" data-color="#4a90e2">
-						<i class="icon icon--lg icon-Road-3 color--primary radial__label"></i>
+
+<section class="switchable feature-large">
+	<div class="container">
+		<div class="row">
+			<div class="col-sm-5">
+				<img alt="Image" class="border--round" src="img/cowork-6.jpg" />
+			</div>
+			<div class="col-sm-7 col-md-6">
+				<div class="switchable__text">
+					<div class="text-block">
+						<h2 id="textStyle">Analytical Writing</h2>
+
 					</div>
-					<!--end radial-->
-				</div>
-				<div class="col-sm-6 col-md-5">
-					<div>
-						<h2>Design and launch your startup's website in no time.</h2>
-						<p class="lead">
-							Launching an attractive and scalable website quickly and affordably is important for modern startups &mdash; Stack offers massive value without looking 'bargain-bin'.
-						</p>
-						<a href="#">Learn More &raquo;</a>
-					</div>
+					<p class="lead">
+						This section measures your ability to think critically and communicate your ideas. Do you have difficulties understanding and analyzing arguments? Our tutors got you covered. Register to get started					</p>
+
 				</div>
 			</div>
-			<!--end of row-->
 		</div>
-		<!--end of container-->
-	</section>
-	<section class="switchable feature-large ">
-		<div class="container">
-			<div class="row">
-				<div class="col-sm-6 col-md-5">
-					<div>
-						<h2>Design and launch your startup's website in no time.</h2>
-						<p class="lead">
-							Launching an attractive and scalable website quickly and affordably is important for modern startups &mdash; Stack offers massive value without looking 'bargain-bin'.
-						</p>
-						<a href="#">Learn More &raquo;</a>
+		<!--end of row-->
+	</div>
+	<!--end of container-->
+</section>
+<section class="switchable switchable--switch feature-large">
+	<div class="container">
+		<div class="row">
+			<div class="col-sm-5">
+				<img alt="Image" class="border--round" src="img/cowork-4.jpg" />
+			</div>
+			<div class="col-sm-7 col-md-6">
+				<div class="switchable__text">
+					<div class="text-block">
+						<h2 id="textStyle">Integrated Reasoning</h2>
 					</div>
-				</div>
-				<div class="col-sm-6 col-md-5">
-					<div class="radial" data-value="100" data-size="260" data-bar-width="8" data-color="#4a90e2">
-						<i class="icon icon--lg icon-Road-3 color--primary radial__label"></i>
-					</div>
-					<!--end radial-->
+					<p class="lead">
+						This section measures your ability to analyze data and evaluate information presented in multiple formats. We got you covered in your graphics interpretation,
+						Table analysis, Multi source reasoning and two part analysis
+					</p>
+					<!--<ul class="social-list list-inline list--hover">
+						<li>
+							<a href="#">
+								<i class="socicon socicon-mail icon icon--xs"></i>
+							</a>
+						</li>
+						<li>
+							<a href="#">
+								<i class="socicon socicon-google icon icon--xs"></i>
+							</a>
+						</li>
+						<li>
+							<a href="#">
+								<i class="socicon socicon-twitter icon icon--xs"></i>
+							</a>
+						</li>
+						<li>
+							<a href="#">
+								<i class="socicon socicon-instagram icon icon--xs"></i>
+							</a>
+						</li>
+					</ul>-->
 				</div>
 			</div>
-			<!--end of row-->
 		</div>
-		<!--end of container-->
-	</section>
-	<section class="text-center bg--secondary">
-		<div class="container">
-			<div class="row">
-				<div class="col-md-8 col-sm-10">
-					<div class="slider" data-paging="true" data-children="3">
-						<ul class="slides flickity-enabled is-draggable" tabindex="0">
+		<!--end of row-->
+	</div>
+	<!--end of container-->
+</section>
+<section class="switchable feature-large">
+	<div class="container">
+		<div class="row">
+			<div class="col-sm-5">
+				<img alt="Image" class="border--round" src="img/cowork-3.jpg" />
+			</div>
+			<div class="col-sm-7 col-md-6">
+				<div class="switchable__text">
+					<div class="text-block">
+						<h2 id="textStyle">Verbal Reasoning</h2>
+					</div>
+					<p class="lead">
+
+						Your ability to read and understand written material to evaluate arguments and correct written materials to evaluate arguments and to correct written materials to conform to standard
+						written English determines your success in this section.
+					</p>
+				</div>
+			</div>
+		</div>
+		<!--end of row-->
+	</div>
+	<!--end of container-->
+</section>
+<section class="switchable switchable--switch feature-large">
+	<div class="container">
+		<div class="row">
+			<div class="col-sm-5">
+				<img alt="Image" class="border--round" src="img/cowork-5.jpg" />
+			</div>
+			<div class="col-sm-7 col-md-6">
+				<div class="switchable__text">
+					<div class="text-block">
+						<h2 id="textStyle">Quantitative Reasoning</h2>
+					</div>
+					<p class="lead">
+
+						Measure your ability to analyze data and draw conclusions using reasoning skills.
+						Do you think your quantitative reasoning is your weak point to getting your target score?
+						Not to worry our lesson plans will get you there
+					</p>
+				</div>
+			</div>
+		</div>
+		<!--end of row-->
+	</div>
+	<!--end of container-->
+</section>
+
+<section class="text-center bg--secondary">
+	<div class="container">
+		<div class="row">
+			<div class="col-md-8 col-sm-10">
+				<div class="slider" data-paging="true" data-children="3">
+					<ul class="slides flickity-enabled is-draggable" tabindex="0">
 
 
 
-							<div class="flickity-viewport"><div class="flickity-slider" style="left: 0px; transform: translateX(-300%);"><li class="slide is-selected" style="position: absolute; left: 300%;">
-										<div class="testimonial">
-											<img alt="Image" src="img/avatar-round-3.png" class="image--sm">
-											<span class="h3">
+						<div class="flickity-viewport" ><div class="flickity-slider" style="left: 0px; transform: translateX(-300%);"><li class="slide is-selected" style="position: absolute; left: 300%;">
+									<div class="testimonial">
+										<img alt="Image" src="img/avatar-round-3.png" class="image--sm">
+										<span class="h3">
                                                 “There's a feeling of structure that you can't find in other templates — Stack has become my default template.”
                                             </span>
-											<h5>Sam Briggs</h5>
-											<span>Envato Customer</span>
-										</div>
-									</li><li class="slide" style="position: absolute; left: 100%;">
-										<div class="testimonial">
-											<img alt="Image" src="img/avatar-round-4.png" class="image--sm">
-											<span class="h3">
+										<h5>Sam Briggs</h5>
+										<span>Envato Customer</span>
+									</div>
+								</li><li class="slide" style="position: absolute; left: 100%;">
+									<div class="testimonial">
+										<img alt="Image" src="img/avatar-round-4.png" class="image--sm">
+										<span class="h3">
                                                 “Variant has been a massive plus for my workflow — I can now get live mockups out in a matter of hours, my clients really love it.”
                                             </span>
-											<h5>Rob Vasquez</h5>
-											<span>Interface Designer — Yoke</span>
-										</div>
-									</li><li class="slide" style="position: absolute; left: 200%;">
-										<div class="testimonial">
-											<img alt="Image" src="img/avatar-round-1.png" class="image--sm">
-											<span class="h3">
+										<h5>Rob Vasquez</h5>
+										<span>Interface Designer — Yoke</span>
+									</div>
+								</li><li class="slide" style="position: absolute; left: 200%;">
+									<div class="testimonial">
+										<img alt="Image" src="img/avatar-round-1.png" class="image--sm">
+										<span class="h3">
                                                 “We’ve been using Stack to prototype designs quickly and efficiently. Needless to say we’re hugely impressed by the style and value.”
                                             </span>
-											<h5>Maguerite Holland</h5>
-											<span>Interface Designer — Yoke</span>
-										</div>
-									</li></div></div><ol class="flickity-page-dots"><li class="dot is-selected"></li><li class="dot"></li><li class="dot"></li></ol></ul>
-					</div>
+										<h5>Maguerite Holland</h5>
+										<span>Interface Designer — Yoke</span>
+									</div>
+								</li></div></div><ol class="flickity-page-dots"><li class="dot is-selected"></li><li class="dot"></li><li class="dot"></li></ol></ul>
 				</div>
 			</div>
-			<!--end of row-->
 		</div>
-		<!--end of container-->
-	</section>
+		<!--end of row-->
+	</div>
+	<!--end of container-->
+</section>
 
-
-
-
-
-	<section class="unpad">
-		<div class="row--gapless">
-			<div class="col-sm-4 col-xs-6">
-				<a href="#" class="block">
-					<div class="feature feature-7 boxed text-center imagebg" data-overlay="3">
-						<div class="background-image-holder">
-							<img alt="background" src="img/education-5.jpg" />
-						</div>
-						<h4 class="pos-vertical-center">Future Students</h4>
-					</div>
-				</a>
-			</div>
-			<div class="col-sm-4 col-xs-6">
-				<a href="#" class="block">
-					<div class="feature feature-7 boxed text-center imagebg" data-overlay="5">
-						<div class="background-image-holder">
-							<img alt="background" src="assets/img/about.png" />
-						</div>
-						<h4 class="pos-vertical-center">Current Students</h4>
-					</div>
-				</a>
-			</div>
-			<div class="col-sm-4 col-xs-6">
-				<a href="#" class="block">
-					<div class="feature feature-7 boxed text-center imagebg" data-overlay="5">
-						<div class="background-image-holder">
-							<img alt="background" src="img/education-5.jpg" />
-						</div>
-						<h4 class="pos-vertical-center">Alumni</h4>
-					</div>
-				</a>
+<section class="text-center imagebg" data-overlay="4">
+	<div class="background-image-holder" style="background: url(&quot;img/recruitment-4.jpg&quot;); opacity: 1;">
+		<img alt="background" src="img/recruitment-4.jpg">
+	</div>
+	<div class="container">
+		<div class="row">
+			<div class="col-sm-8 col-sm-offset-2 col-md-6 col-md-offset-3">
+				<div class="cta">
+					<h2>Applicants find jobs with Stack</h2>
+					<p class="lead">
+						On average, applicants are 40% more likely to find ongoing work in the creative industry using our jobs board.
+					</p>
+					<a class="btn btn--primary type--uppercase" href="#">
+                                    <span class="btn__text">
+                                        GET A TUTOR NOW!
+                                    </span>
+						<span class="label">It's Free</span>
+					</a>
+				</div>
 			</div>
 		</div>
-	</section>
+		<!--end of row-->
+	</div>
+	<!--end of container-->
+</section>
 
-	<?php require('include/footer.php');?>
-	</body>
+<?php require('include/footer.php');?>
+</body>
 </html>

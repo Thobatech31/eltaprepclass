@@ -28,60 +28,58 @@
 	</section>
 
 
-	<section class=" ">
-		<h2 align="center" style="margin-top:-50px;">What makes us different?</h2>
+
+	<section class="text-center bg--secondary">
 		<div class="container">
 			<div class="row">
-				<div class="process-2">
-
-					<div class="col-sm-4">
-						<div class="process__item">
-							<h5>Company established 2012
-								<br> 4 founding members</h5>
-							<p>
-								Stack is built with customization and ease-of-use at its core — whether you're a seasoned developer or just starting out, you'll be making attractive sites faster than any traditional HTML template.
-							</p>
+				<div class="col-sm-4 col-xs-12" >
+					<div class="feature">
+						<div class="radial" data-value="33" data-size="208" data-bar-width="8" data-color="#4a90e2">
+							<span class="h3 radial__label">Concept</span>
 						</div>
-					</div>
-					<div class="col-sm-4">
-						<div class="process__item">
-							<h5>Succsessfully funded through
-								<br> Bray Investments</h5>
-							<p>
-								Stack is built with customization and ease-of-use at its core — whether you're a seasoned developer or just starting out, you'll be making attractive sites faster than any traditional HTML template.
-							</p>
-						</div>
-					</div>
-					<div class="col-sm-4">
-						<div class="process__item">
-							<h5>Posted profit
-								<br> second quarter 2015</h5>
-							<p>
-								Stack is built with customization and ease-of-use at its core — whether you're a seasoned developer or just starting out, you'll be making attractive sites faster than any traditional HTML template.
-							</p>
-						</div>
+						<!--end radial-->
+						<p>
+							Stack is built with customization and ease-of-use at its core — whether you're a seasoned developer or just starting out.
+						</p>
 					</div>
 				</div>
-				<!--end process-->
+				<div class="col-sm-4 col-xs-12">
+					<div class="feature">
+						<div class="radial" data-value="66" data-size="208" data-bar-width="8" data-color="#4a90e2">
+							<span class="h3 radial__label">Plan</span>
+						</div>
+						<!--end radial-->
+						<p>
+							Select from over 270 interface blocks, customise the look to build your perfect page.
+						</p>
+					</div>
+				</div>
+				<div class="col-sm-4 col-xs-12">
+					<div class="feature">
+						<div class="radial" data-value="100" data-size="208" data-bar-width="8" data-color="#4a90e2">
+							<span class="h3 radial__label">Construct</span>
+						</div>
+						<!--end radial-->
+						<p>
+							Download your page as a semantic HTML document and easily make further customisations and additions in your editor.
+						</p>
+					</div>
+				</div>
 			</div>
 			<!--end of row-->
 		</div>
 		<!--end of container-->
 	</section>
 
-
-
-	<section class=" imagebg" data-overlay='4'>
-		<div class="background-image-holder">
-			<img alt="background" src="img/cowork-8.jpg" />
-		</div>
+	<section>
 		<div class="container">
 			<div class="row">
-				<div class="col-md-8 col-md-offset-2 col-sm-10 col-sm-offset-1">
+				<div class="col-sm-10 col-sm-offset-1">
 					<div class="process-1">
 						<div class="process__item">
-							<h4>Company established 2012
-								<br> 4 founding members</h4>
+							<h4>An idea becomes a budding
+								<br> hobby business &mdash; 2012</h4>
+							<img alt="Image" src="img/cowork-3.jpg" class="border--round" />
 							<p>
 								Stack is built with customization and ease-of-use at its core — whether you're a seasoned developer or just starting out, you'll be making attractive sites faster than any traditional HTML template.
 							</p>
@@ -89,13 +87,22 @@
 						<div class="process__item">
 							<h4>Succsessfully funded through
 								<br> Bray Investments</h4>
+							<img alt="Image" src="img/cowork-1.jpg" class="border--round" />
 							<p>
 								Stack is built with customization and ease-of-use at its core — whether you're a seasoned developer or just starting out, you'll be making attractive sites faster than any traditional HTML template.
 							</p>
 						</div>
 						<div class="process__item">
-							<h4>Posted profit
-								<br> second quarter 2015</h4>
+							<h4>Posted Profit Q2 2015</h4>
+							<img alt="Image" src="img/cowork-5.jpg" class="border--round" />
+							<p>
+								Stack is built with customization and ease-of-use at its core — whether you're a seasoned developer or just starting out, you'll be making attractive sites faster than any traditional HTML template.
+							</p>
+						</div>
+						<div class="process__item">
+							<h4>Growing, growing, growing&hellip;
+								<br /> We're recruiting!</h4>
+							<img alt="Image" src="img/education-1.jpg" class="border--round" />
 							<p>
 								Stack is built with customization and ease-of-use at its core — whether you're a seasoned developer or just starting out, you'll be making attractive sites faster than any traditional HTML template.
 							</p>
@@ -109,6 +116,29 @@
 		<!--end of container-->
 	</section>
 
+	<section class="text-center">
+		<div class="container">
+			<div class="row">
+				<div class="col-sm-8 col-md-6">
+					<h2>Building beautiful sites is easy</h2>
+					<div class="video-cover border--round">
+						<div class="background-image-holder">
+							<img alt="image" src="img/blog-3.jpg" />
+						</div>
+						<div class="video-play-icon"></div>
+						<iframe data-src="https://www.youtube.com/embed/6p45ooZOOPo?autoplay=1" allowfullscreen="allowfullscreen"></iframe>
+					</div>
+					<!--end video cover-->
+					<span>Stack includes Variant Page Builder &mdash; used by over
+                                <strong>17,000</strong> customers
+                                <a target="_blank" href="#">Try Now &nearr;</a>
+                            </span>
+				</div>
+			</div>
+			<!--end of row-->
+		</div>
+		<!--end of container-->
+	</section>
 
 	<section class="text-center bg--secondary">
 		<div class="container">
@@ -147,34 +177,6 @@
 											<span>Interface Designer — Yoke</span>
 										</div>
 									</li></div></div><ol class="flickity-page-dots"><li class="dot is-selected"></li><li class="dot"></li><li class="dot"></li></ol></ul>
-					</div>
-				</div>
-			</div>
-			<!--end of row-->
-		</div>
-		<!--end of container-->
-	</section>
-
-
-
-	<section class="imagebg">
-		<div class="background-image-holder" style="background: url(&quot;img/landing-6.jpg&quot;); opacity: 1;">
-			<img alt="background" src="img/landing-6.jpg">
-		</div>
-		<div class="container">
-			<div class="row">
-				<div class="col-sm-7 col-md-5 col-sm-offset-5 col-md-offset-7">
-					<div class="boxed boxed--lg border--round bg--white">
-						<div class="col-md-10 col-md-offset-1 col-sm-12">
-							<h3>Experience quality</h3>
-							<p class="lead">
-								Stack is built with customization and ease-of-use at its core — whether you're a seasoned developer or just starting out, you'll be making attractive sites faster than any traditional HTML template.
-							</p>
-							<hr class="short">
-							<p>
-								Each purchase of Stack includes six months of free support and lifetime free content and bug-fix updates.
-							</p>
-						</div>
 					</div>
 				</div>
 			</div>

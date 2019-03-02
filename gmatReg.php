@@ -176,7 +176,7 @@
 						<div class="panel-heading">
 							<h3 class="panel-title">GMAT REGISTRATION PAGE</h3>
 						</div>
-						<div class="panel-body" style="overflow:scroll;">
+						<div class="panel-body" style=" overflow-style: auto; overflow:scroll;">
 							<p style="font-size: 12px; color:#0276FD;">LET US HELP YOU REACH THAT TARGET SCORE WITH OUR EXPERIENCED TUTORS</p>
 							<div class="row">
 								<div class="col-md-6">

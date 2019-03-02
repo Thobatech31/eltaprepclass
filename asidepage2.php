@@ -25,12 +25,25 @@
 		<!--end of container-->
 	</section>
 
-
+	<section class="text-center">
+		<div class="container">
+			<div class="row">
+				<div class="col-sm-10 col-sm-offset-1 col-md-8 col-md-offset-2">
+					<h2>All the tools you'll need</h2>
+					<p class="lead">
+						Whether you’re building a welcome mat for your SaaS or a clean, corporate portfolio, Stack has your design needs covered.
+					</p>
+				</div>
+			</div>
+			<!--end of row-->
+		</div>
+		<!--end of container-->
+	</section>
 	<section>
 		<div class="container">
 			<div class="row">
 				<div class="col-sm-12">
-					<h2>Our Products</h2>
+
 					<div class="row">
 						<ul class="slides">
 							<li class="col-sm-4 col-xs-12">
@@ -73,6 +86,35 @@
 		</div>
 		<!--end of container-->
 	</section>
+	<!--<section class="imagebg videobg height-60 text-center" data-overlay="2">
+		<video autoplay loop muted>
+			<source src="video/video.webm" type="video/webm">
+			<source src="video/video.mp4" type="video/mp4">
+			<source src="video/video.ogv" type="video/ogv">
+		</video>
+		<div class="background-image-holder">
+			<img alt="image" src="img/hero-1.jpg" />
+		</div>
+		<div class="container pos-vertical-center">
+			<div class="row">
+				<div class="col-sm-8 col-md-7">
+					<h1>
+						Build stylish, lean sites with Stack
+					</h1>
+					<p class="lead">
+						Stack offers a clean and contemporary look to suit a range of purposes from corporate, tech startup, marketing site to digital storefront.
+					</p>
+					<a class="btn btn--primary type--uppercase" href="#">
+                                <span class="btn__text">
+                                    View The Demos
+                                </span>
+					</a>
+				</div>
+			</div>
+			<!--end of row-->
+		</div>
+		<!--end of container-->
+	</section>-->
 	<section class="switchable feature-large">
 		<div class="container">
 			<div class="row">
