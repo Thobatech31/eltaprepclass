@@ -9,10 +9,10 @@
 		<div class="container pos-vertical-center">
 			<div class="row">
 				<div class="col-sm-12">
-					<h3 style="font-weight: bold;">
+					<h4 style="font-weight: bold;">
 						You are one step close to achieving your dreams to study abroad with a scholarship. Let our tutors help you achieve a 1200+ score.
 
-					</h3>
+					</h4>
 					<a class="btn btn--primary type--uppercase" href="gmatReg.php">
                                 <span class="btn__text">
                                     GET A TUTOR

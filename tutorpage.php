@@ -15,7 +15,7 @@
 							Obtain satisfaction in contributing to your community and impacting lives by doing what you do
 							Make money out of your passion
 						</h4>
-						<a class="btn btn--primary type--uppercase" href="gmatReg.php">
+						<a class="btn btn--primary type--uppercase" href="tutorreg.php">
                                     <span class="btn__text">
                                         Become a tutor
                                     </span>

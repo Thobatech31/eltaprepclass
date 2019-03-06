@@ -14,7 +14,7 @@
 						<p>
 							You are one step close to achieving your dreams to study abroad with a scholarship. Let our tutors help you achieve a 1200+ score.
 						</p>
-						<a class="btn btn--primary type--uppercase" href="gmatReg.php">
+						<a class="btn btn--primary type--uppercase" href="satreg.php">
                                     <span class="btn__text">
                                         GET A TUTOR
                                     </span>

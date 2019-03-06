@@ -27,7 +27,7 @@
 
 		/*@import url('//netdna.bootstrapcdn.com/bootstrap/3.0.0/css/bootstrap-theme.min.css');*/
 		body {
-			margin-top:30px;
+			margin-top:0px;
 		}
 		.stepwizard-step p {
 			margin-top: 0px;
@@ -80,9 +80,13 @@
 			padding-right: 10px;
 			padding-left: 10px;
 		}
+		#textStyle{
+			color:#0276FD;
+			font-weight: bold;
+		}
 	</style>
 </head>
-<body class=" ">
+<body style="background-image: url('img/inner-6.jpg')">
 <a id="start"></a>
 <div class="nav-container ">
 	<div class="bar bar--sm visible-xs">
@@ -130,9 +134,9 @@
 					</div>
 					<!--end module-->
 					<div class="bar__module">
-						<a class="btn btn--sm btn--primary type--uppercase" href="#">
+						<a class="btn btn--sm btn--primary type--uppercase" href="index.php">
                                     <span class="btn__text">
-                                        Become A Tutor
+                                        Get A Tutor
                                     </span>
 						</a>
 					</div>
@@ -149,22 +153,24 @@
 </div>
 <div class="main-container">
 	<section>
+
 		<div class="container">
-			<div class="col-md-7">
+			<div class="col-md-2"></div>
+			<div class="col-md-8">
 				<div class="stepwizard">
 					<div class="stepwizard-row setup-panel">
 						<div class="stepwizard-step col-xs-4">
 							<a href="#step-1" type="button" class="btn btn-success btn-circle">1</a>
-							<p><small>Exam Details</small></p>
+							<p style="color: white; font-weight: bold; font-size: 15px;">Personal Information</p>
 						</div>
 
 						<div class="stepwizard-step col-xs-4">
-							<a href="#step-3" type="button" class="btn btn-default btn-circle" disabled="disabled">3</a>
-							<p><small>Personal Information</small></p>
+							<a href="#step-2" type="button" class="btn btn-default btn-circle" disabled="disabled">2</a>
+							<p style="color: white; font-weight: bold; font-size: 15px;">Wor Experience</p>
 						</div>
 						<div class="stepwizard-step col-xs-4">
-							<a href="#step-4" type="button" class="btn btn-default btn-circle" disabled="disabled">4</a>
-							<p><small>Lesson Deatails</small></p>
+							<a href="#step-3" type="button" class="btn btn-default btn-circle" disabled="disabled">3</a>
+							<p style="color: white; font-weight: bold; font-size: 15px;">Document Upload</p>
 						</div>
 					</div>
 				</div><br/>
@@ -172,18 +178,18 @@
 				<form role="form">
 					<div class="panel panel-primary setup-content" id="step-1">
 						<div class="panel-heading">
-							<h3 class="panel-title">TUTOR REGISTRATION PAGE</h3>
+							<h3 class="panel-title" style="font-weight: bold">TUTOR REGISTRATION PAGE</h3>
 						</div>
 						<div class="panel-body">
 							<div class="row">
 								<div class="col-md-6">
 									<label>First Name</label>
-									<input type="text" name="first_name" required="required" placeholder="Enter Your First Name" />
+									<input type="text" name="first_name" placeholder="Enter Your First Name" />
 								</div>
 
 								<div class="col-md-6">
 									<label>Last Name</label>
-									<input type="text" name="last_name" required="required" placeholder="Enter Your Last Name" />
+									<input type="text" name="last_name" placeholder="Enter Your Last Name" />
 								</div>
 							</div><br/>
 
@@ -191,7 +197,7 @@
 								<div class="col-md-6">
 									<label>Sex </label>
 									<div class="input-select">
-										<select required="required">
+										<select>
 											<option selected="" value="Default">Select An Option</option>
 											<option value="Male">Male</option>
 											<option value="Female">Female</option>
@@ -200,7 +206,7 @@
 								</div>
 								<div class="col-md-6">
 									<label>Date of Birth</label>
-									<input type="text" name="dob" required="required" placeholder="DD/MM/YY" />
+									<input type="text" name="dob" placeholder="DD/MM/YY" />
 								</div>
 
 							</div><br/>
@@ -208,12 +214,12 @@
 							<div class="row">
 								<div class="col-md-6">
 									<label>Email</label>
-									<input type="text" name="email" required="required" placeholder="Enter Your Email" />
+									<input type="text" name="email" placeholder="Enter Your Email" />
 								</div>
 
 								<div class="col-md-6">
 									<label>Phone Number</label>
-									<input type="text" name="phone_no" required="required" placeholder="Enter Your Phone Number" />
+									<input type="text" name="phone_no" placeholder="Enter Your Phone Number" />
 								</div>
 							</div><br/>
 
@@ -226,18 +232,18 @@
 							</div><br/>
 
 
-							<center><h5>EDUCATIONAL QUALIFICATION</h5></center>
+							<center><h5 id="textStyle">EDUCATIONAL QUALIFICATION</h5></center>
 
 							<div class="row">
 								<div class="col-md-6">
 									<label>Name of school or institute</label>
-									<input type="text" name="text"  required="required" placeholder="Enter Name of school" />
+									<input type="text" name="text"  placeholder="Enter Name of school" />
 
 								</div>
 
 								<div class="col-md-6">
 									<label>Course of Study</label>
-									<input type="text" name="text"  required="required" placeholder="Enter Course of Study" />
+									<input type="text" name="text"  placeholder="Enter Course of Study" />
 
 								</div>
 
@@ -247,13 +253,13 @@
 							<div class="row">
 								<div class="col-md-6">
 									<label>Degree</label>
-									<input type="text" name="text"  required="required" placeholder="Enter your Degree" />
+									<input type="text" name="text"  placeholder="Enter your Degree" />
 
 								</div>
 
 								<div class="col-md-6">
 									<label>Degree D ate</label>
-									<input type="text" name="date" class="datepicker" required="required" placeholder="Choose a date" />
+									<input type="text" name="date" class="datepicker" placeholder="Choose a date" />
 
 								</div>
 
@@ -265,38 +271,38 @@
 					</div>
 
 
-					<div class="panel panel-primary setup-content" id="step-3">
+
+					<div class="panel panel-primary setup-content" id="step-2">
 						<div class="panel-heading">
 							<h3 class="panel-title">TUTOR REGISTRATION PAGE</h3>
 						</div>
 						<div class="panel-body">
-							<p>Work Experience</p>
 
 							<div class="row">
 								<div class="col-md-6">
 									<label>Name of company/ organization   </label>
-									<input type="text" name="name" required="required" placeholder="Enter Name of company" />
+									<input type="text" name="name" placeholder="Enter Name of company" />
 								</div>
 
 								<div class="col-md-6">
 									<label>Job Role</label>
-									<input type="text" name="job_role" required="required" placeholder="Enter Job Role" />
+									<input type="text" name="job_role" placeholder="Enter Job Role" />
 								</div>
 							</div><br/>
 
 							<div class="row">
 								<div class="col-md-6">
 									<label>Start Date</label>
-									<input type="text" name="date" class="datepicker" required="required" placeholder="Choose a date" />
+									<input type="text" name="date" class="datepicker" placeholder="Choose a date" />
 								</div>
 
 								<div class="col-md-6">
 									<label>End Date</label>
-									<input type="text" name="date" class="datepicker" required="required" placeholder="Choose a date" />
+									<input type="text" name="date" class="datepicker" placeholder="Choose a date" />
 								</div>
 							</div><br/>
 
-							<center><h5>TEACHING EXPERIENCE</h5></center>
+							<center><h5 id="textStyle">TEACHING EXPERIENCE</h5></center>
 
 							<div class="row">
 								<div class="col-md-12">
@@ -365,21 +371,20 @@
 
 							</div><br/>
 
-							<center><h5>TEACHING EXPERIENCE</h5></center>
 							<div class="row">
-								<label>Select a subject you teach </label><br/>
+								<label style="font-size: 13px;">Select a subject you teach </label><br/>
 								<div class="col-md-12">
 									<div class="col-sm-3">
 										<div class="input-radio">
-											<span class="input__label">SS Class</span>
-											<input type="radio" name="SS_Class" value="SS_Class" />
+											<span class="input__label">SAT Math</span>
+											<input type="radio" name="SAT Math" value="SAT Math" />
 											<label></label>
 										</div>
 									</div>
 									<div class="col-sm-3">
 										<div class="input-radio">
-											<span class="input__label">Undergraduate</span>
-											<input id="radio-input-2" type="radio" name="Undergraduate" value="Undergraduate" />
+											<span class="input__label">SAT reading/writing</span>
+											<input id="radio-input-2" type="radio" name="SAT reading/writing" value="SAT reading/writing" />
 											<label for="radio-input-2"></label>
 										</div>
 									</div>
@@ -387,53 +392,58 @@
 
 									<div class="col-sm-3">
 										<div class="input-radio">
-											<span class="input__label">Undergraduate</span>
-											<input id="radio-input-2" type="radio" name="Undergraduate" value="Undergraduate" />
+											<span class="input__label">GRE Quantitative</span>
+											<input id="radio-input-2" type="radio" name="GRE Quantitative" value="GRE Quantitative" />
 											<label for="radio-input-2"></label>
 										</div>
 									</div>
 
 									<div class="col-sm-3">
 										<div class="input-radio">
-											<span class="input__label">Adults</span>
-											<input id="radio-input-4" type="radio" name="Adults" value="Adults" />
-											<label for="radio-input-4"></label>
+											<span class="input__label">GMAT Quantitative</span>
+											<input id="radio-input-2" type="radio" name="GMAT Quantitative" value="GMAT Quantitative" />
+											<label for="radio-input-2"></label>
 										</div>
 									</div>
+
+
 								</div>
+
 								<div class="col-md-12">
-									<div class="col-sm-3">
+									<div class="col-sm-2">
 										<div class="input-radio">
-											<span class="input__label">SS Class</span>
-											<input type="radio" name="SS_Class" value="SS_Class" />
+											<span class="input__label">TOEFL</span>
+											<input type="radio" name="TOEFL" value="TOEFL" />
 											<label></label>
 										</div>
 									</div>
-									<div class="col-sm-3">
-										<div class="input-radio">
-											<span class="input__label">Undergraduate</span>
-											<input id="radio-input-2" type="radio" name="Undergraduate" value="Undergraduate" />
-											<label for="radio-input-2"></label>
-										</div>
-									</div>
-
 
 									<div class="col-sm-3">
 										<div class="input-radio">
-											<span class="input__label">Undergraduate</span>
-											<input id="radio-input-2" type="radio" name="Undergraduate" value="Undergraduate" />
-											<label for="radio-input-2"></label>
-										</div>
-									</div>
-
-									<div class="col-sm-3">
-										<div class="input-radio">
-											<span class="input__label">Adults</span>
-											<input id="radio-input-4" type="radio" name="Adults" value="Adults" />
+											<span class="input__label">IELTS</span>
+											<input id="radio-input-4" type="radio" name="IELTS" value="IELTS" />
 											<label for="radio-input-4"></label>
 										</div>
 									</div>
+
+
+									<div class="col-sm-3">
+										<div class="input-radio">
+											<span class="input__label">GMAT verbal/analytical</span>
+											<input id="radio-input-4" type="radio" name="GMAT verbal/analytical" value="GMAT verbal/analytical" />
+											<label for="radio-input-4"></label>
+										</div>
+									</div>
+
+									<div class="col-sm-4">
+										<div class="input-radio">
+											<span class="input__label">GMAT verbal Reasoning/analytical</span>
+											<input id="radio-input-2" type="radio" name="GMAT verbal/analytical" value="GMAT verbal/analytical" />
+											<label for="radio-input-2"></label>
+										</div>
+									</div>
 								</div>
+
 
 							</div><br/>
 
@@ -441,116 +451,54 @@
 						</div>
 					</div>
 
-					<div class="panel panel-primary setup-content" id="step-4">
+
+					<div class="panel panel-primary setup-content" id="step-3">
 						<div class="panel-heading">
-							<h3 class="panel-title">GMAT REGISTRATION PAGE</h3>
+							<h3 class="panel-title">TUTOR REGISTRATION PAGE</h3>
 						</div>
 						<div class="panel-body">
-							<p>LESSON DETAILS</p>
 							<div class="row">
+									<h3 align="center" id="textStyle">Profile photo</h3>
+									<h5 id="textStyle">Qualities</h5>
+									<div class="col-md-8">
+										<p>Photo should be bright and <br/>
+										Background must look presentable<br/>
+										Do not upload a passport photo, pdf, scanned or framed photo<br/>
+										Photo should be of high quality, friendly and professional
+										</p>
+									</div>
+
+								<div class="col-md-4">
+									<label>Upload Your Photo</label>
+									<input type="file" name="file" placeholder="Upload your photo" />
+								</div>
+							</div><br/>
+
+							<div class="row">
+								<h5 id="textStyle">ID verification</h5>
 								<div class="col-md-12">
-									<label style="font-size: 16px;">What days do you want to have your lesson?</label><br/>
-									<div class="col-sm-2">
-										<div class="input-radio">
-											<span class="input__label">Monday</span>
-											<input type="radio" name="Monday" value="Monday" />
-											<label></label>
-										</div>
-									</div>
-									<div class="col-sm-2">
-										<div class="input-radio">
-											<span class="input__label">Tuesday</span>
-											<input type="radio" name="Tuesday" value="Tuesday" />
-											<label></label>
-										</div>
-									</div>
-									<div class="col-sm-2">
-										<div class="input-radio">
-											<span class="input__label">Wednesday</span>
-											<input type="radio" name="radio" value="Wednesday" />
-											<label></label>
-										</div>
-									</div>
-									<div class="col-sm-2">
-										<div class="input-radio">
-											<span class="input__label">Thursday</span>
-											<input type="radio" name="radio" value="Thursday" />
-											<label></label>
-										</div>
-									</div>
-									<div class="col-sm-1">
-										<div class="input-radio">
-											<span class="input__label">Friday</span>
-											<input type="radio" name="radio" value="Friday" />
-											<label></label>
-										</div>
-									</div>
-									<div class="col-sm-2">
-										<div class="input-radio">
-											<span class="input__label">Saturday</span>
-											<input type="radio" name="radio" value="Saturday" />
-											<label></label>
-										</div>
-									</div>
-									<div class="col-sm-1">
-										<div class="input-radio">
-											<span class="input__label">Sunday</span>
-											<input type="radio" name="radio" value="Sunday" />
-											<label></label>
-										</div>
-									</div>
+									<p>Upload your ID for verification. Kindly note after the verification we will delete your ID
+										from our database.
 
+									</p>
+
+									<center><input style="width: 250px;" type="file" name="file" placeholder="Upload your photo" /></center>
 								</div>
 
 							</div><br/>
 
-							<div class="row">
-								<div class="col-md-6">
-									<label>Start Date</label>
-									<input type="text" name="date" required="required" class="datepicker" placeholder="Choose a date" />
-								</div>
 
-								<div class="col-md-6">
-									<label>Duration</label>
-									<div class="input-select">
-										<select>
-											<option selected="" value="Default">Select An Option</option>
-											<option value="1 week">1 week</option>
-											<option value="2 weeks">2 weeks</option>
-											<option value="3 weeks">3 week</option>
-											<option value="4 weeks">4 weeks</option>
-										</select>
-									</div>
-								</div>
-							</div><br/>
-
-							<div class="row">
-								<div class="col-md-6">
-									<label>Hours Per day </label>
-									<input type="text" name="start_date" required="required" placeholder="E" />
-								</div>
-
-								<div class="col-md-6">
-									<label>Time</label>
-									<div class="input-select">
-										<select>
-											<option selected="" value="Default">Select An Option</option>
-											<option value="8am To 7pm">8am To 7pm</option>
-											<option value="9am To 7pm">9am To 7pm</option>
-										</select>
-									</div>
-								</div>
-							</div><br/>
-							<a href="#" class="btn btn-success pull-right" type="submit">Submit</a>
+							<a href="#" class="btn btn-success pull-right" type="submit">Submit application</a>
 
 						</div>
 					</div>
 				</form>
 			</div>
+			<div class="col-md-2"></div>
 		</div>
 	</section>
 
-	<?php require('include/footer.php');?>
+	<?php require('include/footerReg.php');?>
 
 </body>
 </html>

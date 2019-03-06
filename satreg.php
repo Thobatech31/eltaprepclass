@@ -174,13 +174,13 @@
 				<form role="form">
 					<div class="panel panel-primary setup-content" id="step-1">
 						<div class="panel-heading">
-							<h3 class="panel-title">GMAT REGISTRATION PAGE</h3>
+							<h3 class="panel-title">SAT REGISTRATION PAGE</h3>
 						</div>
 						<div class="panel-body" style=" overflow-style: auto; overflow:scroll;">
 							<p style="font-size: 12px; color:#0276FD;">LET US HELP YOU REACH THAT TARGET SCORE WITH OUR EXPERIENCED TUTORS</p>
 							<div class="row">
 								<div class="col-md-6">
-									<label>Which GMAT exam do you intend sitting for? </label>
+									<label>Which SAT exam do you intend sitting for? </label>
 									<div class="input-select">
 										<select>
 											<option selected="" value="Default">Select An Option</option>
@@ -190,13 +190,13 @@
 									</div>
 								</div>
 								<div class="col-md-6">
-									<label>What is your purpose for sitting for the exam? </label>
+									<label>What is the Purpose of Exam</label>
 									<div class="input-select">
 										<select required/>
 										<option selected="" value="Default">Select An Option</option>
-										<option value="MBA ADMISSION">MBA ADMISSION</option>
-										<option value="GRADUATE ADMISSION">GRADUATE ADMISSION</option>
-										<option value="RECRUITMENT">RECRUITMENT</option>
+										<option value="Yes">Undergraduate admission</option>
+										<option value="Immigration">English Proficiency</option>
+
 										</select>
 									</div>
 								</div>
@@ -511,22 +511,8 @@
 
 							<div class="row">
 								<div class="col-md-12">
-									<label>What area do you require more help with?</label><br/>
-									<div class="col-sm-3">
-										<div class="input-radio">
-											<span class="input__label">Speaking</span>
-											<input type="radio" name="radio" value="Speaking" />
-											<label></label>
-										</div>
-									</div>
-									<div class="col-sm-3">
-										<div class="input-radio">
-											<span class="input__label">Listening</span>
-											<input id="radio-input-2" type="radio" name="radio" value="Listening" />
-											<label for="radio-input-2"></label>
-										</div>
-									</div>
-									<div class="col-sm-3">
+									<label>What area do you need tutoring in?</label><br/>
+									<div class="col-sm-4">
 										<div class="input-radio">
 											<span class="input__label">Writing</span>
 											<input id="radio-input-3" type="radio" name="radio" value="Writing" />
@@ -534,11 +520,19 @@
 										</div>
 									</div>
 
-									<div class="col-sm-3">
+									<div class="col-sm-4">
 										<div class="input-radio">
 											<span class="input__label">Reading</span>
 											<input id="radio-input-4" type="radio" name="radio" value="Reading" />
 											<label for="radio-input-4"></label>
+										</div>
+									</div>
+									
+									<div class="col-sm-4">
+										<div class="input-radio">
+											<span class="input__label">Math</span>
+											<input id="radio-input-2" type="radio" name="radio" value="Math" />
+											<label for="radio-input-2"></label>
 										</div>
 									</div>
 								</div>
@@ -553,9 +547,10 @@
 
 					<div class="panel panel-primary setup-content" id="step-2">
 						<div class="panel-heading">
-							<h3 class="panel-title">GMAT REGISTRATION PAGE</h3>
+							<h3 class="panel-title">SAT REGISTRATION PAGE</h3>
 						</div>
 						<div class="panel-body">
+							<p>PERSONAL/CONTACT INFORMATION</p>
 
 							<div class="row">
 								<div class="col-md-6">
@@ -647,7 +642,7 @@
 
 					<div class="panel panel-primary setup-content" id="step-3">
 						<div class="panel-heading">
-							<h3 class="panel-title">GMAT REGISTRATION PAGE</h3>
+							<h3 class="panel-title">SAT REGISTRATION PAGE</h3>
 						</div>
 						<div class="panel-body">
 							<div class="row">
