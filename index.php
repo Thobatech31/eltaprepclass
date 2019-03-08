@@ -62,6 +62,11 @@ font-size: 12px;
 		font-weight: bold;
 		font-size: 20px;
 	}
+
+#textStyle{
+	color:#0276FD;
+	font-weight: bold;
+}
 </style>
 	
 </head>
@@ -376,7 +381,7 @@ font-size: 12px;
 
 
 	<div class="container-fluid">
-		<div class="team pushtop-0" style="margin: -270px;">
+		<div class="team pushtop-0" style="margin: -120px;">
 			<p class="pretitle text-center" id="header">OUR TEAM MEMBERS</p>
 			<h5 class="text-center">Meet our professional team</h5>
 			<div class="row text-center">
@@ -487,7 +492,9 @@ font-size: 12px;
 		<h3 id="textStyle" align="center">FREQUENTLY ASKED QUESTIONS </h3><br/>
 		<div class="container">
 			<div class="row">
-				<div class="col-sm-7">
+				<div class="col-sm-1">
+				</div>
+				<div class="col-sm-10">
 					<ul class="accordion accordion-1" style="min-height: 508px;">
 						<li class="">
 							<div class="accordion__title">
@@ -545,6 +552,8 @@ font-size: 12px;
 						</li>
 					</ul>
 					<!--end accordion-->
+				</div>
+				<div class="col-sm-1">
 				</div>
 			</div>
 			<!--end of row-->

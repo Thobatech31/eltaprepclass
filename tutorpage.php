@@ -156,7 +156,9 @@
 		<h3 id="textStyle" align="center">FREQUENTLY ASKED QUESTIONS </h3><br/>
 		<div class="container">
 			<div class="row">
-				<div class="col-sm-7">
+				<div class="col-sm-1">
+				</div>
+				<div class="col-sm-10">
 					<ul class="accordion accordion-1" style="min-height: 508px;">
 						<li class="">
 							<div class="accordion__title">
@@ -214,6 +216,8 @@
 						</li>
 					</ul>
 					<!--end accordion-->
+				</div>
+				<div class="col-sm-1">
 				</div>
 			</div>
 			<!--end of row-->
