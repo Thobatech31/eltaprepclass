@@ -106,17 +106,17 @@
 			<!--end of container-->
 	</section>
 
-	<section class="text-center bg--secondary">
+	<section class="text-center" style="background-color: darkblue">
 		<div class="container">
-		<h3 id="textStyle" align="center">REGISTER IN THREE SIMPLE STEPS</h3><br/>
+		<h3 id="textStyle" align="center" style="color: white; font-weight: bold;">REGISTER IN THREE SIMPLE STEPS</h3><br/>
 			<div class="row">
 				<div class="col-sm-4 col-xs-12" >
 					<div class="feature">
 						<div class="radial" data-value="77" data-size="208" data-bar-width="8" data-color="#4a90e2">
-							<span class="h3 radial__label">REGRISTRATION   </span>
+							<span class="h3 radial__label" style="color: white; font-weight: bold;">REGRISTRATION   </span>
 						</div>
 						<!--end radial-->
-						<p>
+						<p style="color:white; font-weight: bold;">
 
 						Fill the forms provided with the necessary information.
 						</p>
@@ -125,10 +125,10 @@
 				<div class="col-sm-4 col-xs-12">
 					<div class="feature">
 						<div class="radial" data-value="86" data-size="208" data-bar-width="8" data-color="#4a90e2">
-							<span class="h3 radial__label">VERIFICATION</span>
+							<span class="h3 radial__label" style="color: white; font-weight: bold;">VERIFICATION</span>
 						</div>
 						<!--end radial-->
-						<p>
+						<p style="color:white; font-weight: bold;">
 
 							Upload your documents and ID for verification
 						</p>
@@ -137,10 +137,10 @@
 				<div class="col-sm-4 col-xs-12">
 					<div class="feature">
 						<div class="radial" data-value="100" data-size="208" data-bar-width="8" data-color="#4a90e2">
-							<span class="h3 radial__label">MATCH</span>
+							<span class="h3 radial__label" style="color: white; font-weight: bold;">MATCH</span>
 						</div>
 						<!--end radial-->
-						<p>
+						<p style="color:white; font-weight: bold;">
 
 							We connect you to clients seeking your service
 						</p>
@@ -150,7 +150,7 @@
 			<!--end of row-->
 		</div>
 		<!--end of container-->
-	</section>
+	</section><br/><br/>
 
 	<section class="">
 		<h3 id="textStyle" align="center">FREQUENTLY ASKED QUESTIONS </h3><br/>

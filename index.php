@@ -234,6 +234,8 @@ font-size: 12px;
 		</div>
 	</div>
 
+
+
 	<div class="container">
 		<div class="widget widget1 text-center drag-this-up">
 			<h4 class="pretitle" id="header">Getting a Professional Home Tutor is easier than you think</h4>
@@ -276,8 +278,7 @@ font-size: 12px;
 						<img src="assets/img/about.png" class="img-fluid img-dashboard" alt="Widget image">
 					</div>
 					<div class="col-md-6 drag-this-right">
-						<p class="pretitle" id="header">MAIN APPLICATION FEATURES</p>
-						<h5>Learn in the environment of your choice</h5>
+						<h5 class="pretitle" id="header">Learn in the environment of your choice</h5>
 
 						<p class="maintext">
 							Do you feel you need help to boost your performance in your prep        examination? And you want it done in the comfort of your home? If so Travcut Tutor gives you the        opportunity to receive expert tutoring services by our tutors who are very effective and affordable and       can help you reach your target score.						</p>
@@ -294,7 +295,46 @@ font-size: 12px;
 		</div>
 	</div>
 
-	<div class="testimonials-bg pushtop-0" style="background-image: url('assets/img/testimonials.png'); margin-top: -150px;">
+	<div class="container">
+		<div class="widget partners drag-this-up text-center pushtop-70">
+			<p class="pretitle" id="header">OUR BUSINESS PARTNERS</p>
+			<h5>We collaborate with others</h5><br/><br/>
+			<div class="row">
+				<div class="col-md-3 col-sm-6">
+					<div class="partner">
+						<a href="#"><img src="http://via.placeholder.com/81x81" alt="Partner"></a>
+						<h6>Business Analytics</h6>
+						<p>Congue nihil imperdiet doming option congue nihil.</p>
+					</div>
+				</div>
+				<div class="col-md-3 col-sm-6">
+					<div class="partner">
+						<a href="#"><img src="http://via.placeholder.com/81x81" alt="Partner"></a>
+						<h6>Business Solutions</h6>
+						<p>Congue nihil imperdiet doming option congue nihil.</p>
+					</div>
+				</div>
+				<div class="col-md-3 col-sm-6">
+					<div class="partner">
+						<a href="#"><img src="http://via.placeholder.com/81x81" alt="Partner"></a>
+						<h6>Core Ingredients</h6>
+						<p>Congue nihil imperdiet doming option congue nihil.</p>
+					</div>
+				</div>
+				<div class="col-md-3 col-sm-6">
+					<div class="partner">
+						<a href="#"><img src="http://via.placeholder.com/81x81" alt="Partner"></a>
+						<h6>Software Drops</h6>
+						<p>Congue nihil imperdiet doming option congue nihil.</p>
+					</div>
+				</div>
+			</div>
+		</div>
+
+	</div>
+
+
+	<!--<div class="testimonials-bg pushtop-0" style="background-image: url('assets/img/testimonials.png'); margin-top: -150px;">
 		<div class="container">
 			<div class="widget testimonials text-center drag-this-up pushtop-0">
 				<p class="pretitle" id="header">CLIENT TESTIMONIALS</p>
@@ -330,13 +370,13 @@ font-size: 12px;
 				</div>
 			</div>
 		</div>
-	</div>
+	</div>-->
 
 <main id="GetTutor">
 
 
 	<div class="container-fluid">
-		<div class="team pushtop-70">
+		<div class="team pushtop-0" style="margin: -270px;">
 			<p class="pretitle text-center" id="header">OUR TEAM MEMBERS</p>
 			<h5 class="text-center">Meet our professional team</h5>
 			<div class="row text-center">
@@ -441,46 +481,76 @@ font-size: 12px;
 		</div>
 	</div>
 
-	<div class="container">
-		<div class="widget partners drag-this-up text-center pushtop-70">
-			<p class="pretitle" id="header">OUR BUSINESS PARTNERS</p>
-			<h5>We collaborate with others</h5><br/><br/>
+
+
+	<section class="">
+		<h3 id="textStyle" align="center">FREQUENTLY ASKED QUESTIONS </h3><br/>
+		<div class="container">
 			<div class="row">
-				<div class="col-md-3 col-sm-6">
-					<div class="partner">
-						<a href="#"><img src="http://via.placeholder.com/81x81" alt="Partner"></a>
-						<h6>Business Analytics</h6>
-						<p>Congue nihil imperdiet doming option congue nihil.</p>
-					</div>
-				</div>
-				<div class="col-md-3 col-sm-6">
-					<div class="partner">
-						<a href="#"><img src="http://via.placeholder.com/81x81" alt="Partner"></a>
-						<h6>Business Solutions</h6>
-						<p>Congue nihil imperdiet doming option congue nihil.</p>
-					</div>
-				</div>
-				<div class="col-md-3 col-sm-6">
-					<div class="partner">
-						<a href="#"><img src="http://via.placeholder.com/81x81" alt="Partner"></a>
-						<h6>Core Ingredients</h6>
-						<p>Congue nihil imperdiet doming option congue nihil.</p>
-					</div>
-				</div>
-				<div class="col-md-3 col-sm-6">
-					<div class="partner">
-						<a href="#"><img src="http://via.placeholder.com/81x81" alt="Partner"></a>
-						<h6>Software Drops</h6>
-						<p>Congue nihil imperdiet doming option congue nihil.</p>
-					</div>
+				<div class="col-sm-7">
+					<ul class="accordion accordion-1" style="min-height: 508px;">
+						<li class="">
+							<div class="accordion__title">
+								<span class="h5" id="textStyle">Would the teaching be done offline or online? </span>
+							</div>
+							<div class="accordion__content">
+								<p class="lead">
+
+									It will be done at the client preferred location.
+								</p>
+							</div>
+						</li>
+						<li class="">
+							<div class="accordion__title">
+								<span class="h5" id="textStyle">What are things to put into consideration to enable me meet my student’s requirements?</span>
+							</div>
+							<div class="accordion__content">
+								<p class="lead">
+									Be proficient in your subject area. The more proficient you are the more sought after you become.
+								</p>
+
+							</div>
+						</li>
+						<li>
+							<div class="accordion__title">
+								<span class="h5" id="textStyle">Can I fix my own lesson schedule?</span>
+							</div>
+							<div class="accordion__content">
+								<p class="lead">
+									The lesson hours depends on our client preference but can be rescheduled to benefit you both.
+								</p>
+							</div>
+						</li>
+
+						<li>
+							<div class="accordion__title">
+								<span class="h5" id="textStyle">How much will I get paid?</span>
+							</div>
+							<div class="accordion__content">
+								<p class="lead">
+									Payments differs due to some factors such as duration of Lesson.
+								</p>
+							</div>
+						</li>
+
+						<li>
+							<div class="accordion__title">
+								<span class="h5" id="textStyle">How do I receive my Money?</span>
+							</div>
+							<div class="accordion__content">
+								<p class="lead">
+									Once it has been confirmed that you have successfully completed your lesson, a payment would be made to your bank account.
+								</p>
+							</div>
+						</li>
+					</ul>
+					<!--end accordion-->
 				</div>
 			</div>
+			<!--end of row-->
 		</div>
-		
-	</div>
-	
-
-
+		<!--end of container-->
+	</section>
 	
 </main>
 

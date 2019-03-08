@@ -2,15 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b5800aee-2189-4b1e-81bc-05c6990a10c2" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/satreg.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gmat.php" beforeDir="false" afterPath="$PROJECT_DIR$/gmat.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gmatReg.php" beforeDir="false" afterPath="$PROJECT_DIR$/gmatReg.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/index.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sat.php" beforeDir="false" afterPath="$PROJECT_DIR$/sat.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tutor_reg.php" beforeDir="false" afterPath="$PROJECT_DIR$/tutor_reg.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/tutorpage.php" beforeDir="false" afterPath="$PROJECT_DIR$/tutorpage.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tutorreg.php" beforeDir="false" afterPath="$PROJECT_DIR$/tutorreg.php" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -25,8 +19,8 @@
           <file pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/index.php">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="345">
-                  <caret line="126" column="46" selection-start-line="126" selection-start-column="46" selection-end-line="126" selection-end-column="46" />
+                <state relative-caret-position="163">
+                  <caret line="378" column="54" selection-start-line="378" selection-start-column="54" selection-end-line="378" selection-end-column="54" />
                 </state>
               </provider>
             </entry>
@@ -53,8 +47,8 @@
           <file pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/tutorpage.php">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="406">
-                  <caret line="29" selection-start-line="29" selection-end-line="29" />
+                <state relative-caret-position="2156">
+                  <caret line="154" column="4" selection-start-line="154" selection-start-column="4" selection-end-line="221" selection-end-column="14" />
                 </state>
               </provider>
             </entry>
@@ -80,8 +74,8 @@
           <file pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/satreg.php">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="325">
-                  <caret line="179" column="8" selection-start-line="179" selection-start-column="8" selection-end-line="179" selection-end-column="8" />
+                <state relative-caret-position="1204">
+                  <caret line="86" column="28" selection-start-line="86" selection-start-column="28" selection-end-line="86" selection-end-column="28" />
                 </state>
               </provider>
             </entry>
@@ -210,7 +204,6 @@
       <find>pr</find>
       <find>hidden</find>
       <find>build</find>
-      <find>client</find>
       <find>there</find>
       <find>personal</find>
       <find>required</find>
@@ -219,6 +212,9 @@
       <find>gmat</find>
       <find>required=&quot;required&quot;</find>
       <find>SAT</find>
+      <find>register</find>
+      <find>client</find>
+      <find>fre</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -243,9 +239,9 @@
         <option value="$PROJECT_DIR$/tutor_reg.php" />
         <option value="$PROJECT_DIR$/tutorreg.php" />
         <option value="$PROJECT_DIR$/include/header.php" />
-        <option value="$PROJECT_DIR$/tutorpage.php" />
         <option value="$PROJECT_DIR$/gmatReg.php" />
         <option value="$PROJECT_DIR$/satreg.php" />
+        <option value="$PROJECT_DIR$/tutorpage.php" />
         <option value="$PROJECT_DIR$/index.php" />
       </list>
     </option>
@@ -261,6 +257,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -281,7 +278,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -338,6 +334,9 @@
       <workItem from="1551634331698" duration="4924000" />
       <workItem from="1551685575538" duration="247000" />
       <workItem from="1551690991515" duration="236000" />
+      <workItem from="1551878775284" duration="1909000" />
+      <workItem from="1551991715730" duration="1272000" />
+      <workItem from="1552031250084" duration="241000" />
     </task>
     <task id="LOCAL-00001" summary="modifying the homepage">
       <created>1550304185256</created>
@@ -416,17 +415,31 @@
       <option name="project" value="LOCAL" />
       <updated>1551558557389</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="worked on tutor page">
+      <created>1551878847785</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1551878847785</updated>
+    </task>
+    <task id="LOCAL-00013" summary="adding images">
+      <created>1551879542606</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1551879542606</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="84600000" />
+    <option name="totallyTimeSpent" value="88022000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.17776097" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.18229954" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -472,6 +485,8 @@
     <option name="version" value="1" />
   </component>
   <component name="VcsManagerConfiguration">
+    <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
+    <option name="CHECK_NEW_TODO" value="false" />
     <MESSAGE value="modifying the homepage" />
     <MESSAGE value="modifying the homepage and adding gmat page" />
     <MESSAGE value="adding gmat page" />
@@ -481,7 +496,8 @@
     <MESSAGE value="adding a tutor reg page" />
     <MESSAGE value="worked on some pages layout and gmat reg pag" />
     <MESSAGE value="worked on tutor page" />
-    <option name="LAST_COMMIT_MESSAGE" value="worked on tutor page" />
+    <MESSAGE value="adding images" />
+    <option name="LAST_COMMIT_MESSAGE" value="adding images" />
   </component>
   <component name="editorHistoryManager">
     <entry file="jar://$APPLICATION_HOME_DIR$/lib/platform-impl.jar!/resources/html5-schema/html5/common.rnc">
@@ -573,8 +589,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/tutorpage.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="406">
-          <caret line="29" selection-start-line="29" selection-end-line="29" />
+        <state relative-caret-position="2156">
+          <caret line="154" column="4" selection-start-line="154" selection-start-column="4" selection-end-line="221" selection-end-column="14" />
         </state>
       </provider>
     </entry>
@@ -599,10 +615,17 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1764">
+          <caret line="126" column="67" selection-start-line="126" selection-start-column="67" selection-end-line="126" selection-end-column="67" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/asidepage1.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="462">
-          <caret line="33" column="8" selection-end-line="403" selection-end-column="7" />
+        <state relative-caret-position="4648">
+          <caret line="332" column="32" selection-end-line="403" selection-end-column="7" />
         </state>
       </provider>
     </entry>
@@ -615,23 +638,29 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/sat.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="224">
-          <caret line="16" column="80" selection-start-line="16" selection-start-column="80" selection-end-line="16" selection-end-column="80" />
+        <state relative-caret-position="350">
+          <caret line="25" column="14" selection-end-line="279" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/satreg.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="8876">
+          <caret line="634" column="16" selection-end-line="766" selection-end-column="7" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/gmatReg.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2436">
-          <caret line="167" column="44" selection-start-line="167" selection-start-column="44" selection-end-line="167" selection-end-column="44" />
-          <caret line="174" column="26" selection-start-line="174" selection-start-column="26" selection-end-line="174" selection-end-column="26" />
+        <state relative-caret-position="238">
+          <caret line="17" column="45" selection-start-line="17" selection-start-column="45" selection-end-line="17" selection-end-column="45" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/include/header.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1106">
-          <caret line="79" column="33" selection-start-line="79" selection-start-column="33" selection-end-line="79" selection-end-column="33" />
+        <state relative-caret-position="420">
+          <caret line="30" column="28" selection-start-line="30" selection-start-column="28" selection-end-line="30" selection-end-column="28" />
         </state>
       </provider>
     </entry>
@@ -646,20 +675,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="535">
           <caret line="136" column="91" selection-start-line="136" selection-start-column="91" selection-end-line="136" selection-end-column="91" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/satreg.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="325">
-          <caret line="179" column="8" selection-start-line="179" selection-start-column="8" selection-end-line="179" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/index.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="345">
-          <caret line="126" column="46" selection-start-line="126" selection-start-column="46" selection-end-line="126" selection-end-column="46" />
         </state>
       </provider>
     </entry>
