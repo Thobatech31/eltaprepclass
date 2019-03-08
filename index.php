@@ -60,7 +60,7 @@ font-size: 12px;
 	#header{
 		color:#0276FD;
 		font-weight: bold;
-		font-size: 20px;
+		font-size: 22px;
 	}
 
 #textStyle{
