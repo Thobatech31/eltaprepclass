@@ -241,7 +241,7 @@ font-size: 12px;
 
 
 
-	<div class="container">
+	<!--<div class="container">
 		<div class="widget widget1 text-center drag-this-up">
 			<h4 class="pretitle" id="header">Getting a Professional Home Tutor is easier than you think</h4>
 			<center><p>Travcut tutor helps you bring your dreams to reality by providing you with the right<br/> assistance to ace your prep examinations.</p></center>
@@ -252,7 +252,8 @@ font-size: 12px;
 					</div>
 					<h6>Tell us your dreams.</h6>
 					<p>
-						Undergo counselling with professionals and let them tell you what you need to do to achieve that dream of yours.	</p>
+						Undergo counselling with professionals and let them tell you what you need to do to achieve that dream of yours.
+					</p>
 				</div>
 				<div class="col-md-4">
 					<div class="image-holder">
@@ -260,7 +261,8 @@ font-size: 12px;
 					</div>
 					<h6>Tutor Matching</h6>
 					<p>
-						We tell you the required exam to sit for and match you with an expert tutor to help you get your target score.					</p>
+						We tell you the required exam to sit for and match you with an expert tutor to help you get your target score.
+					</p>
 				</div>
 				<div class="col-md-4">
 					<div class="image-holder">
@@ -268,7 +270,49 @@ font-size: 12px;
 					</div>
 					<h6>Admission Counselling</h6>
 					<p>
-						We link you to internal admission counsellors who can help you with your process.					</p>
+						We link you to internal admission counsellors who can help you with your process.
+					</p>
+				</div>
+			</div>
+		</div>
+	</div>-->
+
+
+	<div class="widget10 extend-wrap" style="margin-top: 70px;">
+		<p class="pretitle text-center" id="header">Getting a Professional Home Tutor is easier than you think</p>
+		<center><p>Travcut tutor helps you bring your dreams to reality by providing you with the right<br/> assistance to ace your prep examinations.</p></center>
+
+		<div class="row" style="margin-top: 20px;">
+
+			<div class="col-md-5">
+				<section class="text-left drag-this-right" style="margin-top: -60px;">
+					<img src="assets/img/side1.png" class="pull-left" alt="Widget image">
+					<h3 >Tell us your dreams.</h3>
+					<p>
+						Undergo counselling with professionals and let them tell you what you need to do to achieve that dream of yours.
+					</p>
+				</section>
+				<section class="text-left drag-this-right" style="margin-top: -100px;">
+					<img src="assets/img/side2.png" class="pull-left" alt="Widget image">
+					<h3>Tutor Matching</h3>
+					<p>
+						We tell you the required exam to sit for and match you with an expert tutor to help you get your target score.
+					</p>
+				</section>
+				<section class="text-left drag-this-right" style="margin-top: -100px;">
+					<img src="assets/img/side1.png" class="pull-left" alt="Widget image">
+					<h3>Admission Counselling</h3>
+					<p>
+						We link you to internal admission counsellors who can help you with your process.
+					</p>
+				</section>
+			</div>
+
+			<div class="col-md-7 drag-this-left">
+				<div class="app-feature-slick">
+					<img src="assets/img/home3-howitworks.png" alt="Slider image">
+					<img src="assets/img/home3-howitworks 1.png" alt="Slider image">
+					<img src="assets/img/home3-howitworks 2.png" alt="Slider image">
 				</div>
 			</div>
 		</div>
@@ -300,7 +344,7 @@ font-size: 12px;
 		</div>
 	</div>
 
-	<div class="container">
+	<div class="container" style="margin-top: -80px;">
 		<div class="widget partners drag-this-up text-center pushtop-70">
 			<p class="pretitle" id="header">OUR BUSINESS PARTNERS</p>
 			<h5>We collaborate with others</h5><br/><br/>
@@ -380,8 +424,8 @@ font-size: 12px;
 <main id="GetTutor">
 
 
-	<div class="container-fluid">
-		<div class="team pushtop-0" style="margin: -120px;">
+	<div class="container-fluid" style="margin-top: -300px;">
+		<div class="team pushtop-0">
 			<p class="pretitle text-center" id="header">OUR TEAM MEMBERS</p>
 			<h5 class="text-center">Meet our professional team</h5>
 			<div class="row text-center">
@@ -463,108 +507,96 @@ font-size: 12px;
 		</div>
 	</div>
 <br/><br/><br/>
-	<div class="about4" >
+	<div class="about4" style="background-color: darkblue">
 		<div class="container">
-			<p class="pretitle text-center" id="header">WHAT WE DO</p>
+			<h4 class="pretitle text-center" style="color: white; font-weight: bold; ">WHAT WE DO</h4>
 			<h5 class="text-center">Our service overview</h5>
 			<div class="row">
-				<div class="col-md-4 col-sm-6">
-					<h6><i class="fa fa-heart-o fa-lg grad-1" aria-hidden="true"></i> User-friendly experiences</h6>
-					<p>With over 1000+ scholarship opportunities in our database,
-						we provide information on scholarships that suit your need and help identify the necessary requirement</p>
+				<div class="col-lg-4">
+
+					<section class="text-left drag-this-left" style="margin-top: -90px;">
+						<img src="assets/img/left1.png" class="pull-left" alt="Widget image">
+						<h5 style="color:white; font-weight: bold; margin-left: 70px; margin-top: 15px;"> Multiple cashboard options</h5>
+						<p>
+							Link you with internal admission counsellors who have worked with numerous students
+						</p>
+					</section>
+
+					<section class="text-left drag-this-left" style="margin-top: -90px;">
+						<img src="assets/img/left2.png" class="pull-left" alt="Widget image">
+						<h5 style="color:white; font-weight: bold; margin-left: 70px; margin-top: 15px;">Stet clita ea et gubergren, kasd magna no rebum</h5>
+						<p>
+							Bandit praesent luptatum zzril delenit augue duis dolore te feugait nulla facilis t quod mazim placerat famagna aliquam erat volutpat.
+						</p>
+					</section>
 				</div>
-				<div class="col-md-4 col-sm-6">
-					<h6><i class="fa fa-bar-chart fa-lg grad-1" aria-hidden="true"></i> Simple live statistics</h6>
-					<p>Based on your prep exam requirement we match you with a tutor that can help you ace your target score..</p>
+				<div class="col-lg-4 drag-this-up" style="margin-top: -60px;">
+					<img src="assets/img/ipad.png" alt="Widget image" class="img-fluid">
+
 				</div>
-				<div class="col-md-4 col-sm-6">
-					<h6><i class="fa fa-copy fa-lg grad-1" aria-hidden="true"></i> Multiple cashboard options</h6>
-					<p>Link you with internal admission counsellors who have worked with numerous students</p>
+				<div class="col-lg-4">
+
+
+					<section class="text-left drag-this-right" style="margin-top: -90px;">
+						<img src="assets/img/right1.png" class="pull-left" alt="Widget image">
+						<h5 style="color:white; font-weight: bold; margin-left: 70px; margin-top: 15px;"> Multiple cashboard options</h5>
+						<p>
+							Link you with internal admission counsellors who have worked with numerous students
+						</p>
+					</section>
+
+					<section class="text-left drag-this-right" style="margin-top: -90px;">
+						<img src="assets/img/right2.png" class="pull-left" alt="Widget image">
+						<h5 style="color:white; font-weight: bold; margin-left: 70px; margin-top: 15px;">Stet clita ea et gubergren, kasd magna no rebum</h5>
+						<p>
+							Bandit praesent luptatum zzril delenit augue duis dolore te feugait nulla facilis t quod mazim placerat famagna aliquam erat volutpat.
+						</p>
+					</section>
 				</div>
+
+
 
 			</div>
 		</div>
 	</div>
 
 
-
 	<section class="">
-		<h3 id="textStyle" align="center">FREQUENTLY ASKED QUESTIONS </h3><br/>
-		<div class="container">
+		<h4 id="textStyle" align="center">FREQUENTLY ASKED QUESTIONS </h4><br/>
+		<div class="container" style="margin-top: -90px;">
 			<div class="row">
-				<div class="col-sm-1">
+				<div class="col-md-2">
 				</div>
-				<div class="col-sm-10">
-					<ul class="accordion accordion-1" style="min-height: 508px;">
-						<li class="">
-							<div class="accordion__title">
-								<span class="h5" id="textStyle">Would the teaching be done offline or online? </span>
-							</div>
-							<div class="accordion__content">
-								<p class="lead">
-
-									It will be done at the client preferred location.
-								</p>
-							</div>
-						</li>
-						<li class="">
-							<div class="accordion__title">
-								<span class="h5" id="textStyle">What are things to put into consideration to enable me meet my student’s requirements?</span>
-							</div>
-							<div class="accordion__content">
-								<p class="lead">
-									Be proficient in your subject area. The more proficient you are the more sought after you become.
-								</p>
-
-							</div>
-						</li>
-						<li>
-							<div class="accordion__title">
-								<span class="h5" id="textStyle">Can I fix my own lesson schedule?</span>
-							</div>
-							<div class="accordion__content">
-								<p class="lead">
-									The lesson hours depends on our client preference but can be rescheduled to benefit you both.
-								</p>
-							</div>
-						</li>
-
-						<li>
-							<div class="accordion__title">
-								<span class="h5" id="textStyle">How much will I get paid?</span>
-							</div>
-							<div class="accordion__content">
-								<p class="lead">
-									Payments differs due to some factors such as duration of Lesson.
-								</p>
-							</div>
-						</li>
-
-						<li>
-							<div class="accordion__title">
-								<span class="h5" id="textStyle">How do I receive my Money?</span>
-							</div>
-							<div class="accordion__content">
-								<p class="lead">
-									Once it has been confirmed that you have successfully completed your lesson, a payment would be made to your bank account.
-								</p>
-							</div>
-						</li>
-					</ul>
-					<!--end accordion-->
+				<div class="col-md-8">
+					<section>
+						<div class="service-accordion">
+							<a href="#">Stet clita ea et gubergren, kasd magna Stet clita ea et gubergren, kasd magna</a>
+							<p>Duis autem vel eum iriure dolor in hendrerit in e velit esse molestie conseokampte jpj lconsequat.</p>
+						</div>
+						<div class="service-accordion">
+							<a href="#">Consetetur sadipscing elitr, sed diam Stet clita ea et gubergren, kasd magna</a>
+							<p>Duis autem vel eum iriure dolor in hendrerit in e velit esse molestie conseokampte jpj lconsequat.</p>
+						</div>
+						<div class="service-accordion">
+							<a href="#">Dolore magna aliquyam erat individum Stet clita ea et gubergren, kasd magna  </a>
+							<p>Duis autem vel eum iriure dolor in hendrerit in e velit esse molestie conseokampte jpj lconsequat.</p>
+						</div>
+					</section>
 				</div>
-				<div class="col-sm-1">
+				<div class="col-md-2">
 				</div>
 			</div>
 			<!--end of row-->
 		</div>
 		<!--end of container-->
 	</section>
+
+
 	
 </main>
 
-<footer class="homepage" style="margin-top: -350px;">
-	
+<footer style="margin-top: -130px;">
+
 	<div class="container">
 		<div class="row">
 			<div class="col-lg-2 col-sm-4 col-12">
