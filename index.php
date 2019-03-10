@@ -524,7 +524,7 @@ font-size: 12px;
 			<div class="row">
 				<div class="col-lg-4">
 
-					<section class="text-left drag-this-left" style="margin-top: -90px;">
+					<section class="text-left drag-this-left" style="margin-top: -80px;">
 						<img src="assets/img/left1.png" class="pull-left" alt="Widget image">
 						<h5 style="color:white; font-weight: bold; margin-left: 70px; margin-top: 15px;"> Multiple cashboard options</h5>
 						<p style="color:antiquewhite;">
@@ -532,7 +532,7 @@ font-size: 12px;
 						</p>
 					</section>
 
-					<section class="text-left drag-this-left" style="margin-top: -90px;">
+					<section class="text-left drag-this-left" style="margin-top: -70px;">
 						<img src="assets/img/left2.png" class="pull-left" alt="Widget image">
 						<h5 style="color:white; font-weight: bold; margin-left: 70px; margin-top: 15px;">Stet clita ea et gubergren, kasd magna no rebum</h5>
 						<p style="color:antiquewhite;">
@@ -547,7 +547,7 @@ font-size: 12px;
 				<div class="col-lg-4">
 
 
-					<section class="text-left drag-this-right" style="margin-top: -90px;">
+					<section class="text-left drag-this-right" style="margin-top: -80px;">
 						<img src="assets/img/right1.png" class="pull-left" alt="Widget image">
 						<h5 style="color:white; font-weight: bold; margin-left: 70px; margin-top: 15px;"> Multiple cashboard options</h5>
 						<p style="color:antiquewhite;">
@@ -555,7 +555,7 @@ font-size: 12px;
 						</p>
 					</section>
 
-					<section class="text-left drag-this-right" style="margin-top: -90px;">
+					<section class="text-left drag-this-right" style="margin-top: -70px;">
 						<img src="assets/img/right2.png" class="pull-left" alt="Widget image">
 						<h5 style="color:white; font-weight: bold; margin-left: 70px; margin-top: 15px;">Stet clita ea et gubergren, kasd magna no rebum</h5>
 						<p style="color:antiquewhite;">
