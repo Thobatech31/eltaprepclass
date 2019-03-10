@@ -58,13 +58,13 @@ font-size: 12px;
 		padding: 10px 30px;
 	}
 	#header{
-		color:darkblue;
+		color:#0276FD;
 		font-weight: bold;
 		font-size: 22px;
 	}
 
 #textStyle{
-	color:darkblue;
+	color:#0276FD;
 	font-weight: bold;
 }
 
@@ -446,7 +446,7 @@ font-size: 12px;
 				<div class="col-md-2 col-sm-6" id="post">
 						<a href="gmat.php" style="color: gray; " class="link-hover"><div class="service-img-holder">
 								<img src="assets/img/about.png" alt="Services" style>
-							</div><p style="color:darkblue;">GMAT</p>
+							</div><p style="color:#0276FD;">GMAT</p>
 
 					<div class="post-s">
 						<p>Get 740+ and get the opportunity to school in top business schools like Harvard, Yale and NYU.</p>
@@ -459,7 +459,7 @@ font-size: 12px;
 				<div class="col-md-2 col-sm-6" id="post">
 					<a href="sat.php" style="color: gray; " class="link-hover"><div class="service-img-holder">
 							<img src="assets/img/about.png" alt="Services" style>
-						</div><p style="color:darkblue;">SAT</p>
+						</div><p style="color:#0276FD;">SAT</p>
 
 						<div class="post-s">
 							<p>With a SAT score of 2100+ you can qualify for a fully funded scholarships into universities like ……..</p>
@@ -473,7 +473,7 @@ font-size: 12px;
 				<div class="col-md-2 col-sm-6" id="post">
 					<a href="gre.php" style="color: gray; " class="link-hover"><div class="service-img-holder">
 							<img src="assets/img/about.png" alt="Services" style>
-						</div><p style="color:darkblue;">GRE</p>
+						</div><p style="color:#0276FD;">GRE</p>
 
 						<div class="post-s">
 							<p>With a GRE score of 2100+ you can qualify for assistantships programs which can involve free tuition and sometimes a monthly stipend.</p>
@@ -486,7 +486,7 @@ font-size: 12px;
 				<div class="col-md-2 col-sm-6" id="post">
 					<a href="toefl.php" style="color: gray; " class="link-hover"><div class="service-img-holder">
 							<img src="assets/img/about.png" alt="Services" style>
-						</div><p style="color:darkblue;">TOEFL</p>
+						</div><p style="color:#0276FD;">TOEFL</p>
 
 						<div class="post-s">
 							<p>Did you think TOEFL was just to check your English proficiency level? With a TOEFL score of 100+ you can qualify for academic scholarships.</p>
@@ -500,7 +500,7 @@ font-size: 12px;
 				<div class="col-md-2 col-sm-6" id="post">
 					<a href="ielts.php" style="color: gray; " class="link-hover"><div class="service-img-holder">
 							<img src="assets/img/about.png" alt="Services" style>
-						</div><p style="color:darkblue;">IELTS</p>
+						</div><p style="color:#0276FD;">IELTS</p>
 
 						<div class="post-s">
 							<p>Get 740+ and get the opportunity to school in top business schools like Harvard, Yale and NYU.</p>
@@ -517,7 +517,7 @@ font-size: 12px;
 		</div>
 	</div>
 <br/><br/><br/>
-	<div class="about4" style="background-color: darkblue">
+	<div class="about4" style="background-color: #0276FD">
 		<div class="container">
 			<h4 class="pretitle text-center" style="color: white; font-weight: bold; ">WHAT WE DO</h4>
 			<h5 class="text-center" style="color:antiquewhite;">Our service overview</h5>
@@ -605,7 +605,7 @@ font-size: 12px;
 	
 </main>
 
-<footer style="margin-top: -130px; background-color: darkblue;">
+<footer style="margin-top: -130px; background-color: #0276FD;">
 
 	<div class="container">
 		<div class="row">
