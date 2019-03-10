@@ -58,14 +58,24 @@ font-size: 12px;
 		padding: 10px 30px;
 	}
 	#header{
-		color:#0276FD;
+		color:darkblue;
 		font-weight: bold;
 		font-size: 22px;
 	}
 
 #textStyle{
-	color:#0276FD;
+	color:darkblue;
 	font-weight: bold;
+}
+
+#footerStyle{
+	color:white;
+	font-weight: bold;
+}
+
+#footerList{
+	color:antiquewhite;
+
 }
 </style>
 	
@@ -436,7 +446,7 @@ font-size: 12px;
 				<div class="col-md-2 col-sm-6" id="post">
 						<a href="gmat.php" style="color: gray; " class="link-hover"><div class="service-img-holder">
 								<img src="assets/img/about.png" alt="Services" style>
-							</div><p style="color:#0276FD;">GMAT</p>
+							</div><p style="color:darkblue;">GMAT</p>
 
 					<div class="post-s">
 						<p>Get 740+ and get the opportunity to school in top business schools like Harvard, Yale and NYU.</p>
@@ -449,7 +459,7 @@ font-size: 12px;
 				<div class="col-md-2 col-sm-6" id="post">
 					<a href="sat.php" style="color: gray; " class="link-hover"><div class="service-img-holder">
 							<img src="assets/img/about.png" alt="Services" style>
-						</div><p style="color:#0276FD;">SAT</p>
+						</div><p style="color:darkblue;">SAT</p>
 
 						<div class="post-s">
 							<p>With a SAT score of 2100+ you can qualify for a fully funded scholarships into universities like ……..</p>
@@ -463,7 +473,7 @@ font-size: 12px;
 				<div class="col-md-2 col-sm-6" id="post">
 					<a href="gre.php" style="color: gray; " class="link-hover"><div class="service-img-holder">
 							<img src="assets/img/about.png" alt="Services" style>
-						</div><p style="color:#0276FD;">GRE</p>
+						</div><p style="color:darkblue;">GRE</p>
 
 						<div class="post-s">
 							<p>With a GRE score of 2100+ you can qualify for assistantships programs which can involve free tuition and sometimes a monthly stipend.</p>
@@ -476,7 +486,7 @@ font-size: 12px;
 				<div class="col-md-2 col-sm-6" id="post">
 					<a href="toefl.php" style="color: gray; " class="link-hover"><div class="service-img-holder">
 							<img src="assets/img/about.png" alt="Services" style>
-						</div><p style="color:#0276FD;">TOEFL</p>
+						</div><p style="color:darkblue;">TOEFL</p>
 
 						<div class="post-s">
 							<p>Did you think TOEFL was just to check your English proficiency level? With a TOEFL score of 100+ you can qualify for academic scholarships.</p>
@@ -490,7 +500,7 @@ font-size: 12px;
 				<div class="col-md-2 col-sm-6" id="post">
 					<a href="ielts.php" style="color: gray; " class="link-hover"><div class="service-img-holder">
 							<img src="assets/img/about.png" alt="Services" style>
-						</div><p style="color:#0276FD;">IELTS</p>
+						</div><p style="color:darkblue;">IELTS</p>
 
 						<div class="post-s">
 							<p>Get 740+ and get the opportunity to school in top business schools like Harvard, Yale and NYU.</p>
@@ -510,14 +520,14 @@ font-size: 12px;
 	<div class="about4" style="background-color: darkblue">
 		<div class="container">
 			<h4 class="pretitle text-center" style="color: white; font-weight: bold; ">WHAT WE DO</h4>
-			<h5 class="text-center">Our service overview</h5>
+			<h5 class="text-center" style="color:antiquewhite;">Our service overview</h5>
 			<div class="row">
 				<div class="col-lg-4">
 
 					<section class="text-left drag-this-left" style="margin-top: -90px;">
 						<img src="assets/img/left1.png" class="pull-left" alt="Widget image">
 						<h5 style="color:white; font-weight: bold; margin-left: 70px; margin-top: 15px;"> Multiple cashboard options</h5>
-						<p>
+						<p style="color:antiquewhite;">
 							Link you with internal admission counsellors who have worked with numerous students
 						</p>
 					</section>
@@ -525,7 +535,7 @@ font-size: 12px;
 					<section class="text-left drag-this-left" style="margin-top: -90px;">
 						<img src="assets/img/left2.png" class="pull-left" alt="Widget image">
 						<h5 style="color:white; font-weight: bold; margin-left: 70px; margin-top: 15px;">Stet clita ea et gubergren, kasd magna no rebum</h5>
-						<p>
+						<p style="color:antiquewhite;">
 							Bandit praesent luptatum zzril delenit augue duis dolore te feugait nulla facilis t quod mazim placerat famagna aliquam erat volutpat.
 						</p>
 					</section>
@@ -540,7 +550,7 @@ font-size: 12px;
 					<section class="text-left drag-this-right" style="margin-top: -90px;">
 						<img src="assets/img/right1.png" class="pull-left" alt="Widget image">
 						<h5 style="color:white; font-weight: bold; margin-left: 70px; margin-top: 15px;"> Multiple cashboard options</h5>
-						<p>
+						<p style="color:antiquewhite;">
 							Link you with internal admission counsellors who have worked with numerous students
 						</p>
 					</section>
@@ -548,7 +558,7 @@ font-size: 12px;
 					<section class="text-left drag-this-right" style="margin-top: -90px;">
 						<img src="assets/img/right2.png" class="pull-left" alt="Widget image">
 						<h5 style="color:white; font-weight: bold; margin-left: 70px; margin-top: 15px;">Stet clita ea et gubergren, kasd magna no rebum</h5>
-						<p>
+						<p style="color:antiquewhite;">
 							Bandit praesent luptatum zzril delenit augue duis dolore te feugait nulla facilis t quod mazim placerat famagna aliquam erat volutpat.
 						</p>
 					</section>
@@ -595,39 +605,36 @@ font-size: 12px;
 	
 </main>
 
-<footer style="margin-top: -130px;">
+<footer style="margin-top: -130px; background-color: darkblue;">
 
 	<div class="container">
 		<div class="row">
 			<div class="col-lg-2 col-sm-4 col-12">
-				<h6>GET HELP</h6>
+				<h6 id="footerStyle">GET HELP</h6>
 				<ul>
-					<li><a class="link-hover" href="#">Help and FAQ</a></li>
-					<li><a class="link-hover" href="#">Orders and returns</a></li>
-					<li><a class="link-hover" href="#">Shipping info</a></li>
-					<li><a class="link-hover" href="#">Store location</a></li>
+					<li><a class="link-hover" href="#" id="footerList">Help and FAQ</a></li>
+					<li><a class="link-hover" href="#" id="footerList">Orders and returns</a></li>
+
 				</ul>
 			</div>
 			<div class="col-lg-2 col-sm-4 col-12">
-				<h6>INFORMATION</h6>
+				<h6 id="footerStyle">INFORMATION</h6>
 				<ul>
-					<li><a class="link-hover" href="#">About us</a></li>
-					<li><a class="link-hover" href="#">Our stores</a></li>
-					<li><a class="link-hover" href="#">Order history</a></li>
-					<li><a class="link-hover" href="#">Special info</a></li>
+					<li><a class="link-hover" href="#" id="footerList">About us</a></li>
+					<li><a class="link-hover" href="#" id="footerList">Our stores</a></li>
+
 				</ul>
 			</div>
 			<div class="col-lg-2 col-sm-4 col-12">
-				<h6>MY ACCOUNT</h6>
+				<h6 id="footerStyle">MY ACCOUNT</h6>
 				<ul>
-					<li><a class="link-hover" href="#">My order</a></li>
-					<li><a class="link-hover" href="#">My wishlist</a></li>
-					<li><a class="link-hover" href="#">Order history</a></li>
-					<li><a class="link-hover" href="#">Special info</a></li>
+					<li><a class="link-hover" href="#" id="footerList">My order</a></li>
+					<li><a class="link-hover" href="#" id="footerList">My wishlist</a></li>
+
 				</ul>
 			</div>
 			<div class="col-lg-3 col-sm-6 col-12">
-				<h6>INSTAGRAM FEED</h6>
+				<h6 id="footerStyle">INSTAGRAM FEED</h6>
 				<ul class="instagram-feed">
 					<li><a href="#"><img src="http://via.placeholder.com/64x65" alt="Instagram image"></a></li>
 					<li><a href="#"><img src="http://via.placeholder.com/64x65" alt="Instagram image"></a></li>
@@ -638,10 +645,10 @@ font-size: 12px;
 				</ul>
 			</div>
 			<div class="col-lg-3 col-sm-6 col-12 footer-contact">
-				<h6>CONTACT US</h6>
-				<p class="footer-address"><i class="fa fa-map-marker"></i>127 Sith Avenue, 54571 New York City </p>
-				<p class="footer-phone"><i class="fa fa-phone"></i>+49 123 456 789 </p>
-				<p class="footer-email"><span>@</span>info@prometium.com </p>
+				<h6 id="footerStyle">CONTACT US</h6>
+				<p class="footer-address" id="footerList"><i class="fa fa-map-marker"></i>127 Sith Avenue, 54571 New York City </p>
+				<p class="footer-phone" id="footerList"><i class="fa fa-phone"></i>+49 123 456 789 </p>
+				<p class="footer-email" id="footerList"><span>@</span>info@prometium.com </p>
 			</div>
 		</div>
 	</div>
@@ -649,10 +656,10 @@ font-size: 12px;
 	<div class="container">
 		<div class="row">
 			<div class="col-sm-2 col-md-2">
-				<h1><a href="index.html"><img src="http://via.placeholder.com/37x36" alt="Prometium Logo"></a>Toba</h1>
+				<h1 id="footerList"><a href="index.html"><img src="http://via.placeholder.com/37x36" id="footerList" alt="Prometium Logo"></a>Toba</h1>
 			</div>
 			<div class="col-sm-7 col-md-7">
-				<p class="copyright text-center">Copyright 2017 &copy; <strong>Toba - Multi-purpose  | </strong> All Rights Reserved.</p>
+				<p class="copyright text-center" id="footerList">Copyright 2017 &copy; <strong id="footerList">Toba - Multi-purpose  | </strong> All Rights Reserved.</p>
 			</div>
 			<div class="col-sm-3 col-md-3">
 				<div class="credit-info">
