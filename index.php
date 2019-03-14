@@ -241,9 +241,11 @@ font-size: 12px;
 <main class="homepage">
 	<div class="container">
 		<div class="widget widget1 text-center drag-this-up">
-			<h4 class="pretitle" id="header">Who we are</h4>
-			<center><p>We help African students who wish to study abroad get the right information
-					in other to access scholarship opportunities. Getting a scholarship to study in Top universities abroad is easier than you think
+			<h4 class="pretitle" id="header">Mission</h4>
+			<center><p>
+					To help African students who wish to study abroad get right scholarship
+					information and access to qualified tutors to help them with their examination preparation.
+
 					</p></center>
 
 		</div>
@@ -290,7 +292,9 @@ font-size: 12px;
 
 	<div class="widget10 extend-wrap" style="margin-top: 70px;">
 		<p class="pretitle text-center" id="header">Getting a Professional Home Tutor is easier than you think</p>
-		<center><p>Travcut tutor helps you bring your dreams to reality by providing you with the right<br/> assistance to ace your prep examinations.</p></center>
+		<center><p>Travcut tutor helps bring your dreams to reality by providing you with the right<br/>
+				assistance to ace your prep examinations.
+			</p></center>
 
 		<div class="row" style="margin-top: 20px;">
 
@@ -299,7 +303,7 @@ font-size: 12px;
 					<img src="assets/img/side1.png" class="pull-left" alt="Widget image">
 					<h3 >Tell us your dreams.</h3>
 					<p>
-						Undergo counselling with professionals and let them tell you what you need to do to achieve that dream of yours.
+						Undergo counselling with professionals and let us tell you what you need to do to achieve that dream of yours.
 					</p>
 				</section>
 				<section class="text-left drag-this-right" style="margin-top: -100px;">
@@ -313,7 +317,7 @@ font-size: 12px;
 					<img src="assets/img/side1.png" class="pull-left" alt="Widget image">
 					<h3>Admission Counselling</h3>
 					<p>
-						We link you to internal admission counsellors who can help you with your process.
+						International Admission counsellors will be there to help you with your process.
 					</p>
 				</section>
 			</div>
@@ -356,7 +360,7 @@ font-size: 12px;
 
 	<div class="container" style="margin-top: -80px;">
 		<div class="widget partners drag-this-up text-center pushtop-70">
-			<p class="pretitle" id="header">OUR BUSINESS PARTNERS</p>
+			<p class="pretitle" id="header">STUDY IN THE COUNTRY OF YOUR CHOICE </p>
 			<h5>We collaborate with others</h5><br/><br/>
 			<div class="row">
 				<div class="col-md-3 col-sm-6">
@@ -436,8 +440,8 @@ font-size: 12px;
 
 	<div class="container-fluid" style="margin-top: -300px;">
 		<div class="team pushtop-0">
-			<p class="pretitle text-center" id="header">OUR TEAM MEMBERS</p>
-			<h5 class="text-center">Meet our professional team</h5>
+			<p class="pretitle text-center" id="header">EXAM PREPARATION</p>
+			<h5 class="text-center">Get more information on the Exam you wish to take.</h5>
 			<div class="row text-center">
 				<div class="col-md-1 col-sm-6">
 
@@ -519,24 +523,23 @@ font-size: 12px;
 <br/><br/><br/>
 	<div class="about4" style="background-color: #0276FD">
 		<div class="container">
-			<h4 class="pretitle text-center" style="color: white; font-weight: bold; ">WHAT WE DO</h4>
-			<h5 class="text-center" style="color:antiquewhite;">Our service overview</h5>
+			<h4 class="pretitle text-center" style="color: white; font-weight: bold; ">OUR SERVICES </h4>
 			<div class="row">
 				<div class="col-lg-4">
 
 					<section class="text-left drag-this-left" style="margin-top: -80px;">
 						<img src="assets/img/left1.png" class="pull-left" alt="Widget image">
-						<h5 style="color:white; font-weight: bold; margin-left: 70px; margin-top: 15px;"> Multiple cashboard options</h5>
+						<h5 style="color:white; font-weight: bold; margin-left: 70px; margin-top: 15px;">SCHOLARSHIP INFORMATION</h5>
 						<p style="color:antiquewhite;">
-							Link you with internal admission counsellors who have worked with numerous students
+							Get scholarship information’s at your fingertips.
 						</p>
 					</section>
 
 					<section class="text-left drag-this-left" style="margin-top: -70px;">
 						<img src="assets/img/left2.png" class="pull-left" alt="Widget image">
-						<h5 style="color:white; font-weight: bold; margin-left: 70px; margin-top: 15px;">Stet clita ea et gubergren, kasd magna no rebum</h5>
+						<h5 style="color:white; font-weight: bold; margin-left: 70px; margin-top: 15px;">ADMISSION COUNSELLING</h5>
 						<p style="color:antiquewhite;">
-							Bandit praesent luptatum zzril delenit augue duis dolore te feugait nulla facilis t quod mazim placerat famagna aliquam erat volutpat.
+							Our internal admission counsellors will assist you in your decision making.
 						</p>
 					</section>
 				</div>
@@ -549,9 +552,10 @@ font-size: 12px;
 
 					<section class="text-left drag-this-right" style="margin-top: -80px;">
 						<img src="assets/img/right1.png" class="pull-left" alt="Widget image">
-						<h5 style="color:white; font-weight: bold; margin-left: 70px; margin-top: 15px;"> Multiple cashboard options</h5>
+						<h5 style="color:white; font-weight: bold; margin-left: 70px; margin-top: 15px;">ACADEMIC TUTORING</h5>
 						<p style="color:antiquewhite;">
-							Link you with internal admission counsellors who have worked with numerous students
+							With our one on one tutoring session, students receive a 100% attention from out tutors and can learn at his/her
+							pace whether you need to understand from the scratch or fine tune your performance.
 						</p>
 					</section>
 
@@ -570,42 +574,63 @@ font-size: 12px;
 		</div>
 	</div>
 
-
-	<section class="">
-		<h4 id="textStyle" align="center">FREQUENTLY ASKED QUESTIONS </h4><br/>
-		<div class="container" style="margin-top: -90px;">
+	<section class=" ">
+		<h2 align="center" style="margin-top:-50px; color:#0276FD;">Get a tutor in three easy steps </h2><br/>
+		<div class="container">
 			<div class="row">
-				<div class="col-md-2">
-				</div>
-				<div class="col-md-8">
-					<section>
-						<div class="service-accordion">
-							<a href="#">Stet clita ea et gubergren, kasd magna Stet clita ea et gubergren, kasd magna</a>
-							<p>Duis autem vel eum iriure dolor in hendrerit in e velit esse molestie conseokampte jpj lconsequat.</p>
+				<div class="process-2">
+
+					<div class="col-sm-4">
+						<div class="process__item">
+							<h5>PLACE A REQUEST
+							</h5>
+							<p>
+								Complete the online registration
+								by providing necessary
+								Information In the required fields.
+
+
+							</p>
 						</div>
-						<div class="service-accordion">
-							<a href="#">Consetetur sadipscing elitr, sed diam Stet clita ea et gubergren, kasd magna</a>
-							<p>Duis autem vel eum iriure dolor in hendrerit in e velit esse molestie conseokampte jpj lconsequat.</p>
+					</div>
+					<div class="col-sm-4">
+						<div class="process__item">
+							<h5>GET A TUTOR
+							</h5>
+							<p>
+						       once your request has been
+						               received, we connect you with
+						       a best fit tutor to suit your needs and schedule.
+
+
+
+							</p>
 						</div>
-						<div class="service-accordion">
-							<a href="#">Dolore magna aliquyam erat individum Stet clita ea et gubergren, kasd magna  </a>
-							<p>Duis autem vel eum iriure dolor in hendrerit in e velit esse molestie conseokampte jpj lconsequat.</p>
+					</div>
+					<div class="col-sm-4">
+						<div class="process__item">
+							<h5>START LESSON
+							</h5>
+							<p>
+								learning starts, getting
+							     you closer to achieving
+							   your dreams.
+
+
+							</p>
 						</div>
-					</section>
+					</div>
 				</div>
-				<div class="col-md-2">
-				</div>
+				<!--end process-->
 			</div>
 			<!--end of row-->
 		</div>
 		<!--end of container-->
 	</section>
-
-
 	
 </main>
 
-<footer style="margin-top: -130px; background-color: #0276FD;">
+<footer style="margin-top: -50px; background-color: #0276FD;">
 
 	<div class="container">
 		<div class="row">
@@ -656,10 +681,10 @@ font-size: 12px;
 	<div class="container">
 		<div class="row">
 			<div class="col-sm-2 col-md-2">
-				<h1 id="footerList"><a href="index.html"><img src="http://via.placeholder.com/37x36" id="footerList" alt="Prometium Logo"></a>Toba</h1>
+				<h1 id="footerList"><a href="index.html"><img src="http://via.placeholder.com/37x36" id="footerList" alt="Prometium Logo"></a>Travcut</h1>
 			</div>
 			<div class="col-sm-7 col-md-7">
-				<p class="copyright text-center" id="footerList">Copyright 2017 &copy; <strong id="footerList">Toba - Multi-purpose  | </strong> All Rights Reserved.</p>
+				<p class="copyright text-center" id="footerList">Copyright 2017 &copy; <strong id="footerList">Travcut - Multi-purpose  | </strong> All Rights Reserved.</p>
 			</div>
 			<div class="col-sm-3 col-md-3">
 				<div class="credit-info">

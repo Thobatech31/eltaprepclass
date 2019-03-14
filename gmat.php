@@ -6,9 +6,17 @@
 		<div class="background-image-holder background--top">
 			<img alt="background" src="img/insurance-1.jpg" />
 		</div>
+
 		<div class="container pos-vertical-center">
 			<div class="row">
 				<div class="col-sm-12">
+					<h2 style=" float: left;">
+						GMAT
+					</h2>
+				</div>
+
+				<div class="col-sm-12">
+
 					<h4 style="font-weight: bold;">
 						You are one step close to achieving your dreams to study abroad with a scholarship. Let our tutors help you achieve a 1200+ score.
 
@@ -29,7 +37,7 @@
 		<div class="container">
 			<div class="row">
 				<div class="col-sm-10 col-sm-offset-1 col-md-8 col-md-offset-2">
-					<h2 style="color:#0276FD;">All the tools you'll need</h2>
+					<h3 style="color:#0276FD; font-weight: bold;">PASS YOUR GMAT EXAM</h3>
 					<p class="lead">
 						You are one step close to achieving your dreams to study abroad with a scholarship. Let our tutors help you achieve a 1200+ score.
 					</p>
@@ -206,43 +214,52 @@
 	<!--end of container-->
 </section>
 
+
+	<!--<h3 style="color:#0276FD; font-weight: bold;">GMAT scholarship information’s</h3>-->
+
 <section class="text-center bg--secondary">
 	<div class="container">
 		<div class="row">
+
 			<div class="col-md-8 col-sm-10">
 				<div class="slider" data-paging="true" data-children="3">
 					<ul class="slides flickity-enabled is-draggable" tabindex="0">
 
-
-
 						<div class="flickity-viewport" ><div class="flickity-slider" style="left: 0px; transform: translateX(-300%);"><li class="slide is-selected" style="position: absolute; left: 300%;">
 									<div class="testimonial">
-										<img alt="Image" src="img/avatar-round-3.png" class="image--sm">
+										<!--<img alt="Image" src="img/avatar-round-4.png" class="image--sm">-->
+										<h3 style="color:#0276FD; font-weight: bold;">Harvard business school</h3>
 										<span class="h3">
-                                                “There's a feeling of structure that you can't find in other templates — Stack has become my default template.”
+                                               Do you know 50-60% percent of MBA students receive some sort of financial assistance. Need based awards in form of
+											scholarships and fellowships can be found in the range of $5000 to full tuition and monthly stipends.
                                             </span>
-										<h5>Sam Briggs</h5>
-										<span>Envato Customer</span>
 									</div>
-								</li><li class="slide" style="position: absolute; left: 100%;">
+								</li>
+
+								<li class="slide" style="position: absolute; left: 200%;">
 									<div class="testimonial">
-										<img alt="Image" src="img/avatar-round-4.png" class="image--sm">
+										<!--<img alt="Image" src="img/avatar-round-4.png" class="image--sm">-->
+										<h3 style="color:#0276FD; font-weight: bold;">Said business school UK</h3>
 										<span class="h3">
-                                                “Variant has been a massive plus for my workflow — I can now get live mockups out in a matter of hours, my clients really love it.”
+											The oxford university business schools offers a number of scholarship
+											ranging from £10,000 to full tuition plus monthly stipend.
                                             </span>
-										<h5>Rob Vasquez</h5>
-										<span>Interface Designer — Yoke</span>
 									</div>
-								</li><li class="slide" style="position: absolute; left: 200%;">
+								</li>
+
+								<li class="slide" style="position: absolute; left: 100%;">
 									<div class="testimonial">
-										<img alt="Image" src="img/avatar-round-1.png" class="image--sm">
+										<!--<img alt="Image" src="img/avatar-round-4.png" class="image--sm">-->
+										<h3 style="color:#0276FD; font-weight: bold;">ESMT MBA scholarships</h3>
+
 										<span class="h3">
-                                                “We’ve been using Stack to prototype designs quickly and efficiently. Needless to say we’re hugely impressed by the style and value.”
+                                               ESMT offers a number of partial tuition scholarships for MBA applicants
+											and also limited number of prestigious full tuition scholarships.
                                             </span>
-										<h5>Maguerite Holland</h5>
-										<span>Interface Designer — Yoke</span>
 									</div>
-								</li></div></div><ol class="flickity-page-dots"><li class="dot is-selected"></li><li class="dot"></li><li class="dot"></li></ol></ul>
+								</li>
+
+							</div></div><ol class="flickity-page-dots"><li class="dot is-selected"></li><li class="dot"></li><li class="dot"></li></ol></ul>
 				</div>
 			</div>
 		</div>
@@ -263,7 +280,7 @@
 					<p class="lead">
 						On average, applicants are 40% more likely to find ongoing work in the creative industry using our jobs board.
 					</p>
-					<a class="btn btn--primary type--uppercase" href="#">
+					<a class="btn btn--primary type--uppercase" href="gmatReg.php">
                                     <span class="btn__text">
                                         GET A TUTOR NOW!
                                     </span>

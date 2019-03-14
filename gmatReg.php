@@ -130,7 +130,7 @@
 					</div>
 					<!--end module-->
 					<div class="bar__module">
-						<a class="btn btn--sm btn--primary type--uppercase" href="#">
+						<a class="btn btn--sm btn--primary type--uppercase" href="tutorpage.php">
                                     <span class="btn__text">
                                         Become A Tutor
                                     </span>
@@ -514,21 +514,21 @@
 									<label>What area do you require more help with?</label><br/>
 									<div class="col-sm-3">
 										<div class="input-radio">
-											<span class="input__label">Speaking</span>
+											<span class="input__label">Quantitative reasoning</span>
 											<input type="radio" name="radio" value="Speaking" />
 											<label></label>
 										</div>
 									</div>
 									<div class="col-sm-3">
 										<div class="input-radio">
-											<span class="input__label">Listening</span>
+											<span class="input__label">Verbal reasoning</span>
 											<input id="radio-input-2" type="radio" name="radio" value="Listening" />
 											<label for="radio-input-2"></label>
 										</div>
 									</div>
 									<div class="col-sm-3">
 										<div class="input-radio">
-											<span class="input__label">Writing</span>
+											<span class="input__label"> Analytical writing</span>
 											<input id="radio-input-3" type="radio" name="radio" value="Writing" />
 											<label for="radio-input-3"></label>
 										</div>
@@ -536,7 +536,7 @@
 
 									<div class="col-sm-3">
 										<div class="input-radio">
-											<span class="input__label">Reading</span>
+											<span class="input__label">integrated reasoning</span>
 											<input id="radio-input-4" type="radio" name="radio" value="Reading" />
 											<label for="radio-input-4"></label>
 										</div>

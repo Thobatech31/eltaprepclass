@@ -10,7 +10,7 @@
 			<div class="row">
 				<div class="col-sm-6">
 					<div class="cta">
-						<h2>GMAT</h2>
+						<h2>SAT</h2>
 						<p>
 							You are one step close to achieving your dreams to study abroad with a scholarship. Let our tutors help you achieve a 1200+ score.
 						</p>
@@ -39,8 +39,8 @@
 						<h4 id="textStyle">Admission to Universities </h4>
 						<hr/>
 						<p style="margin-left: 30px;">
-							Most Universities especially in the USA requires SAT. The truth is that the higher your score, the more chances you’ll have
-							to be admitted especially to top universities because their admission process is more complex.
+							Most Universities especially those in the USA, requires the SAT test score as part of their admission requirement. The truth is that the higher your score,
+							the more chances you’ll have to be admitted especially to top universities because their admission process is more complex.
 						</p>
 
 					</div>
@@ -194,40 +194,40 @@
 	<section class="text-center bg--secondary">
 		<div class="container">
 			<div class="row">
+
 				<div class="col-md-8 col-sm-10">
 					<div class="slider" data-paging="true" data-children="3">
 						<ul class="slides flickity-enabled is-draggable" tabindex="0">
 
+							<div class="flickity-viewport" ><div class="flickity-slider" style="left: 0px; transform: translateX(-300%);">
+									<li class="slide is-selected" style="position: absolute; left: 300%;">
+										<div class="testimonial">
+											<!--<img alt="Image" src="img/avatar-round-4.png" class="image--sm">-->
+											<h3 style="color:#0276FD; font-weight: bold;">University of Alabama</h3>
+											<span class="h3">
+                                             With a 1400+ SAT score, you meet one of the basic requirement to qualify for a free tuition scholarship
+                                            </span>
+										</div>
+									</li>
+
+									<li class="slide" style="position: absolute; left: 200%;">
+										<div class="testimonial">
+											<!--<img alt="Image" src="img/avatar-round-4.png" class="image--sm">-->
+											<h3 style="color:#0276FD; font-weight: bold;">Louisana State University</h3>
+											<span class="h3">
+											A 1400+ SAT score can increase your chances of qualifying for a free tuition, room and board
+                                            </span>
+										</div>
+									</li>
 
 
-							<div class="flickity-viewport"><div class="flickity-slider" style="left: 0px; transform: translateX(-300%);"><li class="slide is-selected" style="position: absolute; left: 300%;">
-										<div class="testimonial">
-											<img alt="Image" src="img/avatar-round-3.png" class="image--sm">
-											<span class="h3">
-                                                “There's a feeling of structure that you can't find in other templates — Stack has become my default template.”
-                                            </span>
-											<h5>Sam Briggs</h5>
-											<span>Envato Customer</span>
-										</div>
-									</li><li class="slide" style="position: absolute; left: 100%;">
-										<div class="testimonial">
-											<img alt="Image" src="img/avatar-round-4.png" class="image--sm">
-											<span class="h3">
-                                                “Variant has been a massive plus for my workflow — I can now get live mockups out in a matter of hours, my clients really love it.”
-                                            </span>
-											<h5>Rob Vasquez</h5>
-											<span>Interface Designer — Yoke</span>
-										</div>
-									</li><li class="slide" style="position: absolute; left: 200%;">
-										<div class="testimonial">
-											<img alt="Image" src="img/avatar-round-1.png" class="image--sm">
-											<span class="h3">
-                                                “We’ve been using Stack to prototype designs quickly and efficiently. Needless to say we’re hugely impressed by the style and value.”
-                                            </span>
-											<h5>Maguerite Holland</h5>
-											<span>Interface Designer — Yoke</span>
-										</div>
-									</li></div></div><ol class="flickity-page-dots"><li class="dot is-selected"></li><li class="dot"></li><li class="dot"></li></ol></ul>
+								</div>
+							</div>
+							<ol class="flickity-page-dots">
+								<li class="dot"></li>
+
+							</ol>
+						</ul>
 					</div>
 				</div>
 			</div>
@@ -258,9 +258,16 @@
 						<div class="background-image-holder">
 							<img alt="background" src="assets/img/about.png" />
 						</div>
-						<h4 class="pos-vertical-center">Current Students</h4>
+						<h4 class="pos-vertical-center" style="margin-top: 70px;">Current Students</h4>
+						<a class="btn btn--primary type--uppercase" href="satReg.php">
+                                    <span class="btn__text">
+                                        GET A TUTOR NOW!
+                                    </span>
+
+						</a>
 					</div>
 				</a>
+
 			</div>
 			<div class="col-sm-4 col-xs-6">
 				<a href="#" class="block">

@@ -130,7 +130,7 @@
 					</div>
 					<!--end module-->
 					<div class="bar__module">
-						<a class="btn btn--sm btn--primary type--uppercase" href="#">
+						<a class="btn btn--sm btn--primary type--uppercase" href="tutorpage.php">
                                     <span class="btn__text">
                                         Become A Tutor
                                     </span>
@@ -514,6 +514,14 @@
 									<label>What area do you need tutoring in?</label><br/>
 									<div class="col-sm-4">
 										<div class="input-radio">
+											<span class="input__label">Maths</span>
+											<input id="radio-input-2" type="radio" name="radio" value="Math" />
+											<label for="radio-input-2"></label>
+										</div>
+									</div>
+
+									<div class="col-sm-4">
+										<div class="input-radio">
 											<span class="input__label">Writing</span>
 											<input id="radio-input-3" type="radio" name="radio" value="Writing" />
 											<label for="radio-input-3"></label>
@@ -525,14 +533,6 @@
 											<span class="input__label">Reading</span>
 											<input id="radio-input-4" type="radio" name="radio" value="Reading" />
 											<label for="radio-input-4"></label>
-										</div>
-									</div>
-									
-									<div class="col-sm-4">
-										<div class="input-radio">
-											<span class="input__label">Math</span>
-											<input id="radio-input-2" type="radio" name="radio" value="Math" />
-											<label for="radio-input-2"></label>
 										</div>
 									</div>
 								</div>
@@ -665,35 +665,35 @@
 									<div class="col-sm-3">
 										<div class="input-radio">
 											<span class="input__label">Wednesday</span>
-											<input type="radio" name="radio" value="Wednesday" />
+											<input type="radio" name="Wednesday" value="Wednesday" />
 											<label></label>
 										</div>
 									</div>
 									<div class="col-sm-3">
 										<div class="input-radio">
 											<span class="input__label">Thursday</span>
-											<input type="radio" name="radio" value="Thursday" />
+											<input type="radio" name="Thursday" value="Thursday" />
 											<label></label>
 										</div>
 									</div>
 									<div class="col-sm-3">
 										<div class="input-radio">
 											<span class="input__label">Friday</span>
-											<input type="radio" name="radio" value="Friday" />
+											<input type="radio" name="Friday" value="Friday" />
 											<label></label>
 										</div>
 									</div>
 									<div class="col-sm-3">
 										<div class="input-radio">
 											<span class="input__label">Saturday</span>
-											<input type="radio" name="radio" value="Saturday" />
+											<input type="radio" name="Saturday" value="Saturday" />
 											<label></label>
 										</div>
 									</div>
 									<div class="col-sm-3">
 										<div class="input-radio">
 											<span class="input__label">Sunday</span>
-											<input type="radio" name="radio" value="Sunday" />
+											<input type="radio" name="Sunday" value="Sunday" />
 											<label></label>
 										</div>
 									</div>

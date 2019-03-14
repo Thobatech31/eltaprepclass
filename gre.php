@@ -6,17 +6,21 @@
 		<div class="background-image-holder background--top">
 			<img alt="background" src="img/education-3.jpg" />
 		</div>
+
 		<div class="container">
 			<div class="row">
 				<div class="col-sm-6">
-					<h3 style="font-weight: bold;">
-						Our tutors help you develop a passion for learning
-					</h3>
-					<a class="btn btn--primary type--uppercase" href="greReg.php">
+					<div class="cta">
+						<h2>GRE</h2>
+						<p>
+							Our tutors help you develop a passion for learning
+						</p>
+						<a class="btn btn--primary type--uppercase" href="greReg.php">
                                 <span class="btn__text">
                                     GET A TUTOR
                                 </span>
-					</a>
+						</a>
+					</div>
 				</div>
 			</div>
 			<!--end of row-->
@@ -33,31 +37,29 @@
 
 					<div class="col-sm-4">
 						<div class="process__item">
-							<h5>Our tutors help you develop a passion<br> for learning
+							<h5>The right information at your fingertips.
 								</h5>
 							<p>
-								Stack is built with customization and ease-of-use at its core —
-								whether you're a seasoned developer or just starting out.
+								Undergo counselling with our experts and get informed.
 							</p>
 						</div>
 					</div>
 					<div class="col-sm-4">
 						<div class="process__item">
-							<h5>Once you do that you’ll never cease <br>to grow
+							<h5>Qualified tutors
 								</h5>
 							<p>
-								Stack is built with customization and ease-of-use at its core — whe
-								ther you're a seasoned developer or just starting out.
+								Our tutors not only teach you but also help you develop a passion
+								for learning and once you do that, you’ll never cease to grow.
 							</p>
 						</div>
 					</div>
 					<div class="col-sm-4">
 						<div class="process__item">
-							<h5>Posted Benefit
+							<h5>Flexibility
 								</h5>
 							<p>
-								The Graduate Record Examination or GRE is a multiple choice,
-								computer based, standardized exam that is often required for admission to graduate program.							</p>
+								You get to choose your preferred tutor and learn at your convenience wherever and whenever.						</p>
 						</div>
 					</div>
 				</div>
@@ -129,32 +131,21 @@
 
 							<div class="flickity-viewport"><div class="flickity-slider" style="left: 0px; transform: translateX(-300%);"><li class="slide is-selected" style="position: absolute; left: 300%;">
 										<div class="testimonial">
-											<img alt="Image" src="img/avatar-round-3.png" class="image--sm">
+
 											<span class="h3">
-                                                “There's a feeling of structure that you can't find in other templates — Stack has become my default template.”
-                                            </span>
-											<h5>Sam Briggs</h5>
-											<span>Envato Customer</span>
+												The Average GRE Score Considerable for Admission Is 151 for Verbal Reasoning and 152-153 for Quantitative Reasoning.
+											</span>
+
 										</div>
-									</li><li class="slide" style="position: absolute; left: 100%;">
+									</li>
+									<li class="slide" style="position: absolute; left: 100%;">
 										<div class="testimonial">
-											<img alt="Image" src="img/avatar-round-4.png" class="image--sm">
 											<span class="h3">
-                                                “Variant has been a massive plus for my workflow — I can now get live mockups out in a matter of hours, my clients really love it.”
-                                            </span>
-											<h5>Rob Vasquez</h5>
-											<span>Interface Designer — Yoke</span>
+												For Your Analytical Writing Section a Score above 3.5 Is Considerable.
+											</span>
 										</div>
-									</li><li class="slide" style="position: absolute; left: 200%;">
-										<div class="testimonial">
-											<img alt="Image" src="img/avatar-round-1.png" class="image--sm">
-											<span class="h3">
-                                                “We’ve been using Stack to prototype designs quickly and efficiently. Needless to say we’re hugely impressed by the style and value.”
-                                            </span>
-											<h5>Maguerite Holland</h5>
-											<span>Interface Designer — Yoke</span>
-										</div>
-									</li></div></div><ol class="flickity-page-dots"><li class="dot is-selected"></li><li class="dot"></li><li class="dot"></li></ol></ul>
+									</li>
+								</div></div><ol class="flickity-page-dots"><li class="dot is-selected"></li><li class="dot"></li><li class="dot"></li></ol></ul>
 					</div>
 				</div>
 			</div>
@@ -168,6 +159,7 @@
 	<section class="imagebg">
 		<div class="background-image-holder" style="background: url(&quot;img/landing-6.jpg&quot;); opacity: 1;">
 			<img alt="background" src="img/landing-6.jpg">
+
 		</div>
 		<div class="container">
 			<div class="row">
@@ -191,6 +183,14 @@
 				</div>
 			</div>
 			<!--end of row-->
+			<center>
+				<a class="btn btn--primary type--uppercase" href="greReg.php">
+                                    <span class="btn__text">
+                                        GET A TUTOR NOW!
+                                    </span>
+					<span class="label">It's Free</span>
+				</a>
+			</center>
 		</div>
 		<!--end of container-->
 	</section>

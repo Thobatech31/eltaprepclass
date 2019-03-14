@@ -106,13 +106,13 @@
 			<!--end of container-->
 	</section>
 
-	<section class="text-center" style="background-color: darkblue">
+	<section class="text-center" style="background-color: #4a90e2">
 		<div class="container">
 		<h3 id="textStyle" align="center" style="color: white; font-weight: bold;">REGISTER IN THREE SIMPLE STEPS</h3><br/>
 			<div class="row">
 				<div class="col-sm-4 col-xs-12" >
 					<div class="feature">
-						<div class="radial" data-value="77" data-size="208" data-bar-width="8" data-color="#4a90e2">
+						<div class="radial" data-value="77" data-size="208" data-bar-width="8" data-color="darkblue">
 							<span class="h3 radial__label" style="color: white; font-weight: bold;">REGRISTRATION   </span>
 						</div>
 						<!--end radial-->
@@ -124,7 +124,7 @@
 				</div>
 				<div class="col-sm-4 col-xs-12">
 					<div class="feature">
-						<div class="radial" data-value="86" data-size="208" data-bar-width="8" data-color="#4a90e2">
+						<div class="radial" data-value="86" data-size="208" data-bar-width="8" data-color="darkblue">
 							<span class="h3 radial__label" style="color: white; font-weight: bold;">VERIFICATION</span>
 						</div>
 						<!--end radial-->
@@ -136,7 +136,7 @@
 				</div>
 				<div class="col-sm-4 col-xs-12">
 					<div class="feature">
-						<div class="radial" data-value="100" data-size="208" data-bar-width="8" data-color="#4a90e2">
+						<div class="radial" data-value="100" data-size="208" data-bar-width="8" data-color="darkblue">
 							<span class="h3 radial__label" style="color: white; font-weight: bold;">MATCH</span>
 						</div>
 						<!--end radial-->
@@ -226,47 +226,31 @@
 	</section>
 
 
-	<section class="text-center bg--secondary" style="margin-top: -230px;">
+	<section class="text-center imagebg" data-overlay="4" style="margin-top:-220px;">
+		<div class="background-image-holder" style="background: url(&quot;img/recruitment-4.jpg&quot;); opacity: 1;">
+			<img alt="background" src="img/recruitment-4.jpg">
+		</div>
 		<div class="container">
 			<div class="row">
-				<div class="col-md-8 col-sm-10">
-					<div class="slider" data-paging="true" data-children="3">
-						<ul class="slides flickity-enabled is-draggable" tabindex="0">
-
-
-
-							<div class="flickity-viewport"><div class="flickity-slider" style="left: 0px; transform: translateX(-300%);"><li class="slide is-selected" style="position: absolute; left: 300%;">
-										<div class="testimonial">
-											<img alt="Image" src="img/avatar-round-3.png" class="image--sm">
-											<span class="h3">
-                                                “There's a feeling of structure that you can't find in other templates — Stack has become my default template.”
-                                            </span>
-											<h5>Sam Briggs</h5>
-											<span>Envato Customer</span>
-										</div>
-									</li><li class="slide" style="position: absolute; left: 100%;">
-										<div class="testimonial">
-											<img alt="Image" src="img/avatar-round-4.png" class="image--sm">
-											<span class="h3">
-                                                “Variant has been a massive plus for my workflow — I can now get live mockups out in a matter of hours, my clients really love it.”
-                                            </span>
-											<h5>Rob Vasquez</h5>
-											<span>Interface Designer — Yoke</span>
-										</div>
-									</li><li class="slide" style="position: absolute; left: 200%;">
-										<div class="testimonial">
-											<img alt="Image" src="img/avatar-round-1.png" class="image--sm">
-											<span class="h3">
-                                                “We’ve been using Stack to prototype designs quickly and efficiently. Needless to say we’re hugely impressed by the style and value.”
-                                            </span>
-											<h5>Maguerite Holland</h5>
-											<span>Interface Designer — Yoke</span>
-										</div>
-									</li></div></div><ol class="flickity-page-dots"><li class="dot is-selected"></li><li class="dot"></li><li class="dot"></li></ol></ul>
+				<div class="col-sm-8 col-sm-offset-2 col-md-6 col-md-offset-3">
+					<div class="cta">
+						<h2>Applicants find jobs with Stack</h2>
+						<p class="lead">
+							On average, applicants are 40% more likely to find ongoing work in the creative industry using our jobs board.
+						</p>
+						<a class="btn btn--primary type--uppercase" href="gmatReg.php">
+                                    <span class="btn__text">
+                                        GET A TUTOR NOW!
+                                    </span>
+							<span class="label">It's Free</span>
+						</a>
 					</div>
 				</div>
 			</div>
 			<!--end of row-->
+		</div>
+		<!--end of container-->
+	</section>
 		</div>
 		<!--end of container-->
 	</section>
