@@ -326,14 +326,14 @@
 									<div class="col-sm-4">
 										<div class="input-radio">
 											<span class="input__label">SS Class</span>
-											<input type="radio" name="SS_Class" value="SS_Class" />
-											<label></label>
+											<input id="radio-input-1" type="checkbox" name="SS_Class" value="SS_Class" />
+											<label for="radio-input-1"></label>
 										</div>
 									</div>
 									<div class="col-sm-4">
 										<div class="input-radio">
 											<span class="input__label">Undergraduate</span>
-											<input id="radio-input-2" type="radio" name="Undergraduate" value="Undergraduate" />
+											<input id="radio-input-2" type="checkbox" name="Undergraduate" value="Undergraduate" />
 											<label for="radio-input-2"></label>
 										</div>
 									</div>
@@ -341,8 +341,8 @@
 									<div class="col-sm-4">
 										<div class="input-radio">
 											<span class="input__label">Adults</span>
-											<input id="radio-input-4" type="radio" name="Adults" value="Adults" />
-											<label for="radio-input-4"></label>
+											<input id="radio-input-3" type="checkbox" name="Adults" value="Adults" />
+											<label for="radio-input-3"></label>
 										</div>
 									</div>
 								</div>
@@ -364,9 +364,9 @@
 							</div><br/>
 
 							<div class="row">
-								<div class="col-md-10">
+								<div class="col-md-12">
 									<label>Let your client know you</label>
-									<textarea cols="5" rows="4" placeholder="Tell about yourself"></textarea>
+									<textarea class="form-control" placeholder="Tell about yourself"></textarea>
 								</div>
 
 							</div><br/>
@@ -377,15 +377,15 @@
 									<div class="col-sm-3">
 										<div class="input-radio">
 											<span class="input__label">SAT Math</span>
-											<input type="radio" name="SAT Math" value="SAT Math" />
-											<label></label>
+											<input id="radio-input-4" type="checkbox" name="SAT Math" value="SAT Math" />
+											<label for="radio-input-4"></label>
 										</div>
 									</div>
 									<div class="col-sm-3">
 										<div class="input-radio">
 											<span class="input__label">SAT reading/writing</span>
-											<input id="radio-input-2" type="radio" name="SAT reading/writing" value="SAT reading/writing" />
-											<label for="radio-input-2"></label>
+											<input id="radio-input-5" type="checkbox" name="SAT reading/writing" value="SAT reading/writing" />
+											<label for="radio-input-5"></label>
 										</div>
 									</div>
 
@@ -393,16 +393,16 @@
 									<div class="col-sm-3">
 										<div class="input-radio">
 											<span class="input__label">GRE Quantitative</span>
-											<input id="radio-input-2" type="radio" name="GRE Quantitative" value="GRE Quantitative" />
-											<label for="radio-input-2"></label>
+											<input id="radio-input-6" type="checkbox" name="GRE Quantitative" value="GRE Quantitative" />
+											<label for="radio-input-6"></label>
 										</div>
 									</div>
 
 									<div class="col-sm-3">
 										<div class="input-radio">
 											<span class="input__label">GMAT Quantitative</span>
-											<input id="radio-input-2" type="radio" name="GMAT Quantitative" value="GMAT Quantitative" />
-											<label for="radio-input-2"></label>
+											<input id="radio-input-7" type="checkbox" name="GMAT Quantitative" value="GMAT Quantitative" />
+											<label for="radio-input-7"></label>
 										</div>
 									</div>
 
@@ -413,16 +413,16 @@
 									<div class="col-sm-2">
 										<div class="input-radio">
 											<span class="input__label">TOEFL</span>
-											<input type="radio" name="TOEFL" value="TOEFL" />
-											<label></label>
+											<input id="radio-input-8" type="checkbox" name="TOEFL" value="TOEFL" />
+											<label for="radio-input-8"></label>
 										</div>
 									</div>
 
 									<div class="col-sm-3">
 										<div class="input-radio">
 											<span class="input__label">IELTS</span>
-											<input id="radio-input-4" type="radio" name="IELTS" value="IELTS" />
-											<label for="radio-input-4"></label>
+											<input id="radio-input-9" type="checkbox" name="IELTS" value="IELTS" />
+											<label for="radio-input-9"></label>
 										</div>
 									</div>
 
@@ -430,16 +430,16 @@
 									<div class="col-sm-3">
 										<div class="input-radio">
 											<span class="input__label">GMAT verbal/analytical</span>
-											<input id="radio-input-4" type="radio" name="GMAT verbal/analytical" value="GMAT verbal/analytical" />
-											<label for="radio-input-4"></label>
+											<input id="radio-input-10" type="checkbox" name="GMAT verbal/analytical" value="GMAT verbal/analytical" />
+											<label for="radio-input-10"></label>
 										</div>
 									</div>
 
 									<div class="col-sm-4">
 										<div class="input-radio">
 											<span class="input__label">GMAT verbal Reasoning/analytical</span>
-											<input id="radio-input-2" type="radio" name="GMAT verbal/analytical" value="GMAT verbal/analytical" />
-											<label for="radio-input-2"></label>
+											<input id="radio-input-11" type="checkbox" name="GMAT verbal/analytical" value="GMAT verbal/analytical" />
+											<label for="radio-input-11"></label>
 										</div>
 									</div>
 								</div>

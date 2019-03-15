@@ -106,7 +106,7 @@
 			<!--end of container-->
 	</section>
 
-	<section class="text-center" style="background-color: #4a90e2">
+	<section class="text-center" style="background-color: #0276FD">
 		<div class="container">
 		<h3 id="textStyle" align="center" style="color: white; font-weight: bold;">REGISTER IN THREE SIMPLE STEPS</h3><br/>
 			<div class="row">

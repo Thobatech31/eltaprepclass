@@ -515,21 +515,21 @@
 									<div class="col-sm-3">
 										<div class="input-radio">
 											<span class="input__label">Quantitative reasoning</span>
-											<input type="radio" name="radio" value="Speaking" />
-											<label></label>
+											<input id="radio-input-1" type="checkbox" name="Speaking" value="Speaking" />
+											<label for="radio-input-1"></label>
 										</div>
 									</div>
 									<div class="col-sm-3">
 										<div class="input-radio">
 											<span class="input__label">Verbal reasoning</span>
-											<input id="radio-input-2" type="radio" name="radio" value="Listening" />
+											<input id="radio-input-2" type="checkbox" name="Listening" value="Listening" />
 											<label for="radio-input-2"></label>
 										</div>
 									</div>
 									<div class="col-sm-3">
 										<div class="input-radio">
 											<span class="input__label"> Analytical writing</span>
-											<input id="radio-input-3" type="radio" name="radio" value="Writing" />
+											<input id="radio-input-3" type="checkbox" name="Writing" value="Writing" />
 											<label for="radio-input-3"></label>
 										</div>
 									</div>
@@ -537,7 +537,7 @@
 									<div class="col-sm-3">
 										<div class="input-radio">
 											<span class="input__label">integrated reasoning</span>
-											<input id="radio-input-4" type="radio" name="radio" value="Reading" />
+											<input id="radio-input-4" type="checkbox" name="Reading" value="Reading" />
 											<label for="radio-input-4"></label>
 										</div>
 									</div>
@@ -656,50 +656,50 @@
 									<div class="col-sm-3">
 										<div class="input-radio">
 											<span class="input__label">Monday</span>
-											<input type="radio" name="Monday" value="Monday" />
-											<label></label>
+											<input id="radio-input-5" type="checkbox" name="Monday" value="Monday" />
+											<label for="radio-input-5"></label>
 										</div>
 									</div>
 									<div class="col-sm-3">
 										<div class="input-radio">
 											<span class="input__label">Tuesday</span>
-											<input type="radio" name="Tuesday" value="Tuesday" />
-											<label></label>
+											<input id="radio-input-6" type="checkbox" name="Tuesday" value="Tuesday" />
+											<label for="radio-input-6"></label>
 										</div>
 									</div>
 									<div class="col-sm-3">
 										<div class="input-radio">
 											<span class="input__label">Wednesday</span>
-											<input type="radio" name="radio" value="Wednesday" />
-											<label></label>
+											<input id="radio-input-7" type="checkbox" name="Wednesday" value="Wednesday" />
+											<label for="radio-input-7"></label>
 										</div>
 									</div>
 									<div class="col-sm-3">
 										<div class="input-radio">
 											<span class="input__label">Thursday</span>
-											<input type="radio" name="radio" value="Thursday" />
-											<label></label>
+											<input id="radio-input-8" type="checkbox" name="Thursday" value="Thursday" />
+											<label for="radio-input-8"></label>
 										</div>
 									</div>
 									<div class="col-sm-3">
 										<div class="input-radio">
 											<span class="input__label">Friday</span>
-											<input type="radio" name="radio" value="Friday" />
-											<label></label>
+											<input id="radio-input-9" type="checkbox" name="Friday" value="Friday" />
+											<label for="radio-input-9"></label>
 										</div>
 									</div>
 									<div class="col-sm-3">
 										<div class="input-radio">
 											<span class="input__label">Saturday</span>
-											<input type="radio" name="radio" value="Saturday" />
-											<label></label>
+											<input id="radio-input-10" type="checkbox" name="Saturday" value="Saturday" />
+											<label for="radio-input-10"></label>
 										</div>
 									</div>
 									<div class="col-sm-3">
 										<div class="input-radio">
 											<span class="input__label">Sunday</span>
-											<input type="radio" name="radio" value="Sunday" />
-											<label></label>
+											<input id="radio-input-11" type="checkbox" name="Sunday" value="Sunday" />
+											<label for="radio-input-11"></label>
 										</div>
 									</div>
 

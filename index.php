@@ -360,35 +360,34 @@ font-size: 12px;
 
 	<div class="container" style="margin-top: -80px;">
 		<div class="widget partners drag-this-up text-center pushtop-70">
-			<p class="pretitle" id="header">STUDY IN THE COUNTRY OF YOUR CHOICE </p>
-			<h5>We collaborate with others</h5><br/><br/>
+			<p class="pretitle" id="header">STUDY IN THE COUNTRY OF YOUR CHOICE </p><br/><br/>
 			<div class="row">
 				<div class="col-md-3 col-sm-6">
-					<div class="partner">
-						<a href="#"><img src="http://via.placeholder.com/81x81" alt="Partner"></a>
-						<h6>Business Analytics</h6>
-						<p>Congue nihil imperdiet doming option congue nihil.</p>
+					<div class="card">
+						<img alt="background" src="assets/img/education-3.jpg">
+						<h6>United State</h6>
+
 					</div>
 				</div>
 				<div class="col-md-3 col-sm-6">
-					<div class="partner">
-						<a href="#"><img src="http://via.placeholder.com/81x81" alt="Partner"></a>
-						<h6>Business Solutions</h6>
-						<p>Congue nihil imperdiet doming option congue nihil.</p>
+					<div class="card">
+						<img alt="background" src="assets/img/about.png">
+						<h6>Canada</h6>
+
 					</div>
 				</div>
 				<div class="col-md-3 col-sm-6">
-					<div class="partner">
-						<a href="#"><img src="http://via.placeholder.com/81x81" alt="Partner"></a>
-						<h6>Core Ingredients</h6>
-						<p>Congue nihil imperdiet doming option congue nihil.</p>
+					<div class="card">
+						<img alt="background" src="assets/img/education-2.jpg">
+						<h6>China</h6>
+
 					</div>
 				</div>
 				<div class="col-md-3 col-sm-6">
-					<div class="partner">
-						<a href="#"><img src="http://via.placeholder.com/81x81" alt="Partner"></a>
-						<h6>Software Drops</h6>
-						<p>Congue nihil imperdiet doming option congue nihil.</p>
+					<div class="card">
+						<img alt="background" src="assets/img/education-3.jpg">
+						<h6>Nigeria</h6>
+
 					</div>
 				</div>
 			</div>
@@ -574,59 +573,59 @@ font-size: 12px;
 		</div>
 	</div>
 
-	<section class=" ">
-		<h2 align="center" style="margin-top:-50px; color:#0276FD;">Get a tutor in three easy steps </h2><br/>
+
+	<section class="text-center" style="background-color:">
 		<div class="container">
+			<h3 id="textStyle" align="center" style="color: #0276FD; font-weight: bold;">GET A TUTOR IN THREE EASY STEPS</h3><br/><br/>
 			<div class="row">
-				<div class="process-2">
-
-					<div class="col-sm-4">
-						<div class="process__item">
-							<h5>PLACE A REQUEST
-							</h5>
-							<p>
-								Complete the online registration
-								by providing necessary
-								Information In the required fields.
-
-
-							</p>
+				<div class="col-sm-4 col-xs-12" >
+					<div class="feature">
+						<div class="radial" data-value="77" data-size="208" data-bar-width="8" data-color="#0276FD">
+							<span class="h3 radial__label" style="color: black; font-weight: bold;">PLACE A REQUEST  </span>
 						</div>
-					</div>
-					<div class="col-sm-4">
-						<div class="process__item">
-							<h5>GET A TUTOR
-							</h5>
-							<p>
-						       once your request has been
-						               received, we connect you with
-						       a best fit tutor to suit your needs and schedule.
+						<!--end radial-->
+						<p style="color:black">
 
-
-
-							</p>
-						</div>
-					</div>
-					<div class="col-sm-4">
-						<div class="process__item">
-							<h5>START LESSON
-							</h5>
-							<p>
-								learning starts, getting
-							     you closer to achieving
-							   your dreams.
-
-
-							</p>
-						</div>
+							Complete the online registration
+							by providing necessary
+							Information In the required fields.
+						</p>
 					</div>
 				</div>
-				<!--end process-->
+				<div class="col-sm-4 col-xs-12">
+					<div class="feature">
+						<div class="radial" data-value="86" data-size="208" data-bar-width="8" data-color="#0276FD">
+							<span class="h3 radial__label" style="color: black; font-weight: bold;">GET A TUTOR</span>
+						</div>
+						<!--end radial-->
+						<p style="color:black">
+
+							once your request has been
+							received, we connect you with
+							a best fit tutor to suit your needs and schedule.
+
+						</p>
+					</div>
+				</div>
+				<div class="col-sm-4 col-xs-12">
+					<div class="feature">
+						<div class="radial" data-value="100" data-size="208" data-bar-width="8" data-color="#0276FD">
+							<span class="h3 radial__label" style="color: black; font-weight: bold;">START LESSON</span>
+						</div>
+						<!--end radial-->
+						<p style="color:black;">
+
+							learning starts, getting
+							you closer to achieving
+							your dreams.
+						</p>
+					</div>
+				</div>
 			</div>
 			<!--end of row-->
 		</div>
 		<!--end of container-->
-	</section>
+	</section><br/><br/>
 	
 </main>
 
