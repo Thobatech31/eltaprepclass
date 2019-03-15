@@ -358,42 +358,7 @@ font-size: 12px;
 		</div>
 	</div>
 
-	<div class="container" style="margin-top: -80px;">
-		<div class="widget partners drag-this-up text-center pushtop-70">
-			<p class="pretitle" id="header">STUDY IN THE COUNTRY OF YOUR CHOICE </p><br/><br/>
-			<div class="row">
-				<div class="col-md-3 col-sm-6">
-					<div class="card">
-						<img alt="background" src="assets/img/education-3.jpg">
-						<h6>United State</h6>
 
-					</div>
-				</div>
-				<div class="col-md-3 col-sm-6">
-					<div class="card">
-						<img alt="background" src="assets/img/about.png">
-						<h6>Canada</h6>
-
-					</div>
-				</div>
-				<div class="col-md-3 col-sm-6">
-					<div class="card">
-						<img alt="background" src="assets/img/education-2.jpg">
-						<h6>China</h6>
-
-					</div>
-				</div>
-				<div class="col-md-3 col-sm-6">
-					<div class="card">
-						<img alt="background" src="assets/img/education-3.jpg">
-						<h6>Nigeria</h6>
-
-					</div>
-				</div>
-			</div>
-		</div>
-
-	</div>
 
 
 	<!--<div class="testimonials-bg pushtop-0" style="background-image: url('assets/img/testimonials.png'); margin-top: -150px;">
@@ -437,7 +402,7 @@ font-size: 12px;
 <main id="GetTutor">
 
 
-	<div class="container-fluid" style="margin-top: -300px;">
+	<div class="container-fluid">
 		<div class="team pushtop-0">
 			<p class="pretitle text-center" id="header">EXAM PREPARATION</p>
 			<h5 class="text-center">Get more information on the Exam you wish to take.</h5>
@@ -573,8 +538,44 @@ font-size: 12px;
 		</div>
 	</div>
 
+	<div class="container" style="margin-top: 20px;">
+		<div class="widget partners drag-this-up text-center pushtop-70">
+			<p class="pretitle" id="header">STUDY IN THE COUNTRY OF YOUR CHOICE </p><br/><br/>
+			<div class="row">
+				<div class="col-md-3 col-sm-6">
+					<div class="card">
+						<img alt="background" src="assets/img/education-3.jpg">
+						<h6>United State</h6>
 
-	<section class="text-center" style="background-color:">
+					</div>
+				</div>
+				<div class="col-md-3 col-sm-6">
+					<div class="card">
+						<img alt="background" src="assets/img/about.png">
+						<h6>Canada</h6>
+
+					</div>
+				</div>
+				<div class="col-md-3 col-sm-6">
+					<div class="card">
+						<img alt="background" src="assets/img/education-2.jpg">
+						<h6>China</h6>
+
+					</div>
+				</div>
+				<div class="col-md-3 col-sm-6">
+					<div class="card">
+						<img alt="background" src="assets/img/education-3.jpg">
+						<h6>Nigeria</h6>
+
+					</div>
+				</div>
+			</div>
+		</div>
+
+	</div>
+
+	<section class="text-center" style="margin-top: -400px;">
 		<div class="container">
 			<h3 id="textStyle" align="center" style="color: #0276FD; font-weight: bold;">GET A TUTOR IN THREE EASY STEPS</h3><br/><br/>
 			<div class="row">
