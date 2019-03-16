@@ -289,7 +289,7 @@
 			learning easier for you. They believe that teaching is a work of heart <br/> and aim at tutoring students
 			at the comfort of their homes. We believe that
 			the environment plays a huge role in performance of a student and also one on one tutoring.
-		</p><
+		</p><br/><br/>
 		<center><p style="margin-left: 120px;  margin-top: -40px; font-weight: bold">When you know better, you do better. Let’s get you started<p/></center>
 
 		<div class="container">
