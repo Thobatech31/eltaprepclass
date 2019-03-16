@@ -201,7 +201,7 @@
 
 							<div class="flickity-viewport" ><div class="flickity-slider" style="left: 0px; transform: translateX(-300%);">
 									<li class="slide is-selected" style="position: absolute; left: 300%;">
-										<div class="testimonial">
+										<div class="">
 											<!--<img alt="Image" src="img/avatar-round-4.png" class="image--sm">-->
 											<h3 style="color:#0276FD; font-weight: bold;">University of Alabama</h3>
 											<span class="h3">
@@ -211,7 +211,7 @@
 									</li>
 
 									<li class="slide" style="position: absolute; left: 200%;">
-										<div class="testimonial">
+										<div class="">
 											<!--<img alt="Image" src="img/avatar-round-4.png" class="image--sm">-->
 											<h3 style="color:#0276FD; font-weight: bold;">Louisana State University</h3>
 											<span class="h3">

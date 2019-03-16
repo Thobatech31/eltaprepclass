@@ -2,26 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b5800aee-2189-4b1e-81bc-05c6990a10c2" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/about-us.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/faq.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/greReg.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ieltsReg.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/include/footer2.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/include/header2.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/include/tutorheader.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/privacy.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/toeflReg.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Tofel.php" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/gmat.php" beforeDir="false" afterPath="$PROJECT_DIR$/gmat.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gre.php" beforeDir="false" afterPath="$PROJECT_DIR$/gre.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ielts.php" beforeDir="false" afterPath="$PROJECT_DIR$/ielts.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/include/footer.php" beforeDir="false" afterPath="$PROJECT_DIR$/include/footer.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/include/header.php" beforeDir="false" afterPath="$PROJECT_DIR$/include/header.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/index.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sat.php" beforeDir="false" afterPath="$PROJECT_DIR$/sat.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/toefl.php" beforeDir="false" afterPath="$PROJECT_DIR$/toefl.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tutorpage.php" beforeDir="false" afterPath="$PROJECT_DIR$/tutorpage.php" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -30,28 +14,15 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <splitter split-orientation="horizontal" split-proportion="0.68296945">
+    <splitter split-orientation="horizontal" split-proportion="0.39334342">
       <split-first>
         <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
           <file pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/tutorpage.php">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="149">
-                  <caret line="153" lean-forward="true" selection-start-line="153" selection-end-line="153" />
-                  <folding>
-                    <element signature="n#section#4;n#div#0;n#html#0;n#!!top" />
-                  </folding>
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/gre.php">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="521">
-                  <caret line="406" column="14" selection-start-line="406" selection-start-column="14" selection-end-line="406" selection-end-column="14" />
+                <state relative-caret-position="285">
+                  <caret line="198" column="67" selection-start-line="198" selection-start-column="67" selection-end-line="198" selection-end-column="67" />
                   <folding>
-                    <element signature="n#section#5;n#div#0;n#html#0;n#!!top" />
                     <element signature="n#style#0;n#p#0;n#section#5;n#div#0;n#html#0;n#!!top" expanded="true" />
                     <element signature="n#style#0;n#p#0;n#center#0;n#section#5;n#div#0;n#html#0;n#!!top" expanded="true" />
                     <element signature="n#style#0;n#ul#0;n#div#1;n#div#0;n#div#0;n#section#5;n#div#0;n#html#0;n#!!top" expanded="true" />
@@ -63,11 +34,10 @@
           <file pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/toefl.php">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="504">
-                  <caret line="413" lean-forward="true" selection-start-line="413" selection-end-line="413" />
+                <state relative-caret-position="344">
+                  <caret line="209" column="18" selection-start-line="209" selection-start-column="18" selection-end-line="209" selection-end-column="18" />
                   <folding>
                     <element signature="n#div#0;n#section#1;n#div#0;n#html#0;n#!!top" />
-                    <element signature="n#section#0;n#html#0;n#!!top" />
                     <element signature="n#style#0;n#p#0;n#section#0;n#html#0;n#!!top" expanded="true" />
                     <element signature="n#style#0;n#p#0;n#center#0;n#section#0;n#html#0;n#!!top" expanded="true" />
                     <element signature="n#style#0;n#ul#0;n#div#1;n#div#0;n#div#0;n#section#0;n#html#0;n#!!top" expanded="true" />
@@ -76,11 +46,11 @@
               </provider>
             </entry>
           </file>
-          <file pinned="false" current-in-tab="true">
+          <file pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/privacy.php">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="535">
-                  <caret line="90" column="10" selection-start-line="90" selection-start-column="10" selection-end-line="90" selection-end-column="10" />
+                <state relative-caret-position="374">
+                  <caret line="88" column="83" selection-start-line="88" selection-start-column="83" selection-end-line="88" selection-end-column="83" />
                   <folding>
                     <element signature="n#style#0;n#p#3;n#div#3;n#main#0;n#html#0;n#!!top" expanded="true" />
                     <element signature="n#style#0;n#p#6;n#div#3;n#main#0;n#html#0;n#!!top" expanded="true" />
@@ -129,8 +99,8 @@
           <file pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/sat.php">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="407">
-                  <caret line="285" column="8" selection-start-line="285" selection-start-column="8" selection-end-line="492" selection-end-column="14" />
+                <state relative-caret-position="421">
+                  <caret line="291" column="12" lean-forward="true" selection-start-line="291" selection-start-column="12" selection-end-line="291" selection-end-column="22" />
                   <folding>
                     <element signature="n#div#0;n#section#1;n#div#0;n#html#0;n#!!top" />
                     <element signature="n#section#7;n#div#0;n#html#0;n#!!top" />
@@ -147,8 +117,8 @@
           <file pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/include/header.php">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="115">
-                  <caret line="21" column="18" lean-forward="true" selection-start-line="21" selection-start-column="18" selection-end-line="21" selection-end-column="25" />
+                <state relative-caret-position="87">
+                  <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
                 </state>
               </provider>
             </entry>
@@ -156,8 +126,8 @@
           <file pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/include/footer2.php">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="112">
-                  <caret line="8" column="63" selection-start-line="8" selection-start-column="63" selection-end-line="8" selection-end-column="63" />
+                <state>
+                  <caret column="61" lean-forward="true" selection-start-column="61" selection-end-column="61" />
                   <folding>
                     <element signature="n#style#0;n#footer#0;n#!!top" expanded="true" />
                     <element signature="e#2392#2398#0#HTML" expanded="true" />
@@ -166,15 +136,23 @@
               </provider>
             </entry>
           </file>
+          <file pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/include/header2.php">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="84">
+                  <caret line="6" column="51" selection-start-line="6" selection-end-line="7" />
+                </state>
+              </provider>
+            </entry>
+          </file>
           <file pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/faq.php">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="276">
-                  <caret line="45" column="21" selection-start-line="45" selection-start-column="21" selection-end-line="45" selection-end-column="21" />
+                <state relative-caret-position="318">
+                  <caret line="43" column="16" lean-forward="true" selection-start-line="43" selection-start-column="16" selection-end-line="43" selection-end-column="16" />
                   <folding>
                     <element signature="n#style#0;n#div#4;n#main#0;n#html#0;n#!!top" expanded="true" />
                     <element signature="n#style#0;n#p#0;n#div#0;n#main#0;n#html#0;n#!!top" expanded="true" />
-                    <element signature="n#p#0;n#div#0;n#main#0;n#html#0;n#!!top" />
                     <element signature="n#style#0;n#p#0;n#center#0;n#div#0;n#main#0;n#html#0;n#!!top" expanded="true" />
                     <element signature="n#style#0;n#ul#0;n#div#1;n#div#0;n#div#0;n#div#0;n#main#0;n#html#0;n#!!top" expanded="true" />
                   </folding>
@@ -185,10 +163,9 @@
           <file pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/ielts.php">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="535">
-                  <caret line="474" lean-forward="true" selection-start-line="474" selection-end-line="474" />
+                <state relative-caret-position="203">
+                  <caret line="270" column="22" selection-start-line="270" selection-start-column="22" selection-end-line="270" selection-end-column="22" />
                   <folding>
-                    <element signature="n#section#8;n#div#0;n#html#0;n#!!top" />
                     <element signature="n#style#0;n#p#0;n#section#8;n#div#0;n#html#0;n#!!top" expanded="true" />
                     <element signature="n#style#0;n#p#0;n#center#0;n#section#8;n#div#0;n#html#0;n#!!top" expanded="true" />
                     <element signature="n#style#0;n#ul#0;n#div#1;n#div#0;n#div#0;n#section#8;n#div#0;n#html#0;n#!!top" expanded="true" />
@@ -204,13 +181,27 @@
           <file pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/gmat.php">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="521">
-                  <caret line="505" column="10" selection-start-line="505" selection-start-column="10" selection-end-line="505" selection-end-column="10" />
+                <state relative-caret-position="149">
+                  <caret line="228" column="48" selection-start-line="228" selection-start-column="48" selection-end-line="228" selection-end-column="48" />
                   <folding>
-                    <element signature="n#section#6;n#html#0;n#!!top" />
+                    <element signature="n#style#0;n#div#0;n#div#0;n#ul#0;n#div#0;n#div#0;n#div#0;n#div#0;n#section#4;n#html#0;n#!!top" expanded="true" />
+                    <element signature="n#style#0;n#h3#0;n#div#0;n#li#0;n#div#0;n#div#0;n#ul#0;n#div#0;n#div#0;n#div#0;n#div#0;n#section#4;n#html#0;n#!!top" expanded="true" />
                     <element signature="n#style#0;n#p#0;n#section#6;n#html#0;n#!!top" expanded="true" />
                     <element signature="n#style#0;n#p#0;n#center#0;n#section#6;n#html#0;n#!!top" expanded="true" />
                     <element signature="n#style#0;n#ul#0;n#div#1;n#div#0;n#div#0;n#section#6;n#html#0;n#!!top" expanded="true" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/include/footer.php">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="994">
+                  <caret line="71" selection-start-line="71" selection-end-line="71" />
+                  <folding>
+                    <element signature="n#style#0;n#footer#0;n#!!top" expanded="true" />
+                    <element signature="e#2408#2414#0#HTML" expanded="true" />
                   </folding>
                 </state>
               </provider>
@@ -230,15 +221,6 @@
               <provider selected="true" editor-type-id="text-editor">
                 <state relative-caret-position="42">
                   <caret line="3" selection-start-line="3" selection-end-line="258" selection-end-column="11" />
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/asidepage2.php">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="294">
-                  <caret line="21" column="18" selection-end-line="367" selection-end-column="7" />
                 </state>
               </provider>
             </entry>
@@ -273,8 +255,8 @@
           <file pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/include/header.php">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="672">
-                  <caret line="48" column="28" selection-start-line="48" selection-start-column="28" selection-end-line="48" selection-end-column="28" />
+                <state relative-caret-position="56">
+                  <caret line="4" column="61" selection-start-line="4" selection-start-column="61" selection-end-line="4" selection-end-column="61" />
                 </state>
               </provider>
             </entry>
@@ -331,8 +313,8 @@
       <find>the re</find>
       <find>frequ</find>
       <find>curr</find>
-      <find>sa</find>
       <find>&quot;&quot;</find>
+      <find>sa</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -354,23 +336,23 @@
         <option value="$PROJECT_DIR$/gmatReg.php" />
         <option value="$PROJECT_DIR$/satreg.php" />
         <option value="$PROJECT_DIR$/greReg.php" />
-        <option value="$PROJECT_DIR$/include/footer.php" />
         <option value="$PROJECT_DIR$/ieltsReg.php" />
         <option value="$PROJECT_DIR$/toeflReg.php" />
-        <option value="$PROJECT_DIR$/include/header.php" />
         <option value="$PROJECT_DIR$/include/tutorheader.php" />
         <option value="$PROJECT_DIR$/tutorpage.php" />
         <option value="$PROJECT_DIR$/include/header2.php" />
         <option value="$PROJECT_DIR$/index.php" />
         <option value="$PROJECT_DIR$/about-us.php" />
-        <option value="$PROJECT_DIR$/sat.php" />
-        <option value="$PROJECT_DIR$/gmat.php" />
-        <option value="$PROJECT_DIR$/gre.php" />
-        <option value="$PROJECT_DIR$/ielts.php" />
-        <option value="$PROJECT_DIR$/toefl.php" />
         <option value="$PROJECT_DIR$/include/footer2.php" />
         <option value="$PROJECT_DIR$/faq.php" />
         <option value="$PROJECT_DIR$/privacy.php" />
+        <option value="$PROJECT_DIR$/sat.php" />
+        <option value="$PROJECT_DIR$/gre.php" />
+        <option value="$PROJECT_DIR$/toefl.php" />
+        <option value="$PROJECT_DIR$/ielts.php" />
+        <option value="$PROJECT_DIR$/include/footer.php" />
+        <option value="$PROJECT_DIR$/include/header.php" />
+        <option value="$PROJECT_DIR$/gmat.php" />
       </list>
     </option>
   </component>
@@ -475,7 +457,7 @@
       <workItem from="1552663314845" duration="5067000" />
       <workItem from="1552673442153" duration="3009000" />
       <workItem from="1552725405807" duration="2792000" />
-      <workItem from="1552733099643" duration="5847000" />
+      <workItem from="1552733099643" duration="7309000" />
     </task>
     <task id="LOCAL-00001" summary="modifying the homepage">
       <created>1550304185256</created>
@@ -631,17 +613,31 @@
       <option name="project" value="LOCAL" />
       <updated>1552667232648</updated>
     </task>
-    <option name="localTasksCounter" value="23" />
+    <task id="LOCAL-00023" summary="modifying stuff">
+      <created>1552739102508</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1552739102512</updated>
+    </task>
+    <task id="LOCAL-00024" summary="modifying stuff">
+      <created>1552739292900</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1552739292900</updated>
+    </task>
+    <option name="localTasksCounter" value="25" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="120227000" />
+    <option name="totallyTimeSpent" value="121689000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.13388805" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.13388805" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -662,7 +658,7 @@
       <window_info anchor="right" id="Database" order="3" />
     </layout>
     <layout-to-restore>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.15355521" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.13388805" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -783,13 +779,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/include/footer.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1666">
-          <caret line="119" selection-start-line="119" selection-end-line="119" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/greReg.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="2590">
@@ -853,17 +842,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/include/header2.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="462">
-          <caret line="158" column="6" selection-start-line="158" selection-start-column="6" selection-end-line="158" selection-end-column="6" />
-          <folding>
-            <element signature="n#style#0;n#head#0;n#!!top" />
-            <element signature="n#div#0;n#body#0;n#!!top" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/index.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="196">
@@ -873,82 +851,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/tutorpage.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="149">
-          <caret line="153" lean-forward="true" selection-start-line="153" selection-end-line="153" />
-          <folding>
-            <element signature="n#section#4;n#div#0;n#html#0;n#!!top" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/include/header.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="115">
-          <caret line="21" column="18" lean-forward="true" selection-start-line="21" selection-start-column="18" selection-end-line="21" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/gmat.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="521">
-          <caret line="505" column="10" selection-start-line="505" selection-start-column="10" selection-end-line="505" selection-end-column="10" />
-          <folding>
-            <element signature="n#section#6;n#html#0;n#!!top" />
-            <element signature="n#style#0;n#p#0;n#section#6;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#p#0;n#center#0;n#section#6;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#ul#0;n#div#1;n#div#0;n#div#0;n#section#6;n#html#0;n#!!top" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/gre.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="521">
-          <caret line="406" column="14" selection-start-line="406" selection-start-column="14" selection-end-line="406" selection-end-column="14" />
-          <folding>
-            <element signature="n#section#5;n#div#0;n#html#0;n#!!top" />
-            <element signature="n#style#0;n#p#0;n#section#5;n#div#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#p#0;n#center#0;n#section#5;n#div#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#ul#0;n#div#1;n#div#0;n#div#0;n#section#5;n#div#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ielts.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="535">
-          <caret line="474" lean-forward="true" selection-start-line="474" selection-end-line="474" />
-          <folding>
-            <element signature="n#section#8;n#div#0;n#html#0;n#!!top" />
-            <element signature="n#style#0;n#p#0;n#section#8;n#div#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#p#0;n#center#0;n#section#8;n#div#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#ul#0;n#div#1;n#div#0;n#div#0;n#section#8;n#div#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/toefl.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="504">
-          <caret line="413" lean-forward="true" selection-start-line="413" selection-end-line="413" />
-          <folding>
-            <element signature="n#div#0;n#section#1;n#div#0;n#html#0;n#!!top" />
-            <element signature="n#section#0;n#html#0;n#!!top" />
-            <element signature="n#style#0;n#p#0;n#section#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#p#0;n#center#0;n#section#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#ul#0;n#div#1;n#div#0;n#div#0;n#section#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/include/footer2.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="112">
-          <caret line="8" column="63" selection-start-line="8" selection-start-column="63" selection-end-line="8" selection-end-column="63" />
-          <folding>
-            <element signature="n#style#0;n#footer#0;n#!!top" expanded="true" />
-            <element signature="e#2392#2398#0#HTML" expanded="true" />
-          </folding>
+        <state relative-caret-position="42">
+          <caret line="3" selection-start-line="3" selection-end-line="258" selection-end-column="11" />
         </state>
       </provider>
     </entry>
@@ -972,40 +876,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/sat.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="407">
-          <caret line="285" column="8" selection-start-line="285" selection-start-column="8" selection-end-line="492" selection-end-column="14" />
-          <folding>
-            <element signature="n#div#0;n#section#1;n#div#0;n#html#0;n#!!top" />
-            <element signature="n#section#7;n#div#0;n#html#0;n#!!top" />
-            <element signature="n#style#0;n#p#0;n#section#8;n#div#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#p#0;n#section#8;n#div#0;n#html#0;n#!!top" />
-            <element signature="n#style#0;n#p#1;n#section#8;n#div#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#div#0;n#section#8;n#div#0;n#html#0;n#!!top" />
-            <element signature="n#style#0;n#ul#0;n#div#1;n#div#0;n#div#0;n#section#8;n#div#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/faq.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="276">
-          <caret line="45" column="21" selection-start-line="45" selection-start-column="21" selection-end-line="45" selection-end-column="21" />
-          <folding>
-            <element signature="n#style#0;n#div#4;n#main#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#p#0;n#div#0;n#main#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#p#0;n#div#0;n#main#0;n#html#0;n#!!top" />
-            <element signature="n#style#0;n#p#0;n#center#0;n#div#0;n#main#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#ul#0;n#div#1;n#div#0;n#div#0;n#div#0;n#main#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/privacy.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="535">
-          <caret line="90" column="10" selection-start-line="90" selection-start-column="10" selection-end-line="90" selection-end-column="10" />
+        <state relative-caret-position="374">
+          <caret line="88" column="83" selection-start-line="88" selection-start-column="83" selection-end-line="88" selection-end-column="83" />
           <folding>
             <element signature="n#style#0;n#p#3;n#div#3;n#main#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#p#6;n#div#3;n#main#0;n#html#0;n#!!top" expanded="true" />
@@ -1024,6 +898,108 @@
             <element signature="n#style#0;n#p#1;n#div#3;n#main#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#p#0;n#div#4;n#main#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#p#1;n#div#4;n#main#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sat.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="350">
+          <caret line="25" column="14" selection-end-line="498" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gre.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="94">
+          <caret line="74" lean-forward="true" selection-start-line="74" selection-end-line="74" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/faq.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="318">
+          <caret line="43" column="16" lean-forward="true" selection-start-line="43" selection-start-column="16" selection-end-line="43" selection-end-column="16" />
+          <folding>
+            <element signature="n#style#0;n#div#4;n#main#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#p#0;n#div#0;n#main#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#p#0;n#center#0;n#div#0;n#main#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#ul#0;n#div#1;n#div#0;n#div#0;n#div#0;n#main#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/toefl.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="344">
+          <caret line="209" column="18" selection-start-line="209" selection-start-column="18" selection-end-line="209" selection-end-column="18" />
+          <folding>
+            <element signature="n#div#0;n#section#1;n#div#0;n#html#0;n#!!top" />
+            <element signature="n#style#0;n#p#0;n#section#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#p#0;n#center#0;n#section#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#ul#0;n#div#1;n#div#0;n#div#0;n#section#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ielts.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="203">
+          <caret line="270" column="22" selection-start-line="270" selection-start-column="22" selection-end-line="270" selection-end-column="22" />
+          <folding>
+            <element signature="n#style#0;n#p#0;n#section#8;n#div#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#p#0;n#center#0;n#section#8;n#div#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#ul#0;n#div#1;n#div#0;n#div#0;n#section#8;n#div#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/include/footer2.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="61" lean-forward="true" selection-start-column="61" selection-end-column="61" />
+          <folding>
+            <element signature="n#style#0;n#footer#0;n#!!top" expanded="true" />
+            <element signature="e#2392#2398#0#HTML" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/include/footer.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="994">
+          <caret line="71" selection-start-line="71" selection-end-line="71" />
+          <folding>
+            <element signature="n#style#0;n#footer#0;n#!!top" expanded="true" />
+            <element signature="e#2408#2414#0#HTML" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/include/header2.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="84">
+          <caret line="6" column="51" selection-start-line="6" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/include/header.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="56">
+          <caret line="4" column="61" selection-start-line="4" selection-start-column="61" selection-end-line="4" selection-end-column="61" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gmat.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="149">
+          <caret line="228" column="48" selection-start-line="228" selection-start-column="48" selection-end-line="228" selection-end-column="48" />
+          <folding>
+            <element signature="n#style#0;n#div#0;n#div#0;n#ul#0;n#div#0;n#div#0;n#div#0;n#div#0;n#section#4;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#h3#0;n#div#0;n#li#0;n#div#0;n#div#0;n#ul#0;n#div#0;n#div#0;n#div#0;n#div#0;n#section#4;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#p#0;n#section#6;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#p#0;n#center#0;n#section#6;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#ul#0;n#div#1;n#div#0;n#div#0;n#section#6;n#html#0;n#!!top" expanded="true" />
           </folding>
         </state>
       </provider>

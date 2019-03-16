@@ -226,7 +226,7 @@
 					<ul class="slides flickity-enabled is-draggable" tabindex="0">
 
 						<div class="flickity-viewport" ><div class="flickity-slider" style="left: 0px; transform: translateX(-300%);"><li class="slide is-selected" style="position: absolute; left: 300%;">
-									<div class="testimonial">
+									<div class="">
 										<!--<img alt="Image" src="img/avatar-round-4.png" class="image--sm">-->
 										<h3 style="color:#0276FD; font-weight: bold;">Harvard business school</h3>
 										<span class="h3">
@@ -237,7 +237,7 @@
 								</li>
 
 								<li class="slide" style="position: absolute; left: 200%;">
-									<div class="testimonial">
+									<div class="">
 										<!--<img alt="Image" src="img/avatar-round-4.png" class="image--sm">-->
 										<h3 style="color:#0276FD; font-weight: bold;">Said business school UK</h3>
 										<span class="h3">
@@ -248,7 +248,7 @@
 								</li>
 
 								<li class="slide" style="position: absolute; left: 100%;">
-									<div class="testimonial">
+									<div class="">
 										<!--<img alt="Image" src="img/avatar-round-4.png" class="image--sm">-->
 										<h3 style="color:#0276FD; font-weight: bold;">ESMT MBA scholarships</h3>
 

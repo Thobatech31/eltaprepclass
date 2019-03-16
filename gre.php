@@ -130,7 +130,7 @@
 
 
 							<div class="flickity-viewport"><div class="flickity-slider" style="left: 0px; transform: translateX(-300%);"><li class="slide is-selected" style="position: absolute; left: 300%;">
-										<div class="testimonial">
+										<div class="">
 
 											<span class="h3">
 												The Average GRE Score Considerable for Admission Is 151 for Verbal Reasoning and 152-153 for Quantitative Reasoning.
@@ -139,7 +139,7 @@
 										</div>
 									</li>
 									<li class="slide" style="position: absolute; left: 100%;">
-										<div class="testimonial">
+										<div class="">
 											<span class="h3">
 												For Your Analytical Writing Section a Score above 3.5 Is Considerable.
 											</span>

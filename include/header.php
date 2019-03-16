@@ -3,6 +3,8 @@
 	<title>Travcut.com</title>
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
 	<meta name="description" content="Site Description Here">
+	<link rel="stylesheet" href="assets/css/main.css">
+
 	<link href="css/bootstrap.css" rel="stylesheet" type="text/css" media="all" />
 	<link href="css/stack-interface.css" rel="stylesheet" type="text/css" media="all" />
 	<link href="css/socicon.css" rel="stylesheet" type="text/css" media="all" />
@@ -17,14 +19,53 @@
 
 
 
+
+
 	<style>
+		#post{
+			position: relative;
+			cursor: pointer;
+		}
+
+		#post:hover .post-s{
+			width: 210px;
+		}
+
+		#post img{
+			display: block;
+		}
+
+		.post-s{
+			width: 0;
+			height: 140px;
+			background-color: white;
+			position: absolute;
+			top: 0;
+			display: flex;
+			justify-content: center;
+			align-items: center;
+			overflow: hidden;
+			transition: 0.7s ease;
+		}
+		.post-s p{
+			color: black;
+			font-weight: bold;
+			font-size: 12px;
+
+			padding: 10px 30px;
+		}
+		#header{
+			color:#0276FD;
+			font-weight: bold;
+			font-size: 22px;
+		}
+
 		#textStyle{
 			color:#0276FD;
 			font-weight: bold;
 		}
 
-
-		.type--uppercase{
+		#footerStyle{
 			color:white;
 			font-weight: bold;
 		}
@@ -32,11 +73,6 @@
 		#footerList{
 			color:antiquewhite;
 
-		}
-
-		#subfooter{
-			color:white;
-			font-weight: bold;
 		}
 	</style>
 
