@@ -1,8 +1,14 @@
 <head>
 	<meta charset="utf-8">
-	<title>Travcut.com</title>
-	<meta name="viewport" content="width=device-width, initial-scale=1.0">
-	<meta name="description" content="Site Description Here">
+	<meta name="viewport" content="width=device-width, initial-scale=1"/>
+	<title></title>
+	<link rel="stylesheet" href="assets/lib/bootstrap/css/bootstrap.min.css">
+	<link rel="stylesheet" href="assets/lib/font-awesome/css/font-awesome.min.css">
+	<link rel="stylesheet" href="assets/lib/jquery-ui/jquery-ui.min.css">
+	<link rel="stylesheet" href="assets/lib/slick/slick.css">
+	<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Montserrat:400,500,600%7CRaleway:400,600%7CWork+Sans:400,500%7CVarela+Round">
+	<link rel="stylesheet" href="assets/css/main.css">
+
 	<link href="css/bootstrap.css" rel="stylesheet" type="text/css" media="all" />
 	<link href="css/stack-interface.css" rel="stylesheet" type="text/css" media="all" />
 	<link href="css/socicon.css" rel="stylesheet" type="text/css" media="all" />
@@ -14,17 +20,53 @@
 	<link href="css/custom.css" rel="stylesheet" type="text/css" media="all" />
 	<link href="https://fonts.googleapis.com/css?family=Open+Sans:200,300,400,400i,500,600,700%7CMerriweather:300,300i" rel="stylesheet">
 	<link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
-
-
+	<link rel="stylesheet" href="assets/lib/bootstrap/css/bootstrap.min.css">
 
 	<style>
+		#post{
+			position: relative;
+			cursor: pointer;
+		}
+
+		#post:hover .post-s{
+			width: 210px;
+		}
+
+		#post img{
+			display: block;
+		}
+
+		.post-s{
+			width: 0;
+			height: 140px;
+			background-color: white;
+			position: absolute;
+			top: 0;
+			display: flex;
+			justify-content: center;
+			align-items: center;
+			overflow: hidden;
+			transition: 0.7s ease;
+		}
+		.post-s p{
+			color: black;
+			font-weight: bold;
+			font-size: 12px;
+
+			padding: 10px 30px;
+		}
+		#header{
+			color:#0276FD;
+			font-weight: bold;
+			font-size: 22px;
+		}
+
 		#textStyle{
 			color:#0276FD;
 			font-weight: bold;
 		}
 
-
-		.type--uppercase{
+		#footerStyle{
 			color:white;
 			font-weight: bold;
 		}
@@ -33,17 +75,11 @@
 			color:antiquewhite;
 
 		}
-
-		#subfooter{
-			color:white;
-			font-weight: bold;
-		}
 	</style>
 
 </head>
-<body class=" ">
+<body class=" " data-smooth-scroll-offset='180'>
 <a id="start"></a>
-
 <div class="nav-container ">
 	<div class="bar bar--sm visible-xs">
 		<div class="container">
@@ -89,6 +125,17 @@
 						</a>
 					</div>
 					<!--end module-->
+					<div class="bar__module">
+
+						<a class="btn btn-primary" href="#GetTutor">
+                                    <span class="btn__text" style="color:white">
+                                        GET A TUTOR
+                                    </span>
+						</a>
+					</div>
+					<!--end of modal instance-->
+
+
 					<div class="modal-instance">
 						<a class="btn " href="tutorpage.php">
                                     <span class="btn__text">
@@ -97,13 +144,16 @@
 						</a>
 
 					</div>
-					<!--end module-->
+					<!--end of modal instance-->
 
 				</div>
+				<!--end module-->
+
 			</div>
-			<!--end of row-->
 		</div>
-		<!--end of container-->
-	</nav>
-	<!--end bar-->
+		<!--end of row-->
+</div>
+<!--end of container-->
+</nav>
+<!--end bar-->
 </div>

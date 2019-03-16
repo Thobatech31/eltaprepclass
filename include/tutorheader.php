@@ -90,9 +90,9 @@
 					</div>
 					<!--end module-->
 					<div class="modal-instance">
-						<a class="btn " href="tutorpage.php">
+						<a class="btn " href="index.php">
                                     <span class="btn__text">
-                                        BECOME A TUTOR
+                                        GET A TUTOR
                                     </span>
 						</a>
 

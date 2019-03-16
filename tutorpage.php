@@ -1,6 +1,6 @@
 <!doctype html>
 <html lang="en">
-<?php require('include/header.php');?>
+<?php require('include/tutorheader.php');?>
 <div class="main-container">
 	<section class="imagebg parallax" data-scrim-top="9" data-overlay="4">
 		<div class="background-image-holder">
@@ -234,9 +234,9 @@
 			<div class="row">
 				<div class="col-sm-8 col-sm-offset-2 col-md-6 col-md-offset-3">
 					<div class="cta">
-						<h2>Applicants find jobs with Stack</h2>
+						<h3>Applicants find tutors with Travcut</h3>
 						<p class="lead">
-							On average, applicants are 40% more likely to find ongoing work in the creative industry using our jobs board.
+							Obtain satisfaction in contributing to your community and impacting lives by doing what you do Make money out of your passion
 						</p>
 						<a class="btn btn--primary type--uppercase" href="gmatReg.php">
                                     <span class="btn__text">
