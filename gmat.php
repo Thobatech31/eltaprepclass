@@ -4,7 +4,7 @@
 <div class="main-container">
 	<section class="cover height-60 imagebg text-center" data-overlay="5">
 		<div class="background-image-holder background--top">
-			<img alt="background" src="img/insurance-1.jpg" />
+			<img alt="background" src="assets/img/new/education-6.jpg" />
 		</div>
 
 		<div class="container pos-vertical-center">
@@ -270,15 +270,15 @@
 
 <section class="text-center imagebg" data-overlay="4">
 	<div class="background-image-holder" style="background: url(&quot;img/recruitment-4.jpg&quot;); opacity: 1;">
-		<img alt="background" src="img/recruitment-4.jpg">
+		<img alt="background" src="assets/img/new/four.jpg">
 	</div>
 	<div class="container">
 		<div class="row">
 			<div class="col-sm-8 col-sm-offset-2 col-md-6 col-md-offset-3">
 				<div class="cta">
-					<h2>Applicants find jobs with Stack</h2>
+					<h2>Applicants find tutors with Travcut</h2>
 					<p class="lead">
-						On average, applicants are 40% more likely to find ongoing work in the creative industry using our jobs board.
+						Obtain satisfaction in contributing to your community and impacting lives by doing what you do Make money out of your passion
 					</p>
 					<a class="btn btn--primary type--uppercase" href="gmatReg.php">
                                     <span class="btn__text">

@@ -4,7 +4,7 @@
 <div class="main-container">
 	<section class="imagebg parallax" data-scrim-top="9" data-overlay="4">
 		<div class="background-image-holder">
-			<img alt="background" src="img/education-3.jpg" />
+			<img alt="background" src="assets/img/new/education-2.jpg" />
 		</div>
 		<div class="container">
 			<div class="row">
@@ -173,7 +173,7 @@
 	</section>
 	<section id="reception" class="cover height-80 imagebg text-center parallax" data-overlay="3">
 		<div class="background-image-holder">
-			<img alt="background" src="img/wedding-4.jpg" />
+			<img alt="background" src="assets/img/new/one.jpg" />
 		</div>
 		<div class="container pos-vertical-center">
 			<div class="row">

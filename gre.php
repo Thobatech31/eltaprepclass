@@ -4,7 +4,7 @@
 <div class="main-container">
 	<section class="imagebg parallax" data-scrim-top="9" data-overlay="4">
 		<div class="background-image-holder background--top">
-			<img alt="background" src="img/education-3.jpg" />
+			<img alt="background" src="assets/img/new/fifteen.jpg" />
 		</div>
 
 		<div class="container">
@@ -76,7 +76,7 @@
 
 	<section class=" imagebg" data-overlay='4'>
 		<div class="background-image-holder">
-			<img alt="background" src="img/cowork-8.jpg" />
+			<img alt="background" src="assets/img/new/seventeen.jpg" />
 		</div>
 		<div class="container">
 			<div class="row">
@@ -195,13 +195,13 @@
 		<!--end of container-->
 	</section>
 	<section class="bg--secondary">
-		<h3 id="textStyle" align="center">FREQUENTLY ASKED QUESTIONS </h3><br/>
-		<p style="margin-left: 120px; margin-top: -30px"><br/><br/>
+		<h3 id="textStyle" align="center">FREQUENTLY ASKED QUESTIONS </h3>
+		<p style="margin-left: 120px; margin-top: -30px"><br/>
 			Travcut tutors are trustworthy, Reliable, experienced and qualified teachers who can make
 			learning easier for you. They believe that teaching is a work of heart <br/> and aim at tutoring students
 			at the comfort of their homes. We believe that
 			the environment plays a huge role in performance of a student and also one on one tutoring.
-		</p>
+		</p><br/>
 		<center><p style="margin-left: 120px;  margin-top: -40px; font-weight: bold">When you know better, you do better. Let’s get you started<p/></center>
 
 		<div class="container">

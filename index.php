@@ -7,7 +7,7 @@
                 <ul class="slides">
                     <li class="imagebg" data-overlay="4">
                         <div class="background-image-holder background--top">
-                            <img alt="background" src="img/education-3.jpg" />
+                            <img alt="background" src="assets/img/new/education-3.jpg" />
                         </div>
                         <div class="container pos-vertical-center">
                             <div class="row">
@@ -55,7 +55,7 @@
                     </li>
                      <li class="imagebg" data-overlay="4">
                         <div class="background-image-holder">
-                            <img alt="background" src="img/education-1.jpg" />
+                            <img alt="background" src="assets/img/new/sixteen.jpg" />
                         </div>
                         <div class="container pos-vertical-center">
                             <div class="row">
@@ -166,9 +166,11 @@
 
 			<div class="col-md-7 drag-this-left">
 				<div class="app-feature-slick">
-					<img src="assets/img/home3-howitworks.png" alt="Slider image">
-					<img src="assets/img/home3-howitworks 1.png" alt="Slider image">
-					<img src="assets/img/home3-howitworks 2.png" alt="Slider image">
+					<img src="assets/img/new/four.jpg" alt="Slider image">
+
+					<img src="assets/img/new/fifteen.jpg" alt="Slider image">
+
+					<img src="assets/img/new/six.jpg" alt="Slider image">
 				</div>
 			</div>
 		</div>
@@ -255,7 +257,7 @@
 
 				<div class="col-md-2 col-sm-6" id="post">
 						<a href="gmat.php" style="color: gray; " class="link-hover"><div class="service-img-holder">
-								<img src="assets/img/about.png" alt="Services" style>
+								<img src="assets/img/new/education-2.jpg" alt="Services" style>
 							</div><p style="color:#0276FD;">GMAT</p>
 
 					<div class="post-s">
@@ -268,7 +270,7 @@
 
 				<div class="col-md-2 col-sm-6" id="post">
 					<a href="sat.php" style="color: gray; " class="link-hover"><div class="service-img-holder">
-							<img src="assets/img/about.png" alt="Services" style>
+							<img src="assets/img/new/sixteen.jpg" alt="Services" style>
 						</div><p style="color:#0276FD;">SAT</p>
 
 						<div class="post-s">
@@ -282,7 +284,7 @@
 
 				<div class="col-md-2 col-sm-6" id="post">
 					<a href="gre.php" style="color: gray; " class="link-hover"><div class="service-img-holder">
-							<img src="assets/img/about.png" alt="Services" style>
+							<img src="assets/img/new/eight.jpg" alt="Services" style>
 						</div><p style="color:#0276FD;">GRE</p>
 
 						<div class="post-s">
@@ -295,7 +297,7 @@
 
 				<div class="col-md-2 col-sm-6" id="post">
 					<a href="toefl.php" style="color: gray; " class="link-hover"><div class="service-img-holder">
-							<img src="assets/img/about.png" alt="Services" style>
+							<img src="assets/img/new/education-5.jpg" alt="Services" style>
 						</div><p style="color:#0276FD;">TOEFL</p>
 
 						<div class="post-s">
@@ -309,7 +311,7 @@
 
 				<div class="col-md-2 col-sm-6" id="post">
 					<a href="ielts.php" style="color: gray; " class="link-hover"><div class="service-img-holder">
-							<img src="assets/img/about.png" alt="Services" style>
+							<img src="assets/img/new/education-7.jpg" alt="Services" style>
 						</div><p style="color:#0276FD;">IELTS</p>
 
 						<div class="post-s">

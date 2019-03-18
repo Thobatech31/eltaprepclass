@@ -4,7 +4,7 @@
 <div class="main-container">
 	<section class="imagebg parallax" data-scrim-top="9" data-overlay="4">
 		<div class="background-image-holder">
-			<img alt="background" src="img/education-3.jpg" />
+			<img alt="background" src="assets/img/new/eight.jpg" />
 		</div>
 		<div class="container">
 			<div class="row">
@@ -33,7 +33,7 @@
 			<div class="row">
 				<div class="col-sm-5 text-center">
 
-					<img alt="Image" class="border--round box-shadow-wide" src="img/education-4.jpg">
+					<img alt="Image" class="border--round box-shadow-wide" src="assets/img/new/five.jpg">
 
 
 				</div>
@@ -228,7 +228,7 @@
 
 	<section class="text-center imagebg" data-overlay="4" style="margin-top:-220px;">
 		<div class="background-image-holder" style="background: url(&quot;img/recruitment-4.jpg&quot;); opacity: 1;">
-			<img alt="background" src="img/recruitment-4.jpg">
+			<img alt="background" src="assets/img/new/one.jpg">
 		</div>
 		<div class="container">
 			<div class="row">

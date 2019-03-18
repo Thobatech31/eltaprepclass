@@ -4,7 +4,7 @@
 <div class="main-container">
 	<section class="imagebg parallax" data-scrim-top="9" data-overlay="4">
 		<div class="background-image-holder">
-			<img alt="background" src="img/education-3.jpg" />
+			<img alt="background" src="assets/img/new/four.jpg" />
 		</div>
 		<div class="container">
 			<div class="row">
@@ -70,7 +70,7 @@
 			<div class="row">
 				<div class="col-sm-5 text-center">
 
-					<img alt="Image" class="border--round box-shadow-wide" src="img/education-4.jpg" />
+					<img alt="Image" class="border--round box-shadow-wide" src="assets/img/new/nine2.jpg" />
 
 
 				</div>
@@ -246,7 +246,7 @@
 				<a href="#" class="block">
 					<div class="feature feature-7 boxed text-center imagebg" data-overlay="3">
 						<div class="background-image-holder">
-							<img alt="background" src="img/education-5.jpg" />
+							<img alt="background" src="assets/img/new/eight.jpg" />
 						</div>
 						<h4 class="pos-vertical-center">Future Students</h4>
 					</div>
@@ -256,7 +256,7 @@
 				<a href="#" class="block">
 					<div class="feature feature-7 boxed text-center imagebg" data-overlay="5">
 						<div class="background-image-holder">
-							<img alt="background" src="assets/img/about.png" />
+							<img alt="background" src="assets/img/new/four.jpg" />
 						</div>
 						<h4 class="pos-vertical-center" style="margin-top: 70px;">Current Students</h4>
 						<a class="btn btn--primary type--uppercase" href="satReg.php">
@@ -273,7 +273,7 @@
 				<a href="#" class="block">
 					<div class="feature feature-7 boxed text-center imagebg" data-overlay="5">
 						<div class="background-image-holder">
-							<img alt="background" src="img/education-5.jpg" />
+							<img alt="background" src="assets/img/new/fifteen.jpg" />
 						</div>
 						<h4 class="pos-vertical-center">Alumni</h4>
 					</div>

@@ -41,7 +41,7 @@
 					</div>
 				</div>
 				<div class="col-sm-6 col-md-4 col-xs-12 text-center">
-					<img alt="Image" src="assets/img/services7.jpg" />
+					<img alt="Image" src="assets/img/new/ten.jpg" />
 				</div>
 			</div>
 			<!--end of row-->
@@ -124,7 +124,7 @@
 					</p>
 				</div>
 				<div class="col-sm-4 col-md-4 col-md-offset-1">
-					<img alt="Image" class="border--round box-shadow" src="img/landing-4.jpg" />
+					<img alt="Image" class="border--round box-shadow" src="assets/img/new/seven.jpg" />
 				</div>
 				<div class="col-sm-4 col-md-2 col-md-offset-1">
 					<hr class="short" />
@@ -155,6 +155,7 @@
 											scholarships and fellowships can be found in the range of $5000 to full tuition and monthly stipends.
                                             </span>
 										</div>
+										</div>
 									</li>
 
 									<li class="slide" style="position: absolute; left: 200%;">
@@ -180,7 +181,10 @@
 										</div>
 									</li>
 
-								</div></div><ol class="flickity-page-dots"><li class="dot is-selected"></li><li class="dot"></li><li class="dot"></li></ol></ul>
+								</div>
+					</div>
+					<ol class="flickity-page-dots"></ol>
+					</ul>
 					</div>
 				</div>
 			</div>
@@ -194,7 +198,7 @@
 	<section class="imageblock switchable feature-large bg--secondary">
 		<div class="imageblock__content col-md-4 col-sm-3 pos-right">
 			<div class="background-image-holder">
-				<img alt="image" src="assets/img/education-3.jpg" />
+				<img alt="image" src="assets/img/new/three.jpg" />
 			</div>
 		</div>
 		<div class="container">
