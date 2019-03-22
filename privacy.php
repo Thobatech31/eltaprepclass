@@ -30,69 +30,129 @@
 </div>
 
 
+
+
 <main class="homepage">
+
 
 	<div class="widget10 extend-wrap" style="margin-top: 70px;">
 		<p class="pretitle text-center" id="header">Privacy</p><br/>
 		<p style="margin-left: 120px;">	Your safety our priority</p>
 		<p style="margin-left: 120px;">
 			We make your dreams become reality
-		</p><br/>
-		<h4 style="margin-left: 120px; font-weight: bold" id="textStyle">
-			At Travcut tutor we ensure our tutors pass through tests and verifications to ensure your success and safety
-		</h4><br/>
-		<p style="margin-left: 120px; font-weight: bold;">	Verification process</p>
-		<p style="margin-left: 170px;">	1.	Background check</p>
-		<p style="margin-left: 120px; font-weight: bold;">	Your safety our priority</p>
-		<p style="margin-left: 170px;">	2.	ID verification</p>
-
-
-		<p style="margin-left: 120px;">
-			Part of the verification process involve verifying a Valid ID presented by the tutor and also connecting to their
-			social network platforms to confirm<br/> all details given.
 		</p>
 	</div>
 
-	<div class="widget10 extend-wrap" style="margin-top: 70px;">
-		<p class="pretitle" style="margin-left: 120px;" id="header">Quality</p><br/>
 
-		<p style="margin-left: 120px;">
-			We ensure all our tutors are assessed to ensure their capacity
-		</p>
-	</div>
+	<section class="imageblock bg--secondary">
+		<div class="container">
+			<div class="row">
+				<div class="col-md-5 col-sm-5">
+					<img alt="image" src="assets/img/new/three.jpg">
 
-	<div class="widget10 extend-wrap" style="margin-top: 70px;">
-		<p class="pretitle" style="margin-left: 120px;" id="header">Guarantee</p><br/>
+				</div>
 
-		<p style="margin-left: 120px;">
-			To ensure you get value for your money, you do not pay for a lesson until you’ve
-			found a perfect fit tutor that suits your need.
-		</p>
+				<div class="col-md-1 col-sm-1">
 
-		<p style="margin-left: 120px;">
-			In other to ensure transparency, at the end of each lesson section, a client reviews his tutor while the tutor also gives a feedback.
-		</p>
-	</div>
+				</div>
 
-	<div class="widget10 extend-wrap" style="margin-top: 70px;">
-		<p class="pretitle" style="margin-left: 120px;" id="header">Personal details</p><br/>
+				<div class="col-md-6 col-sm-6"><br/><br/><br/>
+					<h4 style="margin-top:-50px; color:#0276FD;">At Travcut tutor we ensure our tutors pass through tests and verifications to ensure your success and safety</h4>
+					<br/><h5 align="center">Verification process
+					</h5>
+					<p style="margin-top: -20px;" align="center">
+						Background check
+					</p>
 
-		<p style="margin-left: 120px;">
-			At Travcut tutor we ensure your details are secured at all times and never share them with third parties
-		</p>
-	</div>
 
-	<div class="widget10 extend-wrap" style="margin-top: 70px;">
-		<p class="pretitle" style="margin-left: 120px;" id="header">Payment</p><br/>
+					<br/><h5 align="center">Your safety our priority
+					</h5>
+					<p style="margin-top: -20px;" align="center">
+						ID verification
+					</p>
+				</div>
+			</div>
+			<!--end of row-->
+		</div>
+		<!--end of container-->
+	</section>
 
-		<p style="margin-left: 120px;">
-			All payments and transactions are done on a secured platform.<br/><br/>
+	<section class="switchable switchable--switch bg--secondary">
+		<div class="container">
+			<h4 id="textStyle">
+				Part of the verification process involve verifying a Valid ID presented by the tutor and also connecting to their
+				social network platforms to confirm all details given.
+			</h4><br><br>
+			<div class="row">
 
-			Need any help, just contact us<br/>
-			We are always ready to help.
+				<div class="col-sm-7 col-md-6">
+					<ol class="process-3">
+						<li class="process_item">
+							<div class="process__number">
+								<span>1</span>
+							</div>
+							<div class="process__body">
+								<h4 id="textStyle">Quality</h4>
+								<p>
+									We ensure all our tutors are assessed to ensure their capacity
+								</p>
+							</div>
+						</li>
+						<li class="process_item">
+							<div class="process__number">
+								<span>2</span>
+							</div>
+							<div class="process__body">
+								<h4 id="textStyle">Guarantee</h4>
+								<p>
+									To ensure you get value for your money, you do not pay for a lesson until you’ve
+									found a perfect fit tutor that suits your need.
+								</p>
+								<p>
+									In other to ensure transparency, at the end of each lesson section, a client reviews his tutor while the tutor also gives a feedback.
+								</p>
+							</div>
+						</li>
 
-		</p>
-	</div>
+						<li class="process_item">
+							<div class="process__number">
+								<span>2</span>
+							</div>
+							<div class="process__body">
+								<h4 id="textStyle">Personal details</h4>
+								<p>
+									At Travcut tutor we ensure your details are secured at all times and never share them with third parties
+								</p>
+							</div>
+						</li>
+
+						<li class="process_item">
+							<div class="process__number">
+								<span>2</span>
+							</div>
+							<div class="process__body">
+								<h4 id="textStyle">Payment</h4>
+								All payments and transactions are done on a secured platform.<br/><br/>
+
+								Need any help, just contact us<br/>
+								We are always ready to help.
+							</div>
+						</li>
+					</ol>
+				</div>
+
+				<div class="col-sm-5 text-center">
+
+					<img alt="Image" class="border--round box-shadow-wide" src="assets/img/new/seven.jpg">
+
+
+				</div>
+			</div>
+			<!--end of row-->
+		</div>
+		<!--end of container-->
+	</section>
+
 
 
 

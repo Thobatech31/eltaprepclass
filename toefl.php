@@ -12,8 +12,7 @@
 					<div class="cta">
 						<h2>TOEFL</h2>
 						<h4 style="font-weight: bold;">
-							Obtain satisfaction in contributing to your community and impacting lives by doing what you do
-							Make money out of your passion
+							A dream doesn’t become reality through magic, it takes sweat determination and hard work- Collin powell
 						</h4>
 						<a class="btn btn--primary type--uppercase" href="toeflReg.php">
                                     <span class="btn__text">
@@ -29,38 +28,23 @@
 	</section>
 
 	<section class=" ">
-		<h2 align="center" style="margin-top:-50px; color:#0276FD;">What makes us different?</h2>
+		<h3 align="center" style="margin-top:-50px; color:#0276FD;">Why do you need Toefl</h3>
 		<div class="container">
 			<div class="row">
-				<div class="process-2">
 
-					<div class="col-sm-4">
-						<div class="process__item">
-							<h5>The right information at your fingertips.
-							</h5>
+				<div class="col-sm-1">
+				</div>
+					<div class="col-sm-10">
+
 							<p>
-								Undergo counselling with our experts and get informed.
+								Students who wish to attend a university/college in an English speaking country
+								but aren’t native English speakers are required to provide a proof of English Proficiency but sometimes
+								that’s not the case Some Universities/colleges may also require native English speakers to provide scores
+								to also ascertain their level of proficiency.
 							</p>
-						</div>
+
 					</div>
-					<div class="col-sm-4">
-						<div class="process__item">
-							<h5>Qualified tutors
-							</h5>
-							<p>
-								Our tutors not only teach you but also help you develop a passion
-								for learning and once you do that, you’ll never cease to grow.
-							</p>
-						</div>
-					</div>
-					<div class="col-sm-4">
-						<div class="process__item">
-							<h5>Flexibility
-							</h5>
-							<p>
-								You get to choose your preferred tutor and learn at your convenience wherever and whenever.						</p>
-						</div>
-					</div>
+				<div class="col-sm-1">
 				</div>
 				<!--end process-->
 			</div>
@@ -68,7 +52,10 @@
 		</div>
 		<!--end of container-->
 	</section>
+	<h3 align="center" style="margin-top:-50px; color:#0276FD;">Benefits of writing Toefl</h3>
+
 	<section class="imageblock switchable feature-large bg--secondary space--sm">
+
 		<div class="imageblock__content col-md-6 col-sm-4 pos-right">
 			<div class="background-image-holder">
 				<img alt="image" src="img/education-1.jpg" />
@@ -77,9 +64,10 @@
 		<div class="container">
 			<div class="row">
 				<div class="col-md-5 col-sm-7">
-					<h2>Graphic Design</h2>
+					<h3 id="textStyle">Admission</h3>
 					<p class="lead">
-						Stack offers a clean and contemporary to suit a range of purposes from corporate, tech startup, marketing site to digital storefront. Elements have been designed to showcase content in a diverse yet consistent manner.
+						Almost Every university in Major English speaking countries such as U.K ,U.S, Canada, New zealand and Australia use the
+						TOEFL score to determine whether nonnative English speakers can be admitted to their program.
 					</p>
 				</div>
 			</div>
@@ -96,9 +84,11 @@
 		<div class="container">
 			<div class="row">
 				<div class="col-md-5 col-sm-7">
-					<h2>Brand Marketing</h2>
+					<h3 id="textStyle">Scholarships opportunity</h3>
 					<p class="lead">
-						Multiple font and colour scheme options mean that dramatically altering the look of your site is just clicks away &mdash; Customizing your site in the included Variant Page Builder makes experimenting with styles and content arrangements dead simple.
+						With your TOEFL score, you can qualify for scholarships, All you just need to do is GET A GOOD SCORE.<br/>
+						The TOEFL exam is the English Language fluency assessment accepted on over 6000 institutions.
+						Not just the UK and US but across over 100 countries
 					</p>
 				</div>
 			</div>
@@ -112,8 +102,8 @@
 				<div class="col-sm-10 col-md-8">
 					<h2 id="textStyle">Say you'll be there!</h2>
 					<p class="lead">
-						Did you think TOEFL was just to check your English proficiency level? <br/>With a TOEFL score of 100+ you can qualify for academic scholarships
-
+						The purpose of this test is to evaluate the English proficiency of people whose native language is not English.
+						TOEFL iBT scores are primarily used as a measure of the ability of international students to use English in an academic environment.
 					</p>
 				</div>
 			</div>
@@ -182,7 +172,8 @@
 						Further your prospects
 					</h1>
 					<p class="lead">
-						With a total score of 100+ you can get that scholarship to study abroad.<br/> Let’s get you there.
+						With a total score of 100+ you can get that scholarship to study abroad.
+						Let our tutors help you improve your Reading, Listening, Speaking and Writing skills so as to ace your examination in flying colors. LET’S GET YOU STARTED.
 					</p>
 					<a class="btn btn--primary type--uppercase" href="toeflReg.php">
                                 <span class="btn__text">

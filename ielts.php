@@ -8,12 +8,12 @@
 		</div>
 		<div class="container">
 			<div class="row">
-				<div class="col-sm-6">
+				<div class="col-sm-8">
 					<div class="cta">
 						<h2>IELTS</h2>
-						<p>
-							You are one step close to achieving your dreams to study abroad with a scholarship. Let our tutors help you achieve a 1200+ score.
-						</p>
+						<h4 style="font-weight: bold;">
+							With IELTS you are officially a British council certified proficient user of English language. Get the right training from experienced tutors.
+						</h4>
 						<a class="btn btn--primary type--uppercase" href="ieltsReg.php">
                                     <span class="btn__text">
                                         GET A TUTOR
@@ -33,11 +33,12 @@
 			<div class="row">
 				<div class="col-sm-6">
 					<div class="switchable__text">
-						<h2>Designed for companies, small teams and freelancers</h2>
+						<h3 id="textStyle">TAKE CHARGE OF YOU LIFE.</h3>
 						<p class="lead">
-							Stack's visual style is simple yet distinct, making it an ideal starting point for your project whether it be a basic marketing site, or multi-page company presence.
+							Do you want to study, relocate or work outside the shores of Africa but your English proficiency exam is hindering you?<br>
 						</p>
-						<a href="#">Learn More &raquo;</a>
+
+						<!--<p class="lead" style="color:#0276FD">Let us help you get there.</p>-->
 					</div>
 				</div>
 				<div class="col-sm-6 col-md-4 col-xs-12 text-center">
@@ -58,11 +59,13 @@
 				<div class="col-sm-4">
 					<div class="feature feature-4 boxed boxed--lg boxed--border">
 						<i class="color--primary icon icon--lg icon-Life-Safer"></i>
-						<h4 id="textStyle">Academic scholarship</h4>
+						<h4 id="textStyle">For Study</h4>
 						<hr>
 						<p align="center">
-							Obtaining a good result in SAT exams opens up the possibility of
-							receiving academic scholarships from Universities who have that option.
+							If you are interested in studying abroad, remember that many universities
+							worldwide accept the IELTS test results. So if you are considering an Undergraduate or
+							Post graduate program you are one step close with your
+							IELTS test score and you also stand a chance of acquiring a scholarship.
 						</p>
 					</div>
 					<!--end feature-->
@@ -71,11 +74,13 @@
 				<div class="col-sm-4">
 					<div class="feature feature-4 boxed boxed--lg boxed--border">
 						<i class="color--primary icon icon--lg icon-Hand-Touch"></i>
-						<h4 id="textStyle">Admission to Universities </h4>
+						<h4 id="textStyle">For Work</h4>
 						<hr/>
-						<p style="margin-left: 30px;">
-							Most Universities especially those in the USA, requires the SAT test score as part of their admission requirement. The truth is that the higher your score,
-							the more chances you’ll have to be admitted especially to top universities because their admission process is more complex.
+						<p align="center">
+							Do you know Language skills are key to career success and are considered
+							a valuable asset in addition to all other requirements of any Job? Now you know.
+							Therefore for your work visa application in the following countries
+							(Uk, Australia, New Zealand, Canada) you need an IELTS test score.
 						</p>
 
 					</div>
@@ -85,11 +90,13 @@
 				<div class="col-sm-4">
 					<div class="feature feature-4 boxed boxed--lg boxed--border">
 						<i class="color--primary icon icon--lg icon-Life-Safer"></i>
-						<h4 id="textStyle">Academic scholarship</h4>
+						<h4 id="textStyle">For Immigration</h4>
 						<hr>
 						<p align="center">
-							Obtaining a good result in SAT exams opens up the possibility of
-							receiving academic scholarships from Universities who have that option.
+							Some government agencies use the IELTS exam as a part of their application
+							processes to obtain citizenship or the right to permanent residence.
+							Therefore they consider language proficiency to be strongly
+							related to people’s ability to integrate into the workplace and community.
 						</p>
 					</div>
 					<!--end feature-->
@@ -104,9 +111,9 @@
 		<div class="container">
 			<div class="row">
 				<div class="col-sm-10 col-sm-offset-1 col-md-8 col-md-offset-2">
-					<h2>All the tools you'll need</h2>
+					<h3 id="textStyle">Let us help you get there</h3>
 					<p class="lead">
-						Whether you’re building a welcome mat for your SaaS or a clean, corporate portfolio, Stack has your design needs covered.
+						Getting a scholarship to study in Top universities abroad is easier than you think
 					</p>
 				</div>
 			</div>
@@ -120,7 +127,7 @@
 				<div class="col-sm-4 col-md-3">
 					<h3>Experience quality</h3>
 					<p class="lead">
-						Stack is built with customization and ease-of-use at its core &mdash; whether you're a seasoned developer or just starting out, you'll be making attractive sites faster than any traditional HTML template.
+						Getting a scholarship to study in Top universities abroad is easier than you think
 					</p>
 				</div>
 				<div class="col-sm-4 col-md-4 col-md-offset-1">
@@ -204,31 +211,26 @@
 		<div class="container">
 			<div class="row">
 				<div class="col-md-7 col-sm-6">
-					<h2>Design-driven and perfect for modern startups</h2>
+					<h3>Let Us Help You Reach That Target Score With Our Experienced Tutors</h3>
 					<p class="lead">
-						Stack offers a clean and contemporary to suit a range of purposes from corporate, tech startup, marketing site to digital storefront.
+						No matter your reason for taking the IELTS exam, Travcut Tutors will help you achieve your goals
 					</p>
 					<div class="feature-large__group">
 						<div class="row">
-							<div class="col-sm-6">
-								<div class="feature feature-6">
-									<i class="icon icon--sm icon-Text-Effect color--primary"></i>
-									<h5>Design Quickly</h5>
-									<p>
-										Combine blocks from a range of categories to build pages that are rich in visual style and interactivity
-									</p>
-								</div>
+							<div class="col-sm-4">
+
+								<!--end feature-->
+							</div>
+							<div class="col-sm-2">
+								<a class="btn btn--primary type--uppercase" href="ieltsReg.php">
+                                    <span class="btn__text">
+                                        GET A TUTOR
+                                    </span>
+								</a>
 								<!--end feature-->
 							</div>
 							<div class="col-sm-6">
-								<div class="feature feature-6">
-									<i class="icon icon--sm icon-Post-Mail2 color--primary"></i>
-									<h5>Collect Leads</h5>
-									<p>
-										Stack comes with integration for Mail Chimp and Campaign Monitor forms - ideal for launching modern marketing campaigns
-									</p>
-								</div>
-								<!--end feature-->
+
 							</div>
 						</div>
 						<!--end of row-->
@@ -239,31 +241,7 @@
 		</div>
 		<!--end of container-->
 	</section>
-	<section class="space--xs">
-		<div class="container">
-			<div class="row">
-				<div class="cta cta--horizontal text-center-xs">
-					<div class="col-sm-4">
-						<h4>Let's get you started</h4>
-					</div>
-					<div class="col-sm-5">
-						<p class="lead">
-							Start building beautiful pages in your browser
-						</p>
-					</div>
-					<div class="col-sm-3 text-right text-center-xs">
-						<a class="btn btn--primary type--uppercase" href="ieltsReg.php">
-                                    <span class="btn__text">
-                                        GET A TUTOR
-                                    </span>
-						</a>
-					</div>
-				</div>
-			</div>
-			<!--end of row-->
-		</div>
-		<!--end of container-->
-	</section>
+
 
 	<section class="bg--secondary">
 		<h3 id="textStyle" align="center">FREQUENTLY ASKED QUESTIONS </h3><br/>

@@ -514,21 +514,21 @@
 									<label>What area do you require more help with?</label><br/>
 									<div class="col-sm-3">
 										<div class="input-radio">
-											<span class="input__label">Quantitative reasoning</span>
+											<span class="input__label">Speaking</span>
 											<input id="radio-input-1" type="checkbox" name="Speaking" value="Speaking" />
 											<label for="radio-input-1"></label>
 										</div>
 									</div>
 									<div class="col-sm-3">
 										<div class="input-radio">
-											<span class="input__label">Verbal reasoning</span>
+											<span class="input__label">Listening</span>
 											<input id="radio-input-2" type="checkbox" name="Listening" value="Listening" />
 											<label for="radio-input-2"></label>
 										</div>
 									</div>
 									<div class="col-sm-3">
 										<div class="input-radio">
-											<span class="input__label"> Analytical writing</span>
+											<span class="input__label"> Writing</span>
 											<input id="radio-input-3" type="checkbox" name="Writing" value="Writing" />
 											<label for="radio-input-3"></label>
 										</div>
@@ -536,7 +536,7 @@
 
 									<div class="col-sm-3">
 										<div class="input-radio">
-											<span class="input__label">integrated reasoning</span>
+											<span class="input__label">Reading</span>
 											<input id="radio-input-4" type="checkbox" name="Reading" value="Reading" />
 											<label for="radio-input-4"></label>
 										</div>
