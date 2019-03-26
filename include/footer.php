@@ -2,46 +2,38 @@
 
 	<div class="container">
 		<div class="row">
-			<div class="col-lg-2 col-sm-4 col-12">
+			<div class="col-lg-3 col-sm-4 col-12">
 				<h6 id="footerStyle">GET HELP</h6>
 				<ul>
-					<li><a class="link-hover" href="faq.php" id="footerList">Help and FAQ</a></li>
+					<li><a class="link-hover" href="index.php" id="footerList">Home</a></li>
 					<li><a class="link-hover" href="privacy.php" id="footerList">privacy</a></li>
 
 				</ul>
 			</div>
-			<div class="col-lg-2 col-sm-4 col-12">
+			<div class="col-lg-3 col-sm-4 col-12">
 				<h6 id="footerStyle">INFORMATION</h6>
 				<ul>
 					<li><a class="link-hover" href="about-us.php" id="footerList">About us</a></li>
-					<li><a class="link-hover" href="#" id="footerList">Our stores</a></li>
+					<li><a class="link-hover" href="index.php"  id="footerList" >Get a Tutor</a></li>
 
 				</ul>
 			</div>
-			<div class="col-lg-2 col-sm-4 col-12">
+			<div class="col-lg-3 col-sm-4 col-12">
 				<h6 id="footerStyle">MY ACCOUNT</h6>
 				<ul>
-					<li><a class="link-hover" href="#" id="footerList">My order</a></li>
-					<li><a class="link-hover" href="#" id="footerList">My wishlist</a></li>
+					<li><a class="link-hover" href="faq.php" id="footerList">Help and FAQ</a></li>
+					<li><a class="link-hover" href="tutorpage.php" id="footerList">Become a Tutor</a></li>
 
 				</ul>
 			</div>
-			<div class="col-lg-3 col-sm-6 col-12">
-				<h6 id="footerStyle">INSTAGRAM FEED</h6>
-				<ul class="instagram-feed">
-					<li><a href="#"><img src="http://via.placeholder.com/64x65" alt="Instagram image"></a></li>
-					<li><a href="#"><img src="http://via.placeholder.com/64x65" alt="Instagram image"></a></li>
-					<li><a href="#"><img src="http://via.placeholder.com/64x65" alt="Instagram image"></a></li>
-					<li><a href="#"><img src="http://via.placeholder.com/64x65" alt="Instagram image"></a></li>
-					<li><a href="#"><img src="http://via.placeholder.com/64x65" alt="Instagram image"></a></li>
-					<li><a href="#"><img src="http://via.placeholder.com/64x65" alt="Instagram image"></a></li>
-				</ul>
-			</div>
+
 			<div class="col-lg-3 col-sm-6 col-12 footer-contact">
 				<h6 id="footerStyle">CONTACT US</h6>
-				<p class="footer-address" id="footerList"><i class="fa fa-map-marker"></i>127 Sith Avenue, 54571 New York City </p>
-				<p class="footer-phone" id="footerList"><i class="fa fa-phone"></i>+49 123 456 789 </p>
-				<p class="footer-email" id="footerList"><span>@</span>info@prometium.com </p>
+				<p class="footer-address" id="footerList"><i class="fa fa-map-marker"></i>3-9 olu koleosho street Ikeja Lagos </p>
+				<p class="footer-phone" id="footerList"><i class="fa fa-phone"></i>+2348187220776 </p>
+				<p class="footer-phone" id="footerList"><i class="fa fa-whatsapp"></i>+2349068606770 </p>
+				<p class="footer-email" id="footerList"><span>Email:</span>info@travcutedu.com.ng</p>
+				<p class="footer-email" id="footerList"><span>Email:</span>admin@travcutedu.com.ng</p>
 			</div>
 		</div>
 	</div>
@@ -49,10 +41,10 @@
 	<div class="container">
 		<div class="row">
 			<div class="col-sm-2 col-md-2">
-				<h1 id="footerList"><a href="index.html"><img src="http://via.placeholder.com/37x36" id="footerList" alt="Prometium Logo"></a>Travcut</h1>
+				<h1 id="footerList"><a href="index.html"><img src="http://via.placeholder.com/37x36" id="footerList" alt="Travcut Logo"></a>Travcut</h1>
 			</div>
 			<div class="col-sm-7 col-md-7">
-				<p class="copyright text-center" id="footerList">Copyright 2017 &copy; <strong id="footerList">Travcut - Multi-purpose  | </strong> All Rights Reserved.</p>
+				<p class="copyright text-center" id="footerList">Copyright 2019 &copy; <strong id="footerList">Travcut - Multi-purpose  | </strong> All Rights Reserved.</p>
 			</div>
 			<div class="col-sm-3 col-md-3">
 				<div class="credit-info">

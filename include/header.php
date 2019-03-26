@@ -16,15 +16,94 @@
 	<link href="css/custom.css" rel="stylesheet" type="text/css" media="all" />
 	<link href="https://fonts.googleapis.com/css?family=Open+Sans:200,300,400,400i,500,600,700%7CMerriweather:300,300i" rel="stylesheet">
 	<link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
-
-
-
-
+	<link href="https://fonts.googleapis.com/css?family=Open+Sans:200,300,400,400i,500,600,700%7CMerriweather:300,300i" rel="stylesheet">
+	<link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+	<link href="https://fonts.googleapis.com/css?family=Dancing+Script" rel="stylesheet">
+	<link href="https://fonts.googleapis.com/css?family=Rancho" rel="stylesheet">
+	<link href="https://fonts.googleapis.com/css?family=Reenie+Beanie" rel="stylesheet">
+	<link href="https://fonts.googleapis.com/css?family=Goudy+Bookletter+1911" rel="stylesheet">
+	<link href="https://fonts.googleapis.com/css?family=Crimson+Text" rel="stylesheet">
+	<link href="https://fonts.googleapis.com/css?family=Rokkitt" rel="stylesheet">
+	<link href="https://fonts.googleapis.com/css?family=EB+Garamond" rel="stylesheet">
+	<link href="https://fonts.googleapis.com/css?family=Amatic+SC|EB+Garamond" rel="stylesheet">
+	<link href="https://fonts.googleapis.com/css?family=Amatic+SC|EB+Garamond|Vollkorn" rel="stylesheet">
+	<link href="https://fonts.googleapis.com/css?family=Assistant|Crimson+Text|Inconsolata|Nunito+Sans" rel="stylesheet">
 
 	<style>
 		#post{
 			position: relative;
 			cursor: pointer;
+		}
+
+		.font1{
+			font-family: 'Goudy Bookletter 1911';
+		}
+		#font1{
+			font-family: 'Goudy Bookletter 1911';
+		}
+
+		.font2{
+			font-family: 'Reenie Beanie';
+		}
+		#font2{
+			font-family: 'Reenie Beanie';
+		}
+
+
+
+		.font4{
+			font-family: 'Crimson Text';
+			font-size:22px;
+		}
+		#font4{
+			font-family: 'Crimson Text';
+			font-size:22px;
+		}
+
+		.font7{
+			font-family: 'Inconsolata', monospace;
+			font-size:19px;
+		}
+		#font7{
+			font-family: 'Inconsolata', monospace;
+			font-size:19px;
+		}
+
+
+		#font77{
+			font-family: 'Inconsolata', monospace;
+			font-size:19px;
+		}
+
+		#GmatText{
+			 font-family: 'Inconsolata', monospace;
+			 font-size:19px;
+		 }
+
+
+		#Toeflheader{
+			color:#0276FD;
+			font-weight: bold;
+			font-size: 28px;
+			font-family: 'Crimson Text';
+		}
+
+
+		#ToeflText{
+			font-family: 'Inconsolata', monospace;
+			font-size:19px;
+		}
+
+		#ieltsheader{
+			color:#0276FD;
+			font-weight: bold;
+			font-size: 28px;
+			font-family: 'Crimson Text';
+		}
+
+		#ieltsText{
+			font-family: 'Inconsolata', monospace;
+			font-size:19px;
 		}
 
 		#post:hover .post-s{
@@ -57,7 +136,54 @@
 		#header{
 			color:#0276FD;
 			font-weight: bold;
-			font-size: 22px;
+			font-size: 25px;
+			font-family: 'Crimson Text';
+		}
+
+		#Gmatheader{
+			color:#0276FD;
+			font-weight: bold;
+			font-size: 28px;
+			font-family: 'Crimson Text';
+		}
+
+		#Greheader{
+			color:#0276FD;
+			font-weight: bold;
+			font-size: 28px;
+			font-family: 'Crimson Text';
+		}
+
+		#GreText{
+			font-family: 'Inconsolata', monospace;
+			font-size:19px;
+		}
+
+		#Satheader{
+			color:#0276FD;
+			font-weight: bold;
+			font-size: 25px;
+			font-family: 'Crimson Text';
+		}
+
+		#SatText{
+			font-family: 'Inconsolata', monospace;
+			font-size:19px;
+		}
+
+		#faq{
+			color:#0276FD;
+			font-weight: bold;
+			font-family: 'Crimson Text';
+			color:#003eff;
+			font-size: 17px;
+		}
+
+		#header2{
+			color:#0276FD;
+			font-weight: bold;
+			font-size: 21px;
+			font-family: 'Crimson Text';
 		}
 
 		#textStyle{
@@ -67,11 +193,24 @@
 
 		#footerStyle{
 			color:white;
-			font-weight: bold;
+			font-family: 'Inconsolata', monospace;
+			font-size:18px;
 		}
 
 		#footerList{
 			color:antiquewhite;
+			font-family: 'Inconsolata', monospace;
+			font-size:16px;
+
+
+		}
+
+
+		.footerList{
+			color:antiquewhite;
+			font-family: 'Inconsolata', monospace;
+			font-size:16px;
+
 
 		}
 	</style>
@@ -86,8 +225,9 @@
 			<div class="row">
 				<div class="col-xs-3 col-sm-2">
 					<a href="index.php">
-						<img class="logo logo-dark" alt="logo" src="img/logo-dark.png" />
-						<img class="logo logo-light" alt="logo" src="img/logo-light.png" />
+					<!--	<img class="logo logo-dark" alt="logo" src="img/logo-dark.png" />
+						<img class="logo logo-light" alt="logo" src="img/logo-light.png" />-->
+						<h3 id="header">LOGO</h3>
 					</a>
 				</div>
 				<div class="col-xs-9 col-sm-10 text-right">
@@ -107,8 +247,9 @@
 				<div class="col-md-1 col-sm-2 hidden-xs">
 					<div class="bar__module">
 						<a href="index.php">
-							<img class="logo logo-dark" alt="logo" src="img/logo-dark.png" />
-							<img class="logo logo-light" alt="logo" src="img/logo-light.png" />
+							<!--<img class="logo logo-dark" alt="logo" src="img/logo-dark.png" />
+							<img class="logo logo-light" alt="logo" src="img/logo-light.png" />-->
+							<h3 id="header">LOGO</h3>
 						</a>
 					</div>
 					<!--end module-->
@@ -119,7 +260,7 @@
 
 						<a href="#">
 							<i class="socicon socicon-instagram icon icon--xs"></i>
-							<span class="btn-primary" style="color: white; font-size: 15px; margin-left: 10px; border-radius: 7px;">
+							<span class="btn-primary" style="color: white; margin-left: 10px; font-size: 17px; border-radius: 7px;" id="font1">
                                        +2348162977243
                                     </span>
 						</a>
@@ -127,7 +268,7 @@
 					<!--end module-->
 					<div class="modal-instance">
 						<a class="btn " href="tutorpage.php">
-                                    <span class="btn__text">
+                                    <span class="btn__text" id="font1">
                                         BECOME A TUTOR
                                     </span>
 						</a>

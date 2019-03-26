@@ -13,7 +13,7 @@
 					<div class="row">
 						<div class="col-sm-12">
 
-							<h3 style="margin-top: 80px;">
+							<h3 style="margin-top: 70px; color: white;" id="header">
 								OUR PRIVACY
 							</h3>
 
@@ -37,11 +37,11 @@
 
 	<div class="widget10 extend-wrap" style="margin-top: 70px;">
 		<p class="pretitle text-center" id="header">Privacy</p><br/>
-		<p style="margin-left: 120px;">	Your safety our priority</p>
-		<p style="margin-left: 120px;">
+		<p style="margin-left: 100px;" id="GreText">Your safety our priority<br/><br/>
 			We make your dreams become reality
 		</p>
-	</div>
+
+	</div><br/>
 
 
 	<section class="imageblock bg--secondary">
@@ -57,17 +57,17 @@
 				</div>
 
 				<div class="col-md-6 col-sm-6"><br/><br/><br/>
-					<h4 style="margin-top:-50px; color:#0276FD;">At Travcut tutor we ensure our tutors pass through tests and verifications to ensure your success and safety</h4>
-					<br/><h5 align="center">Verification process
+					<h4 style="margin-top:-50px;" id="header2">At Travcut tutor we ensure our tutors pass through tests and verifications to ensure your success and safety</h4>
+					<br/><h5 align="center" style="color: black;" id="header2">Verification process
 					</h5>
-					<p style="margin-top: -20px;" align="center">
+					<p style="margin-top: -20px;" align="center" id="GreText">
 						Background check
 					</p>
 
 
-					<br/><h5 align="center">Your safety our priority
+					<br/><h5 align="center" style="color: black;" id="header2">Your safety our priority
 					</h5>
-					<p style="margin-top: -20px;" align="center">
+					<p style="margin-top: -20px;" align="center" id="GreText">
 						ID verification
 					</p>
 				</div>
@@ -77,9 +77,9 @@
 		<!--end of container-->
 	</section>
 
-	<section class="switchable switchable--switch bg--secondary">
+	<section class="switchable switchable--switch bg--secondary" style="margin-top: -50px;">
 		<div class="container">
-			<h4 id="textStyle">
+			<h4 id="header2">
 				Part of the verification process involve verifying a Valid ID presented by the tutor and also connecting to their
 				social network platforms to confirm all details given.
 			</h4><br><br>
@@ -92,8 +92,8 @@
 								<span>1</span>
 							</div>
 							<div class="process__body">
-								<h4 id="textStyle">Quality</h4>
-								<p>
+								<h4 id="header2">Quality</h4>
+								<p id="GreText">
 									We ensure all our tutors are assessed to ensure their capacity
 								</p>
 							</div>
@@ -103,12 +103,12 @@
 								<span>2</span>
 							</div>
 							<div class="process__body">
-								<h4 id="textStyle">Guarantee</h4>
-								<p>
+								<h4 id="header2">Guarantee</h4>
+								<p id="GreText">
 									To ensure you get value for your money, you do not pay for a lesson until you’ve
 									found a perfect fit tutor that suits your need.
 								</p>
-								<p>
+								<p id="GreText">
 									In other to ensure transparency, at the end of each lesson section, a client reviews his tutor while the tutor also gives a feedback.
 								</p>
 							</div>
@@ -119,8 +119,8 @@
 								<span>2</span>
 							</div>
 							<div class="process__body">
-								<h4 id="textStyle">Personal details</h4>
-								<p>
+								<h4 id="header2">Personal details</h4>
+								<p id="GreText">
 									At Travcut tutor we ensure your details are secured at all times and never share them with third parties
 								</p>
 							</div>
@@ -131,11 +131,14 @@
 								<span>2</span>
 							</div>
 							<div class="process__body">
-								<h4 id="textStyle">Payment</h4>
-								All payments and transactions are done on a secured platform.<br/><br/>
+								<h4 id="header2">Payment</h4>
+								<p id="GreText">
+									All payments and transactions are done on a secured platform.<br/><br/>
 
-								Need any help, just contact us<br/>
-								We are always ready to help.
+									Need any help, just contact us<br/>
+									We are always ready to help.
+								</p>
+
 							</div>
 						</li>
 					</ol>
@@ -156,8 +159,8 @@
 
 
 
-	<br/><br/><br/><br/><br/><br/>
 
-	<?php require('include/footer2.php');?>
+
+	<?php require('include/footer.php');?>
 	</body>
 </html>

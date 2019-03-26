@@ -13,37 +13,37 @@
                             <div class="row">
                                 <div class="col-sm-12">
                             
-			                            <h3 style="margin-top: 80px;">
+			                            <h2 style="margin-top: 80px; font-weight: bold; color: white; font-size: 28px;" id="header">
 			                                More than 1.5 Million Students Have Said Hello to Stress-Free Studying
-			                            </h3>
+			                            </h2>
 
-			                            <p class="lead">
+			                            <p class="lead" style=" color: white; font-size: 20px;" id="header">
 			                 
 			                               Start preparing for your next test!
 			                            </p>
 			                            <a class="btn btn--primary type--uppercase">
-			                                <span class="btn__text">
+			                                <span class="btn__text" id="font1">
 			                                    GRE
 			                                </span>
 			                            </a>
 			                            <a class="btn btn--primary type--uppercase">
-			                                <span class="btn__text">
+			                                <span class="btn__text" id="font1">
 			                                    GMAT
 			                                </span>
 			                            </a>
 			                            <a class="btn btn--primary type--uppercase">
-			                                <span class="btn__text">
+			                                <span class="btn__text" id="font1">
 			                                   SAT
 			                                </span>
 			                            </a>
 
 			                             <a class="btn btn--primary type--uppercase">
-			                                <span class="btn__text">
+			                                <span class="btn__text" id="font1">
 			                                    TOEFL
 			                                </span>
 			                            </a>
 			                            <a class="btn btn--primary type--uppercase">
-			                                <span class="btn__text">
+			                                <span class="btn__text" id="font1">
 			                                    IELTS
 			                                </span>
 			                            </a>
@@ -59,12 +59,12 @@
                         </div>
                         <div class="container pos-vertical-center">
                             <div class="row">
-                                <div class="col-sm-12" style="margin-top: 80px;">
-                                	<h2>What do you want to Learn?</h2>
+                                <div class="col-sm-12" style="margin-top: 110px;">
+                                	<h2 style="font-weight:bold; font-weight: bold; color: white; font-size: 32px;" id="header">What do you want to Learn?</h2>
 
-                                   <div class="typed-headline">
-		                                <span class="h3 inline-block">Private Lessons with professional tutors of your choice.</span><br/>
-		                                <span class="h2 inline-block typed-text typed-text--cursor color--primary" data-typed-strings="Maths Tutors,English Tutors,Science Tutors"></span>
+                                   <div class="typed-headline" style="margin-top: 10px;">
+		                                <span class="h3 inline-block" id="font2" style="font-weight:bold; font-size: 25px;">Private Lessons with professional tutors of your choice.</span><br/>
+		                                <span id="font2" class="h2 inline-block typed-text typed-text--cursor" style="color: white" data-typed-strings="Maths Tutors,English Tutors,Science Tutors"></span>
 		                            </div>
                                    
                                 </div>
@@ -84,7 +84,7 @@
 	<div class="container">
 		<div class="widget widget1 text-center drag-this-up">
 			<h4 class="pretitle" id="header">Mission</h4>
-			<center><p>
+			<center><p id="font77">
 					To help African students who wish to study abroad get right scholarship
 					information and access to qualified tutors to help them with their examination preparation.
 
@@ -95,46 +95,9 @@
 
 
 
-	<!--<div class="container">
-		<div class="widget widget1 text-center drag-this-up">
-			<h4 class="pretitle" id="header">Getting a Professional Home Tutor is easier than you think</h4>
-			<center><p>Travcut tutor helps you bring your dreams to reality by providing you with the right<br/> assistance to ace your prep examinations.</p></center>
-			<div class="row" style="margin-top: 20px;">
-				<div class="col-md-4">
-					<div class="image-holder">
-						<img src="assets/img/banner-1-1.png" alt="Banner image">
-					</div>
-					<h6>Tell us your dreams.</h6>
-					<p>
-						Undergo counselling with professionals and let them tell you what you need to do to achieve that dream of yours.
-					</p>
-				</div>
-				<div class="col-md-4">
-					<div class="image-holder">
-						<img src="assets/img/banner-1-2.png" alt="Banner image">
-					</div>
-					<h6>Tutor Matching</h6>
-					<p>
-						We tell you the required exam to sit for and match you with an expert tutor to help you get your target score.
-					</p>
-				</div>
-				<div class="col-md-4">
-					<div class="image-holder">
-						<img src="assets/img/banner-1-3.png" alt="Banner image">
-					</div>
-					<h6>Admission Counselling</h6>
-					<p>
-						We link you to internal admission counsellors who can help you with your process.
-					</p>
-				</div>
-			</div>
-		</div>
-	</div>-->
-
-
 	<div class="widget10 extend-wrap" style="margin-top: 70px;">
-		<p class="pretitle text-center" id="header">Getting a Professional Home Tutor is easier than you think</p>
-		<center><p>Travcut tutor helps bring your dreams to reality by providing you with the right<br/>
+		<center><p class="pretitle" id="header">Getting a Professional Home Tutor is easier than you think</p>
+		<p id="font77">Travcut tutor helps bring your dreams to reality by providing you with the right<br/>
 				assistance to ace your prep examinations.
 			</p></center>
 
@@ -143,22 +106,22 @@
 			<div class="col-md-5">
 				<section class="text-left drag-this-right" style="margin-top: -60px;">
 					<img src="assets/img/side1.png" class="pull-left" alt="Widget image">
-					<h3 >Tell us your dreams.</h3>
-					<p>
+					<h3  id="header2">Tell us your dreams.</h3>
+					<p id="font77">
 						Undergo counselling with professionals and let us tell you what you need to do to achieve that dream of yours.
 					</p>
 				</section>
 				<section class="text-left drag-this-right" style="margin-top: -100px;">
 					<img src="assets/img/side2.png" class="pull-left" alt="Widget image">
-					<h3>Tutor Matching</h3>
-					<p>
+					<h3 id="header2">Tutor Matching</h3>
+					<p id="font77">
 						We tell you the required exam to sit for and match you with an expert tutor to help you get your target score.
 					</p>
 				</section>
 				<section class="text-left drag-this-right" style="margin-top: -100px;">
 					<img src="assets/img/side1.png" class="pull-left" alt="Widget image">
-					<h3>Admission Counselling</h3>
-					<p>
+					<h3 id="header2">Admission Counselling</h3>
+					<p id="font77">
 						International Admission counsellors will be there to help you with your process.
 					</p>
 				</section>
@@ -187,11 +150,11 @@
 					<div class="col-md-6 drag-this-right">
 						<h5 class="pretitle" id="header">Learn in the environment of your choice</h5>
 
-						<p class="maintext">
-							Do you feel you need help to boost your performance in your prep        examination? And you want it done in the comfort of your home? If so Travcut Tutor gives you the        opportunity to receive expert tutoring services by our tutors who are very effective and affordable and       can help you reach your target score.						</p>
+						<p class="maintext" id="font77">
+							Do you feel you need help to boost your performance in your prep examination? And you want it done in the comfort of your home? If so Travcut Tutor gives you the opportunity to receive expert tutoring services by our tutors who are very effective and affordable and       can help you reach your target score.						</p>
 
 
-						<p class="maintext">
+						<p class="maintext" id="font77">
 							We believe we can level the playing field by giving every student access to effective, affordable, and engaging test prep tools.Educators, find out how <br/> TOBA we can help your school improve test scores today!
 
 						</p>
@@ -248,8 +211,8 @@
 
 	<div class="container-fluid">
 		<div class="team pushtop-0">
-			<p class="pretitle text-center" id="header">EXAM PREPARATION</p>
-			<h5 class="text-center">Get more information on the Exam you wish to take.</h5>
+			<p class="pretitle text-center" id="header2">EXAM PREPARATION</p>
+			<h5 class="text-center" id="font77">Get more information on the Exam you wish to take.</h5>
 			<div class="row text-center">
 				<div class="col-md-1 col-sm-6">
 
@@ -258,7 +221,7 @@
 				<div class="col-md-2 col-sm-6" id="post">
 						<a href="gmat.php" style="color: gray; " class="link-hover"><div class="service-img-holder">
 								<img src="assets/img/new/education-2.jpg" alt="Services" style>
-							</div><p style="color:#0276FD;">GMAT</p>
+							</div><p style="color:#0276FD;" id="font1">GMAT</p>
 
 					<div class="post-s">
 						<p>Get 740+ and get the opportunity to school in top business schools like Harvard, Yale and NYU.</p>
@@ -271,7 +234,7 @@
 				<div class="col-md-2 col-sm-6" id="post">
 					<a href="sat.php" style="color: gray; " class="link-hover"><div class="service-img-holder">
 							<img src="assets/img/new/sixteen.jpg" alt="Services" style>
-						</div><p style="color:#0276FD;">SAT</p>
+						</div><p style="color:#0276FD;" id="font1">SAT</p>
 
 						<div class="post-s">
 							<p>With a SAT score of 2100+ you can qualify for a fully funded scholarships into universities like ……..</p>
@@ -285,7 +248,7 @@
 				<div class="col-md-2 col-sm-6" id="post">
 					<a href="gre.php" style="color: gray; " class="link-hover"><div class="service-img-holder">
 							<img src="assets/img/new/eight.jpg" alt="Services" style>
-						</div><p style="color:#0276FD;">GRE</p>
+						</div><p style="color:#0276FD;" id="font1">GRE</p>
 
 						<div class="post-s">
 							<p>With a GRE score of 2100+ you can qualify for assistantships programs which can involve free tuition and sometimes a monthly stipend.</p>
@@ -298,7 +261,7 @@
 				<div class="col-md-2 col-sm-6" id="post">
 					<a href="toefl.php" style="color: gray; " class="link-hover"><div class="service-img-holder">
 							<img src="assets/img/new/education-5.jpg" alt="Services" style>
-						</div><p style="color:#0276FD;">TOEFL</p>
+						</div><p style="color:#0276FD;" id="font1">TOEFL</p>
 
 						<div class="post-s">
 							<p>Did you think TOEFL was just to check your English proficiency level? With a TOEFL score of 100+ you can qualify for academic scholarships.</p>
@@ -312,7 +275,7 @@
 				<div class="col-md-2 col-sm-6" id="post">
 					<a href="ielts.php" style="color: gray; " class="link-hover"><div class="service-img-holder">
 							<img src="assets/img/new/education-7.jpg" alt="Services" style>
-						</div><p style="color:#0276FD;">IELTS</p>
+						</div><p style="color:#0276FD;" id="font1">IELTS</p>
 
 						<div class="post-s">
 							<p>Get 740+ and get the opportunity to school in top business schools like Harvard, Yale and NYU.</p>
@@ -331,14 +294,14 @@
 <br/><br/><br/>
 	<div class="about4" style="background-color: #0276FD">
 		<div class="container">
-			<h4 class="pretitle text-center" style="color: white; font-weight: bold; margin-top: 40px;">OUR SERVICES </h4>
+			<h4 class="pretitle text-center" style="color: white; font-weight: bold; margin-top: 40px;" id="header2">OUR SERVICES </h4>
 			<div class="row">
-				<div class="col-lg-6">
+				<div class="col-lg-5">
 
 					<section class="text-left drag-this-left" style="margin-top: -130px;">
 						<img src="assets/img/left1.png" class="pull-left" alt="Widget image">
-						<h5 style="color:white; font-weight: bold; margin-left: 70px; margin-top: 15px;">SCHOLARSHIP INFORMATION</h5>
-						<p style="color:antiquewhite;">
+						<h5 style="color:white; font-weight: bold; margin-left: 70px; margin-top: 15px;" id="font7">SCHOLARSHIP INFORMATION</h5>
+						<p style="color:antiquewhite;" id="font77">
 							Get scholarship information’s at your fingertips.
 						</p>
 					</section>
@@ -346,28 +309,27 @@
 					<section class="text-left drag-this-right" style="margin-top: -60px;">
 						<img src="assets/img/right2.png" class="pull-left" alt="Widget image">
 						<h5 style="color:white; font-weight: bold; margin-left: 70px; margin-top: 15px;">Stet clita ea et gubergren, kasd magna no rebum</h5>
-						<p style="color:antiquewhite;">
+						<p style="color:antiquewhite;" id="font77">
 							Bandit praesent luptatum zzril delenit augue duis dolore te feugait nulla facilis t quod mazim placerat famagna aliquam erat volutpat.
 						</p>
 					</section>
 				</div>
-				<!--<div class="col-lg-2 drag-this-up" style="margin-top: -60px;">
-					<img src="assets/img/ipad.png" alt="Widget image" class="img-fluid">
+				<div class="col-lg-2 drag-this-up">
 
-				</div>-->
-				<div class="col-lg-6">
+				</div>
+				<div class="col-lg-5">
 					<section class="text-left drag-this-left" style="margin-top: -140px;">
 						<img src="assets/img/left2.png" class="pull-left" alt="Widget image">
-						<h5 style="color:white; font-weight: bold; margin-left: 70px; margin-top: 15px;">ADMISSION COUNSELLING</h5>
-						<p style="color:antiquewhite;">
+						<h5 style="color:white; font-weight: bold; margin-left: 70px; margin-top: 15px;" id="font7">ADMISSION COUNSELLING</h5>
+						<p style="color:antiquewhite;" id="font77">
 							Our internal admission counsellors will assist you in your decision making.
 						</p>
 					</section>
 
 					<section class="text-left drag-this-right" style="margin-top: -70px;">
 						<img src="assets/img/right1.png" class="pull-left" alt="Widget image">
-						<h5 style="color:white; font-weight: bold; margin-left: 70px; margin-top: 15px;">ACADEMIC TUTORING</h5>
-						<p style="color:antiquewhite;">
+						<h5 style="color:white; font-weight: bold; margin-left: 70px; margin-top: 15px;" id="font7">ACADEMIC TUTORING</h5>
+						<p style="color:antiquewhite;" id="font77">
 							With our one on one tutoring session, students receive a 100% attention from out tutors and can learn at his/her
 							pace whether you need to understand from the scratch or fine tune your performance.
 						</p>
@@ -383,7 +345,7 @@
 
 	<div class="container" style="margin-top: 20px;">
 		<div class="widget partners drag-this-up text-center pushtop-70">
-			<p class="pretitle" id="header">STUDY IN THE COUNTRY OF YOUR CHOICE </p><br/><br/>
+			<p class="pretitle" id="header2">STUDY IN THE COUNTRY OF YOUR CHOICE </p><br/><br/>
 			<div class="row">
 				<div class="col-md-3 col-sm-6">
 					<div class="card" style="background-color: #0276FD">
@@ -420,15 +382,15 @@
 
 	<section class="text-center" style="margin-top: -400px;">
 		<div class="container">
-			<h3 id="textStyle" align="center" style="color: #0276FD; font-weight: bold;">GET A TUTOR IN THREE EASY STEPS</h3><br/><br/>
+			<h3 id="header2" align="center" style="color: #0276FD; font-weight: bold;">GET A TUTOR IN THREE EASY STEPS</h3><br/><br/>
 			<div class="row">
 				<div class="col-sm-4 col-xs-12" >
 					<div class="feature">
 						<div class="radial" data-value="77" data-size="208" data-bar-width="8" data-color="#0276FD">
-							<span class="h3 radial__label" style="color: black; font-weight: bold;">PLACE A REQUEST  </span>
+							<span id="font7" class="h3 radial__label" style="color: black; font-weight: bold;">Place a Request  </span>
 						</div>
 						<!--end radial-->
-						<p style="color:black">
+						<p style="color:black" id="font77">
 
 							Complete the online registration
 							by providing necessary
@@ -439,10 +401,10 @@
 				<div class="col-sm-4 col-xs-12">
 					<div class="feature">
 						<div class="radial" data-value="86" data-size="208" data-bar-width="8" data-color="#0276FD">
-							<span class="h3 radial__label" style="color: black; font-weight: bold;">GET A TUTOR</span>
+							<span id="font7" class="h3 radial__label" style="color: black; font-weight: bold;">Get a Tutor</span>
 						</div>
 						<!--end radial-->
-						<p style="color:black">
+						<p style="color:black" id="font77">
 
 							once your request has been
 							received, we connect you with
@@ -454,10 +416,10 @@
 				<div class="col-sm-4 col-xs-12">
 					<div class="feature">
 						<div class="radial" data-value="100" data-size="208" data-bar-width="8" data-color="#0276FD">
-							<span class="h3 radial__label" style="color: black; font-weight: bold;">START LESSON</span>
+							<span id="font7" class="h3 radial__label" style="color: black; font-weight: bold;">Start Lesson</span>
 						</div>
 						<!--end radial-->
-						<p style="color:black;">
+						<p style="color:black;" id="font77">
 
 							learning starts, getting
 							you closer to achieving
