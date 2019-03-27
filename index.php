@@ -22,28 +22,28 @@
 			                               Start preparing for your next test!
 			                            </p>
 			                            <a class="btn btn--primary type--uppercase">
-			                                <span class="btn__text" id="font1">
+			                                <span class="btn__text" id="font77" style="font-size: 14px;">
 			                                    GRE
 			                                </span>
 			                            </a>
 			                            <a class="btn btn--primary type--uppercase">
-			                                <span class="btn__text" id="font1">
+			                                <span class="btn__text" id="font77" style="font-size: 14px;">
 			                                    GMAT
 			                                </span>
 			                            </a>
 			                            <a class="btn btn--primary type--uppercase">
-			                                <span class="btn__text" id="font1">
+			                                <span class="btn__text" id="font77" style="font-size: 14px;">
 			                                   SAT
 			                                </span>
 			                            </a>
 
 			                             <a class="btn btn--primary type--uppercase">
-			                                <span class="btn__text" id="font1">
+			                                <span class="btn__text" id="font77" style="font-size: 14px;">
 			                                    TOEFL
 			                                </span>
 			                            </a>
 			                            <a class="btn btn--primary type--uppercase">
-			                                <span class="btn__text" id="font1">
+			                                <span class="btn__text" id="font77" style="font-size: 14px;">
 			                                    IELTS
 			                                </span>
 			                            </a>
@@ -63,7 +63,7 @@
                                 	<h2 style="font-weight:bold; font-weight: bold; color: white; font-size: 32px;" id="header">What do you want to Learn?</h2>
 
                                    <div class="typed-headline" style="margin-top: 10px;">
-		                                <span class="h3 inline-block" id="font2" style="font-weight:bold; font-size: 25px;">Private Lessons with professional tutors of your choice.</span><br/>
+		                                <span class="h3 inline-block" id="font77" style="font-weight:bold; font-size: 25px;">Private Lessons with professional tutors of your choice.</span><br/>
 		                                <span id="font2" class="h2 inline-block typed-text typed-text--cursor" style="color: white" data-typed-strings="Maths Tutors,English Tutors,Science Tutors"></span>
 		                            </div>
                                    
@@ -221,7 +221,7 @@
 				<div class="col-md-2 col-sm-6" id="post">
 						<a href="gmat.php" style="color: gray; " class="link-hover"><div class="service-img-holder">
 								<img src="assets/img/new/education-2.jpg" alt="Services" style>
-							</div><p style="color:#0276FD;" id="font1">GMAT</p>
+							</div><p style="color:#0276FD; font-size: 14px;" id="font77">GMAT</p>
 
 					<div class="post-s">
 						<p>Get 740+ and get the opportunity to school in top business schools like Harvard, Yale and NYU.</p>
@@ -234,7 +234,7 @@
 				<div class="col-md-2 col-sm-6" id="post">
 					<a href="sat.php" style="color: gray; " class="link-hover"><div class="service-img-holder">
 							<img src="assets/img/new/sixteen.jpg" alt="Services" style>
-						</div><p style="color:#0276FD;" id="font1">SAT</p>
+						</div><p style="color:#0276FD; font-size: 14px;" id="font77">SAT</p>
 
 						<div class="post-s">
 							<p>With a SAT score of 2100+ you can qualify for a fully funded scholarships into universities like ……..</p>
@@ -248,7 +248,7 @@
 				<div class="col-md-2 col-sm-6" id="post">
 					<a href="gre.php" style="color: gray; " class="link-hover"><div class="service-img-holder">
 							<img src="assets/img/new/eight.jpg" alt="Services" style>
-						</div><p style="color:#0276FD;" id="font1">GRE</p>
+						</div><p style="color:#0276FD; font-size: 14px;" id="font77">GRE</p>
 
 						<div class="post-s">
 							<p>With a GRE score of 2100+ you can qualify for assistantships programs which can involve free tuition and sometimes a monthly stipend.</p>
@@ -261,7 +261,7 @@
 				<div class="col-md-2 col-sm-6" id="post">
 					<a href="toefl.php" style="color: gray; " class="link-hover"><div class="service-img-holder">
 							<img src="assets/img/new/education-5.jpg" alt="Services" style>
-						</div><p style="color:#0276FD;" id="font1">TOEFL</p>
+						</div><p style="color:#0276FD; font-size: 14px;" id="font77">TOEFL</p>
 
 						<div class="post-s">
 							<p>Did you think TOEFL was just to check your English proficiency level? With a TOEFL score of 100+ you can qualify for academic scholarships.</p>
@@ -275,7 +275,7 @@
 				<div class="col-md-2 col-sm-6" id="post">
 					<a href="ielts.php" style="color: gray; " class="link-hover"><div class="service-img-holder">
 							<img src="assets/img/new/education-7.jpg" alt="Services" style>
-						</div><p style="color:#0276FD;" id="font1">IELTS</p>
+						</div><p style="color:#0276FD; font-size: 14px;" id="font77">IELTS</p>
 
 						<div class="post-s">
 							<p>Get 740+ and get the opportunity to school in top business schools like Harvard, Yale and NYU.</p>

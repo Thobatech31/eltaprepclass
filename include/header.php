@@ -28,7 +28,7 @@
 	<link href="https://fonts.googleapis.com/css?family=Amatic+SC|EB+Garamond" rel="stylesheet">
 	<link href="https://fonts.googleapis.com/css?family=Amatic+SC|EB+Garamond|Vollkorn" rel="stylesheet">
 	<link href="https://fonts.googleapis.com/css?family=Assistant|Crimson+Text|Inconsolata|Nunito+Sans" rel="stylesheet">
-
+	<link href="https://fonts.googleapis.com/css?family=Amatic+SC|EB+Garamond|Hind|Vollkorn" rel="stylesheet">
 	<style>
 		#post{
 			position: relative;
@@ -36,11 +36,11 @@
 		}
 
 		.font1{
-			font-family: 'Goudy Bookletter 1911';
-		}
+			font-family: 'Hind', sans-serif;
+}
 		#font1{
-			font-family: 'Goudy Bookletter 1911';
-		}
+			font-family: 'Hind', sans-serif;
+}
 
 		.font2{
 			font-family: 'Reenie Beanie';
@@ -52,32 +52,32 @@
 
 
 		.font4{
-			font-family: 'Crimson Text';
+			font-family: 'Hind', sans-serif;
 			font-size:22px;
 		}
 		#font4{
-			font-family: 'Crimson Text';
+			font-family: 'Hind', sans-serif;
 			font-size:22px;
 		}
 
 		.font7{
-			font-family: 'Inconsolata', monospace;
+			font-family: 'Hind', sans-serif;
 			font-size:19px;
 		}
 		#font7{
-			font-family: 'Inconsolata', monospace;
+			font-family: 'Hind', sans-serif;
 			font-size:19px;
 		}
 
 
 		#font77{
-			font-family: 'Inconsolata', monospace;
-			font-size:19px;
+			font-family: 'Hind', sans-serif;
+			font-size:18px;
 		}
 
 		#GmatText{
-			 font-family: 'Inconsolata', monospace;
-			 font-size:19px;
+			font-family: 'Hind', sans-serif;
+			font-size:19px;
 		 }
 
 
@@ -85,12 +85,12 @@
 			color:#0276FD;
 			font-weight: bold;
 			font-size: 28px;
-			font-family: 'Crimson Text';
-		}
+			font-family: 'Hind', sans-serif;
+			}
 
 
 		#ToeflText{
-			font-family: 'Inconsolata', monospace;
+			font-family: 'Hind', sans-serif;
 			font-size:19px;
 		}
 
@@ -98,11 +98,11 @@
 			color:#0276FD;
 			font-weight: bold;
 			font-size: 28px;
-			font-family: 'Crimson Text';
-		}
+			font-family: 'Hind', sans-serif;
+			}
 
 		#ieltsText{
-			font-family: 'Inconsolata', monospace;
+			font-family: 'Hind', sans-serif;
 			font-size:19px;
 		}
 
@@ -133,29 +133,37 @@
 
 			padding: 10px 30px;
 		}
+
 		#header{
 			color:#0276FD;
 			font-weight: bold;
 			font-size: 25px;
-			font-family: 'Crimson Text';
+			font-family: 'Hind', sans-serif;
+		}
+
+		#header2{
+			color:#0276FD;
+			font-weight: bold;
+			font-size: 21px;
+			font-family: 'Hind', sans-serif;
 		}
 
 		#Gmatheader{
 			color:#0276FD;
 			font-weight: bold;
 			font-size: 28px;
-			font-family: 'Crimson Text';
-		}
+			font-family: 'Hind', sans-serif;
+			}
 
 		#Greheader{
 			color:#0276FD;
 			font-weight: bold;
 			font-size: 28px;
-			font-family: 'Crimson Text';
-		}
+			font-family: 'Hind', sans-serif;
+			}
 
 		#GreText{
-			font-family: 'Inconsolata', monospace;
+			font-family: 'Hind', sans-serif;
 			font-size:19px;
 		}
 
@@ -163,28 +171,22 @@
 			color:#0276FD;
 			font-weight: bold;
 			font-size: 25px;
-			font-family: 'Crimson Text';
-		}
+			font-family: 'Hind', sans-serif;
+			}
 
 		#SatText{
-			font-family: 'Inconsolata', monospace;
+			font-family: 'Hind', sans-serif;
 			font-size:19px;
 		}
 
 		#faq{
 			color:#0276FD;
 			font-weight: bold;
-			font-family: 'Crimson Text';
+			font-family: 'Hind', sans-serif;
 			color:#003eff;
 			font-size: 17px;
 		}
 
-		#header2{
-			color:#0276FD;
-			font-weight: bold;
-			font-size: 21px;
-			font-family: 'Crimson Text';
-		}
 
 		#textStyle{
 			color:#0276FD;
@@ -193,13 +195,13 @@
 
 		#footerStyle{
 			color:white;
-			font-family: 'Inconsolata', monospace;
+			font-family: 'Hind', sans-serif;
 			font-size:18px;
 		}
 
 		#footerList{
 			color:antiquewhite;
-			font-family: 'Inconsolata', monospace;
+			font-family: 'Hind', sans-serif;
 			font-size:16px;
 
 
@@ -208,7 +210,7 @@
 
 		.footerList{
 			color:antiquewhite;
-			font-family: 'Inconsolata', monospace;
+			font-family: 'Hind', sans-serif;
 			font-size:16px;
 
 
@@ -259,8 +261,8 @@
 
 
 						<a href="#">
-							<i class="socicon socicon-instagram icon icon--xs"></i>
-							<span class="btn-primary" style="color: white; margin-left: 10px; font-size: 17px; border-radius: 7px;" id="font1">
+							<i class="fa fa-phone"></i>
+							<span class="btn-primary" style="color: white; margin-left: 10px; font-size: 15px; border-radius: 7px;" id="font77">
                                        +2348162977243
                                     </span>
 						</a>
@@ -268,7 +270,7 @@
 					<!--end module-->
 					<div class="modal-instance">
 						<a class="btn " href="tutorpage.php">
-                                    <span class="btn__text" id="font1">
+                                    <span class="btn__text" style="font-size: 13px;" id="font77">
                                         BECOME A TUTOR
                                     </span>
 						</a>
