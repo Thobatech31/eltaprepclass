@@ -4,7 +4,7 @@
 		<div class="row">
 			<div class="col-lg-3 col-sm-4 col-12">
 				<h6 id="footerStyle">Get to know us</h6>
-				<ul>
+				<ul style="margin-top: -25px;">
 					<li><a class="link-hover" href="index.php" id="footerList">Home</a></li>
 					<li><a class="link-hover" href="about-us.php" id="footerList">About us</a></li>
 
@@ -13,7 +13,7 @@
 			</div>
 			<div class="col-lg-3 col-sm-4 col-12">
 				<h6 id="footerStyle">Learn with us</h6>
-				<ul>
+				<ul style="margin-top: -10px;">
 					<li><a class="link-hover" href="privacy.php" id="footerList">privacy</a></li>
 					<li><a class="link-hover" href="#GetTutor" id="footerList">Get a Tutor</a></li>
 
@@ -21,7 +21,7 @@
 			</div>
 			<div class="col-lg-3 col-sm-4 col-12">
 				<h6 id="footerStyle">Work with us</h6>
-				<ul>
+				<ul style="margin-top: -10px;">
 					<li><a class="link-hover" href="faq.php" id="footerList">Help and FAQ</a></li>
 					<li><a class="link-hover" href="tutorpage.php" id="footerList">Become a Tutor</a></li>
 
@@ -30,7 +30,7 @@
 
 			<div class="col-lg-3 col-sm-6 col-12 footer-contact">
 				<h6 id="footerStyle">Contact Us</h6>
-				<p class="footer-address" id="footerList"><i class="fa fa-map-marker"></i>3-9 olu koleosho street Ikeja Lagos </p>
+				<p class="footer-address" id="footerList" style="margin-top: -10px;"><i class="fa fa-map-marker"></i>3-9 olu koleosho street Ikeja Lagos </p>
 				<p class="footer-phone" id="footerList"><i class="fa fa-phone"></i>+2348187220776 </p>
 				<p class="footer-phone" id="footerList"><i class="fa fa-whatsapp"></i>+2349068606770 </p>
 				<p class="footer-email" id="footerList"><span>Email:</span>info@travcutedu.com.ng</p>
@@ -38,8 +38,8 @@
 			</div>
 		</div>
 	</div>
-	<hr>
-	<div class="container">
+
+	<div class="container" style="margin-top: 10px;">
 		<div class="row">
 			<div class="col-sm-2 col-md-2">
 				<h1 id="footerList"><a href="index.html"><img src="http://via.placeholder.com/37x36" id="footerList" alt="Travcut Logo"></a>Travcut</h1>

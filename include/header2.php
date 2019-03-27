@@ -1,7 +1,7 @@
 <head>
 	<meta charset="utf-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1"/>
-	<title></title>
+	<title>Travcut.com</title>
 	<link rel="stylesheet" href="assets/lib/bootstrap/css/bootstrap.min.css">
 	<link rel="stylesheet" href="assets/lib/font-awesome/css/font-awesome.min.css">
 	<link rel="stylesheet" href="assets/lib/jquery-ui/jquery-ui.min.css">
@@ -43,40 +43,20 @@
 		}
 
 		.font1{
-			font-family: 'Goudy Bookletter 1911';
+						font-family: 'Hind', sans-serif;
+
 		}
 
 		#font1{
-			font-family: 'Goudy Bookletter 1911';
+						font-family: 'Hind', sans-serif;
+
 		}
 		#GreText{
-			font-family: 'Inconsolata', monospace;
+						font-family: 'Hind', sans-serif;
+
 			font-size:19px;
 		}
 
-		.font2{
-			font-family: 'Reenie Beanie';
-		}
-		#font2{
-			font-family: 'Reenie Beanie';
-		}
-
-		.font3{
-			font-family: 'Dancing Script';
-		}
-		#font3{
-			font-family: 'Dancing Script';
-		}
-
-
-		.font4{
-			font-family: 'Crimson Text';
-			font-size:22px;
-		}
-		#font4{
-			font-family: 'Crimson Text';
-			font-size:22px;
-		}
 
 		.font7{
 			font-family: 'Hind', sans-serif;
@@ -109,14 +89,16 @@
 			color:#0276FD;
 			font-weight: bold;
 			font-size: 28px;
-			font-family: 'Crimson Text';
+						font-family: 'Hind', sans-serif;
+
 		}
 
 		#Greheader{
 			color:#0276FD;
 			font-weight: bold;
 			font-size: 28px;
-			font-family: 'Crimson Text';
+						font-family: 'Hind', sans-serif;
+
 		}
 
 		#faq{
@@ -129,7 +111,8 @@
 
 
 		#GmatText{
-			font-family: 'Inconsolata', monospace;
+						font-family: 'Hind', sans-serif;
+
 			font-size:19px;
 		}
 

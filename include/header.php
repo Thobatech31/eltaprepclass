@@ -43,10 +43,12 @@
 }
 
 		.font2{
-			font-family: 'Reenie Beanie';
+						font-family: 'Hind', sans-serif;
+
 		}
 		#font2{
-			font-family: 'Reenie Beanie';
+						font-family: 'Hind', sans-serif;
+
 		}
 
 
