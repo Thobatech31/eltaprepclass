@@ -103,7 +103,7 @@
 
 		<div class="row" style="margin-top: 20px;">
 
-			<div class="col-md-5">
+			<div class="col-md-5 col-sm-12 col-xs-12">
 				<section class="text-left drag-this-right" style="margin-top: -60px;">
 					<img src="assets/img/side1.png" class="pull-left" alt="Widget image">
 					<h3  id="header2">Tell us your dreams.</h3>
@@ -127,7 +127,7 @@
 				</section>
 			</div>
 
-			<div class="col-md-7 drag-this-left">
+			<div class="col-md-7 col-sm-12 col-xs-12 drag-this-left">
 				<div class="app-feature-slick">
 					<img src="assets/img/new/four.jpg" alt="Slider image">
 
@@ -148,7 +148,7 @@
 						<img src="assets/img/about.png" class="img-fluid img-dashboard" alt="Widget image">
 					</div>
 					<div class="col-md-6 drag-this-right">
-						<h5 class="pretitle" id="header">Learn in the environment of your choice</h5>
+						<h5 class="pretitle" id="header"  style="margin-top:40px;">Learn in the environment of your choice</h5>
 
 						<p class="maintext" id="font77">
 							Do you feel you need help to boost your performance in your prep examination? And you want it done in the comfort of your home? If so Travcut Tutor gives you the opportunity to receive expert tutoring services by our tutors who are very effective and affordable and       can help you reach your target score.						</p>
