@@ -3,23 +3,24 @@
 	<div class="container">
 		<div class="row">
 			<div class="col-lg-3 col-sm-4 col-12">
-				<h6 id="footerStyle">GET HELP</h6>
+				<h6 id="footerStyle">Get to know us</h6>
 				<ul>
 					<li><a class="link-hover" href="index.php" id="footerList">Home</a></li>
-					<li><a class="link-hover" href="privacy.php" id="footerList">privacy</a></li>
-
-				</ul>
-			</div>
-			<div class="col-lg-3 col-sm-4 col-12">
-				<h6 id="footerStyle">INFORMATION</h6>
-				<ul>
 					<li><a class="link-hover" href="about-us.php" id="footerList">About us</a></li>
-					<li><a class="link-hover" href="index.php"  id="footerList" >Get a Tutor</a></li>
+
 
 				</ul>
 			</div>
 			<div class="col-lg-3 col-sm-4 col-12">
-				<h6 id="footerStyle">MY ACCOUNT</h6>
+				<h6 id="footerStyle">Learn with us</h6>
+				<ul>
+					<li><a class="link-hover" href="privacy.php" id="footerList">privacy</a></li>
+					<li><a class="link-hover" href="#GetTutor" id="footerList">Get a Tutor</a></li>
+
+				</ul>
+			</div>
+			<div class="col-lg-3 col-sm-4 col-12">
+				<h6 id="footerStyle">Work with us</h6>
 				<ul>
 					<li><a class="link-hover" href="faq.php" id="footerList">Help and FAQ</a></li>
 					<li><a class="link-hover" href="tutorpage.php" id="footerList">Become a Tutor</a></li>
@@ -28,7 +29,7 @@
 			</div>
 
 			<div class="col-lg-3 col-sm-6 col-12 footer-contact">
-				<h6 id="footerStyle">CONTACT US</h6>
+				<h6 id="footerStyle">Contact Us</h6>
 				<p class="footer-address" id="footerList"><i class="fa fa-map-marker"></i>3-9 olu koleosho street Ikeja Lagos </p>
 				<p class="footer-phone" id="footerList"><i class="fa fa-phone"></i>+2348187220776 </p>
 				<p class="footer-phone" id="footerList"><i class="fa fa-whatsapp"></i>+2349068606770 </p>
