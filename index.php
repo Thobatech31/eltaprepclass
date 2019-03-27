@@ -292,7 +292,7 @@
 		</div>
 	</div>
 <br/><br/><br/>
-	<div class="about4" style="background-color: #0276FD">
+	<div class="about4" style="background-color: #0276FD; padding-bottom: 50px;">
 		<div class="container">
 			<h4 class="pretitle text-center" style="color: white; font-weight: bold; margin-top: 40px;" id="header2">OUR SERVICES </h4>
 			<div class="row">
@@ -339,7 +339,14 @@
 
 
 
-			</div>
+
+
+			</div><br/><br/>
+			<center>
+				<h4 class="pretitle text-center" style="color: white; font-weight: bold; margin-top: -80px;" id="header2">Experienced in teaching? </h4><br/>
+				<a href="tutorpage.php" class="btn btn-default" id="font77" style="margin-top: ">Apply to tutor</a>
+			</center>
+
 		</div>
 	</div>
 
